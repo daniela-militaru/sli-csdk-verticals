@@ -1,7 +1,6 @@
 {
   "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
   "namespace": "Project.Retail-Media",
-  "references": ["Project.IndustryVerticals"],
   "items": {
     "includes": [
       {

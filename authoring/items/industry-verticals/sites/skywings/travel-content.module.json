@@ -1,7 +1,6 @@
 {
   "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
   "namespace": "Project.Travel-Content",
-  "references": ["Project.IndustryVerticals"],
   "items": {
     "includes": [
       {
