@@ -1,0 +1,19 @@
+---
+ID: "1720955f-a54a-485b-9b50-ce529496ce92"
+Parent: "4fed26dd-e358-465d-861a-d6578a66f7f2"
+Template: "96f4f856-2d4c-447d-a9e4-e15f42102e8f"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorIntro/Sectors"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    2c86d2ff-1b54-4312-8ffe-ccccd9098d3c
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "887c19d4-281f-4732-9cc3-23f291ae8a1f"
+      Hint: Body
+      Value: |
+        <p>Ashurst Perkins Coie supports clients in the sectors shaping the future economy from technology, energy and infrastructure, financial services and more.</p><p><a href="/sectors/financial-services">Financial Services</a></p><p><a href="/sectors/technology">Technology</a></p>

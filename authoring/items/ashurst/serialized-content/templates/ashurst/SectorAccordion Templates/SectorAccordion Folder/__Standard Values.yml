@@ -1,0 +1,23 @@
+---
+ID: "f6464f0c-6a5e-4ce9-adc1-6661476a4514"
+Parent: "cbf3ea82-415f-4055-b675-ba21858f0711"
+Template: "cbf3ea82-415f-4055-b675-ba21858f0711"
+Path: "/sitecore/templates/Project/ashurst/SectorAccordion Templates/SectorAccordion Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {F3F3A3BB-063A-4F28-B6A6-976192E2BF04}
+    {CBF3EA82-415F-4055-B675-BA21858F0711}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

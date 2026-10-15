@@ -1,0 +1,43 @@
+---
+ID: "b2ae171b-ef7b-4750-8547-87181ca900fd"
+Parent: "eab4a2ae-8a26-41ca-a35c-ae1f57d5cc94"
+Template: "d8e0c65f-c2d4-4ec4-ab59-65ec6d981db1"
+Path: "/sitecore/content/ashurst/ashurst/Data/KeyContacts/Financial Services"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    185a7aaa-2ef1-4e92-988a-c18bbb81c6ea
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06c2b4e5-eb98-4856-8a13-d4d3164ab8b3"
+      Hint: Title
+      Value: |
+        Meet our people
+    - ID: "acdb8ffa-5ad9-4388-b68f-b96b01090da3"
+      Hint: Contact1Name
+      Value: |
+        Lee Doyle
+    - ID: "a4b2416e-bc92-403d-9000-05b9ee7d4901"
+      Hint: Contact1Role
+      Value: |
+        Global Sector Leader, Financial Services · London · +44 20 7859 1837
+    - ID: "95932755-bf01-47af-b06e-d8f6fe7153cc"
+      Hint: Contact1Image
+      Value: |
+        <image mediaid="{BF53BA67-D974-48E8-9055-B845EF16380C}" />
+    - ID: "f09c9997-50b9-42d5-a9ae-3f6b0e5cc5ab"
+      Hint: Contact2Name
+      Value: |
+        J. Dax Hansen
+    - ID: "b16f6607-e15b-451a-a91b-002b2600bc71"
+      Hint: Contact2Role
+      Value: |
+        Global Sector Leader, Financial Services · Seattle · 206.359.6324
+    - ID: "b5c10dd2-b4b2-4a5e-b16f-4873f60983f5"
+      Hint: Contact2Image
+      Value: |
+        <image mediaid="{8C6720F5-9BA0-4134-A4F3-9982B388DCC4}" />

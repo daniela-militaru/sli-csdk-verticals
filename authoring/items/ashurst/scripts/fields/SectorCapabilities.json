@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Group1Title",
+    "title": "Group 1 title",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Group1Items",
+    "title": "Group 1 items",
+    "type": "Rich Text",
+    "sort": 310
+  },
+  {
+    "name": "Group2Title",
+    "title": "Group 2 title",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Group2Items",
+    "title": "Group 2 items",
+    "type": "Rich Text",
+    "sort": 410
+  },
+  {
+    "name": "Group3Title",
+    "title": "Group 3 title",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Group3Items",
+    "title": "Group 3 items",
+    "type": "Rich Text",
+    "sort": 510
+  },
+  {
+    "name": "Group4Title",
+    "title": "Group 4 title",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Group4Items",
+    "title": "Group 4 items",
+    "type": "Rich Text",
+    "sort": 610
+  },
+  {
+    "name": "Group5Title",
+    "title": "Group 5 title",
+    "type": "Single-Line Text",
+    "sort": 700
+  },
+  {
+    "name": "Group5Items",
+    "title": "Group 5 items",
+    "type": "Rich Text",
+    "sort": 710
+  },
+  {
+    "name": "Group6Title",
+    "title": "Group 6 title",
+    "type": "Single-Line Text",
+    "sort": 800
+  },
+  {
+    "name": "Group6Items",
+    "title": "Group 6 items",
+    "type": "Rich Text",
+    "sort": 810
+  },
+  {
+    "name": "Group7Title",
+    "title": "Group 7 title",
+    "type": "Single-Line Text",
+    "sort": 900
+  },
+  {
+    "name": "Group7Items",
+    "title": "Group 7 items",
+    "type": "Rich Text",
+    "sort": 910
+  }
+]

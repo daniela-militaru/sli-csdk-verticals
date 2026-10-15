@@ -1,0 +1,17 @@
+---
+ID: "92d697e8-3e38-4b11-89e1-3bdab90a7376"
+Parent: "f3f3a3bb-063a-4f28-b6a6-976192e2bf04"
+Template: "f3f3a3bb-063a-4f28-b6a6-976192e2bf04"
+Path: "/sitecore/templates/Project/ashurst/SectorAccordion Templates/SectorAccordion/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

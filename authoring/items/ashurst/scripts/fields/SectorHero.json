@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Eyebrow",
+    "title": "Eyebrow",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Intro",
+    "title": "Intro",
+    "type": "Rich Text",
+    "sort": 300
+  },
+  {
+    "name": "Image",
+    "title": "Image",
+    "type": "Image",
+    "sort": 400
+  }
+]

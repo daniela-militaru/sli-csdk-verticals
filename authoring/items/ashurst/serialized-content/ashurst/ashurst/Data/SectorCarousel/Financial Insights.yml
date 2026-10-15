@@ -1,0 +1,119 @@
+---
+ID: "5788e1c8-0a10-4907-8fe4-ecbfae2f6ed5"
+Parent: "2cafa16a-3163-41a1-bf2a-07d17ebf40af"
+Template: "0f06837c-c537-4b1c-8c9e-3c8a62de36b0"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorCarousel/Financial Insights"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    492f6cbe-978e-4ab4-857c-13bc2eaef91a
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c59c6160-4f88-45da-8109-edca89bb293b"
+      Hint: Title
+      Value: |
+        Related insights
+    - ID: "5e3967c8-06a1-42a0-931f-f6346343b3ee"
+      Hint: ViewAll
+      Value: |
+        <link text="View all" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "3248c4b9-be34-43f5-98b6-f398eed6d5d5"
+      Hint: Card1Tag
+      Value: |
+        Legal development
+    - ID: "a0cd281d-2b7f-48b3-8ac7-b367cbc7d63a"
+      Hint: Card1Title
+      Value: |
+        Data Bytes 69: Your EMEA Data Privacy Update for October 2026
+    - ID: "06e8e43a-ef9f-4984-b855-168bd3291317"
+      Hint: Card1Date
+      Value: |
+        October 15, 2026
+    - ID: "bca0c615-ab75-4424-8374-b43b31262bed"
+      Hint: Card1Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "6587364a-8300-4653-a0ed-8ac16c49f4c8"
+      Hint: Card2Tag
+      Value: |
+        Legal development
+    - ID: "ea259628-d0b1-446a-855d-d738ed3c0379"
+      Hint: Card2Title
+      Value: |
+        Can you de-bank on ML/TF risk? Lessons from recent cases
+    - ID: "cb5f992e-9f91-42f8-935d-e2b02f894a7b"
+      Hint: Card2Date
+      Value: |
+        October 15, 2026
+    - ID: "c6e3f12d-6837-4c6f-9aa3-b0e91112a156"
+      Hint: Card2Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "0fc966b4-f72d-440d-9fb6-252d60380400"
+      Hint: Card3Tag
+      Value: |
+        Legal development
+    - ID: "e4158310-749f-4750-ae8c-9f70502eb66b"
+      Hint: Card3Title
+      Value: |
+        Antitrust and Competition newsletter: Q3 2026
+    - ID: "186ed7ba-6e7f-46f7-8fd5-cbb2ce937434"
+      Hint: Card3Date
+      Value: |
+        October 15, 2026
+    - ID: "e225a3d5-9962-4195-b5ba-3c21374ad296"
+      Hint: Card3Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "007aff0f-1560-451b-be91-2ab581947182"
+      Hint: Card4Tag
+      Value: |
+        Legal development
+    - ID: "baeff24b-87b7-4217-b29a-c9449f7687f3"
+      Hint: Card4Title
+      Value: |
+        Debt Capital Markets Update Q3 2026
+    - ID: "67b29ef4-b696-4868-a898-5558bada42ad"
+      Hint: Card4Date
+      Value: |
+        October 12, 2026
+    - ID: "5d1ff310-819a-466d-bc92-bd8954f94e67"
+      Hint: Card4Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "325a5ec4-53e5-4608-b5cd-e19bbc5826bc"
+      Hint: Card5Tag
+      Value: |
+        Legal development
+    - ID: "63442785-6c4c-426a-b653-7ba7f8e3589f"
+      Hint: Card5Title
+      Value: |
+        CMA Merger Watch: UK merger control quarterly update (Q3 2026)
+    - ID: "fdc7eeff-27ed-424d-a52f-30bf72670771"
+      Hint: Card5Date
+      Value: |
+        October 09, 2026
+    - ID: "71440863-52a2-4cc9-93b0-ad279037fad4"
+      Hint: Card5Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "ec7a7ee5-4a1e-4e86-ae67-f4093b5db84b"
+      Hint: Card6Tag
+      Value: |
+        Legal development
+    - ID: "ffcc3b0c-b8ac-4f3b-a875-69ec2e23972c"
+      Hint: Card6Title
+      Value: |
+        Financial Services SpeedRead: 8 October 2026 edition
+    - ID: "c666e474-05bc-4747-9e4d-e594a39e6290"
+      Hint: Card6Date
+      Value: |
+        October 08, 2026
+    - ID: "1b6044f3-7e45-4e9c-92d9-137edc3c1403"
+      Hint: Card6Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />

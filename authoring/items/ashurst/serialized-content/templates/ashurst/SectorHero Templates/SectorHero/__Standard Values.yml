@@ -1,0 +1,17 @@
+---
+ID: "ea580e7c-92a1-4de7-b29e-093d502c553a"
+Parent: "1e592e2d-563f-4bd1-86b5-a3bbd02c5e4a"
+Template: "1e592e2d-563f-4bd1-86b5-a3bbd02c5e4a"
+Path: "/sitecore/templates/Project/ashurst/SectorHero Templates/SectorHero/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

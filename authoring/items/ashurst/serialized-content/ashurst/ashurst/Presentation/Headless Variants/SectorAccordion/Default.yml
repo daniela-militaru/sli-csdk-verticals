@@ -1,0 +1,18 @@
+---
+ID: "5d759453-9c8b-4af8-b8aa-57ee6da06a78"
+Parent: "84c9dbe1-d189-4659-a609-9aeced37541f"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Headless Variants/SectorAccordion/Default"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    7ac0178f-9877-41d2-8466-450c24ac8796
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T160000Z

@@ -1,0 +1,17 @@
+---
+ID: "9cf9e327-1fd1-4dc5-959b-ef4444cbdec4"
+Parent: "98b9869c-cac7-4f03-add1-6663955e73d4"
+Template: "98b9869c-cac7-4f03-add1-6663955e73d4"
+Path: "/sitecore/templates/Project/ashurst/SectorCapabilities Templates/SectorCapabilities Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

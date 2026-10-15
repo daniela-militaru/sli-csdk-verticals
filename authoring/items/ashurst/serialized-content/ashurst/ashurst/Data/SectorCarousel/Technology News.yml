@@ -1,0 +1,55 @@
+---
+ID: "cfb68e04-24a3-47a2-91da-c437199544af"
+Parent: "2cafa16a-3163-41a1-bf2a-07d17ebf40af"
+Template: "0f06837c-c537-4b1c-8c9e-3c8a62de36b0"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorCarousel/Technology News"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    7e1705a0-737e-466a-a577-66046006cc1d
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c59c6160-4f88-45da-8109-edca89bb293b"
+      Hint: Title
+      Value: |
+        Related news
+    - ID: "5e3967c8-06a1-42a0-931f-f6346343b3ee"
+      Hint: ViewAll
+      Value: |
+        <link text="View all" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "3248c4b9-be34-43f5-98b6-f398eed6d5d5"
+      Hint: Card1Tag
+      Value: |
+        News
+    - ID: "a0cd281d-2b7f-48b3-8ac7-b367cbc7d63a"
+      Hint: Card1Title
+      Value: |
+        Ashurst Perkins Coie advises Heidi on US$100m Series C financing and US$240 million growth facility
+    - ID: "06e8e43a-ef9f-4984-b855-168bd3291317"
+      Hint: Card1Date
+      Value: |
+        October 07, 2026
+    - ID: "bca0c615-ab75-4424-8374-b43b31262bed"
+      Hint: Card1Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "6587364a-8300-4653-a0ed-8ac16c49f4c8"
+      Hint: Card2Tag
+      Value: |
+        News
+    - ID: "ea259628-d0b1-446a-855d-d738ed3c0379"
+      Hint: Card2Title
+      Value: |
+        Ashurst Perkins Coie advises PX3 Partners on acquisition of Purified Air
+    - ID: "cb5f992e-9f91-42f8-935d-e2b02f894a7b"
+      Hint: Card2Date
+      Value: |
+        October 06, 2026
+    - ID: "c6e3f12d-6837-4c6f-9aa3-b0e91112a156"
+      Hint: Card2Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />

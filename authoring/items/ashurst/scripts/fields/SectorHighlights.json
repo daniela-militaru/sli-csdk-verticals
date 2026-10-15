@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Card1Kicker",
+    "title": "Card 1 kicker",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Card1Title",
+    "title": "Card 1 title",
+    "type": "Single-Line Text",
+    "sort": 310
+  },
+  {
+    "name": "Card1Body",
+    "title": "Card 1 body",
+    "type": "Rich Text",
+    "sort": 320
+  },
+  {
+    "name": "Card2Kicker",
+    "title": "Card 2 kicker",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Card2Title",
+    "title": "Card 2 title",
+    "type": "Single-Line Text",
+    "sort": 410
+  },
+  {
+    "name": "Card2Body",
+    "title": "Card 2 body",
+    "type": "Rich Text",
+    "sort": 420
+  },
+  {
+    "name": "Card3Kicker",
+    "title": "Card 3 kicker",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Card3Title",
+    "title": "Card 3 title",
+    "type": "Single-Line Text",
+    "sort": 510
+  },
+  {
+    "name": "Card3Body",
+    "title": "Card 3 body",
+    "type": "Rich Text",
+    "sort": 520
+  }
+]

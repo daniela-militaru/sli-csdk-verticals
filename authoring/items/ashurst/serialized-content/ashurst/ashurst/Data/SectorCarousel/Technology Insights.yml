@@ -1,0 +1,87 @@
+---
+ID: "195397fe-57b1-49a8-a4d5-384a6026e144"
+Parent: "2cafa16a-3163-41a1-bf2a-07d17ebf40af"
+Template: "0f06837c-c537-4b1c-8c9e-3c8a62de36b0"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorCarousel/Technology Insights"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    4ad14420-1c5f-4397-95b0-6b5b1fe34fe7
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c59c6160-4f88-45da-8109-edca89bb293b"
+      Hint: Title
+      Value: |
+        Related insights
+    - ID: "5e3967c8-06a1-42a0-931f-f6346343b3ee"
+      Hint: ViewAll
+      Value: |
+        <link text="View all" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "3248c4b9-be34-43f5-98b6-f398eed6d5d5"
+      Hint: Card1Tag
+      Value: |
+        Legal development
+    - ID: "a0cd281d-2b7f-48b3-8ac7-b367cbc7d63a"
+      Hint: Card1Title
+      Value: |
+        An eye on tomorrow: Legal tech is going from niche to norm
+    - ID: "06e8e43a-ef9f-4984-b855-168bd3291317"
+      Hint: Card1Date
+      Value: |
+        September 30, 2026
+    - ID: "bca0c615-ab75-4424-8374-b43b31262bed"
+      Hint: Card1Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "6587364a-8300-4653-a0ed-8ac16c49f4c8"
+      Hint: Card2Tag
+      Value: |
+        Legal development
+    - ID: "ea259628-d0b1-446a-855d-d738ed3c0379"
+      Hint: Card2Title
+      Value: |
+        EU Data Act and Data Governance Act: cornerstones of new data ecosystems
+    - ID: "cb5f992e-9f91-42f8-935d-e2b02f894a7b"
+      Hint: Card2Date
+      Value: |
+        May 15, 2026
+    - ID: "c6e3f12d-6837-4c6f-9aa3-b0e91112a156"
+      Hint: Card2Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "0fc966b4-f72d-440d-9fb6-252d60380400"
+      Hint: Card3Tag
+      Value: |
+        Legal development
+    - ID: "e4158310-749f-4750-ae8c-9f70502eb66b"
+      Hint: Card3Title
+      Value: |
+        The kids are online: what Australia's Children's Online Privacy Code means for you
+    - ID: "186ed7ba-6e7f-46f7-8fd5-cbb2ce937434"
+      Hint: Card3Date
+      Value: |
+        May 08, 2026
+    - ID: "e225a3d5-9962-4195-b5ba-3c21374ad296"
+      Hint: Card3Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "007aff0f-1560-451b-be91-2ab581947182"
+      Hint: Card4Tag
+      Value: |
+        Business Insight
+    - ID: "baeff24b-87b7-4217-b29a-c9449f7687f3"
+      Hint: Card4Title
+      Value: |
+        Frontier cyber AI: Be alert, but no need to panic if you take action now
+    - ID: "67b29ef4-b696-4868-a898-5558bada42ad"
+      Hint: Card4Date
+      Value: |
+        April 15, 2026
+    - ID: "5d1ff310-819a-466d-bc92-bd8954f94e67"
+      Hint: Card4Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />

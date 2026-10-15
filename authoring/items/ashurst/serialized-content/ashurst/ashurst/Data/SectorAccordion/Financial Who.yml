@@ -1,0 +1,67 @@
+---
+ID: "333ab0f3-1e8e-4a6d-b168-d631ca6ccfc9"
+Parent: "42b0ea5d-7f43-4aef-a64c-0475fd53f430"
+Template: "f3f3a3bb-063a-4f28-b6a6-976192e2bf04"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorAccordion/Financial Who"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    133986eb-a2c2-4ee0-9259-ff6fac7f46c6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f5db28af-eebd-4939-bbfb-f0fa51d1b650"
+      Hint: Title
+      Value: |
+        Who we help
+    - ID: "24c6dcef-9243-4835-a768-b1ee2c8b336f"
+      Hint: Item1Title
+      Value: |
+        Banks
+    - ID: "e9e9f289-9477-4d87-86fb-e570aade8fc8"
+      Hint: Item1Teaser
+      Value: |
+        
+    - ID: "059be3fc-ec8f-4584-8bd6-c9b8a1058779"
+      Hint: Item1Body
+      Value: |
+        <p>Our industry-leading practice serves clients across the full range of transactional, regulatory, and strategic issues shaping the sector. We act on complex multijurisdictional financings, capital markets mandates, and M&A transactions while advising on prudential and conduct requirements, supervisory engagement, recovery and resolution planning, enforcement defense, and the increasingly digital regulatory environment.</p><p>We work with banks as they structure, capitalize, and operate across varied jurisdictions, transform technology infrastructure, develop digital asset strategies, and respond to operational resilience requirements. Our practice spans the world’s major financial centers, including London, New York, Hong Kong, Singapore, Dubai, Frankfurt, Paris, Tokyo, and Sydney. We act for lenders and borrowers, issuers and investors, regulated institutions, counterparties, nonbank lenders, and specialty finance clients. Our team supports licensing, market entry, product structuring, funding arrangements, and ongoing compliance across the United States, the United Kingdom, Europe, Asia-Pacific, and the Middle East, combining legal advice, risk consulting, and advanced legal technology.</p>
+    - ID: "58c4f3a2-2d46-4597-8332-b50786010a05"
+      Hint: Item2Title
+      Value: |
+        Blockchain and digital assets
+    - ID: "e38e1a79-4981-4863-aeca-d7b5a4fd32b3"
+      Hint: Item2Teaser
+      Value: |
+        
+    - ID: "fdfd2bcd-838f-4be7-a65e-106d62fbc542"
+      Hint: Item2Body
+      Value: |
+        <p>We have been shaping the blockchain and digital asset industry since 2010, when the industry players could all fit in one room.</p><p>Our market-leading digital assets and blockchain practice advises across the full spectrum of legal complexity. We are go-to advisers for regulatory classification, licensing strategy, product structuring, and custody frameworks. When stakes are high, we advocate for our clients in regulatory enforcement matters and disputes. We serve established financial institutions entering the digital asset market and native digital asset businesses scaling into regulated environments.</p>
+    - ID: "ace72ef3-03bc-49be-a35b-ca07b16f93bf"
+      Hint: Item3Title
+      Value: |
+        Investment and asset management
+    - ID: "dbf562af-6148-44d3-a6a1-2422afff5a8b"
+      Hint: Item3Teaser
+      Value: |
+        
+    - ID: "bc6fa71b-3b58-4015-9ac0-5ae0f7ceb672"
+      Hint: Item3Body
+      Value: |
+        <p>We represent an array of clients, from investment funds to financial institutions and the corporate treasurers of public corporations, in the negotiation of intricate trading documentation with dealer counterparties. We also support clients from origination through execution, including post-trade compliance and dispute resolution. Our team includes lawyers who focus on tax, ERISA, and securities enforcement, offering experienced advice about regulatory and enforcement matters. Our experience covers equity capital markets, debt capital markets, structured finance, derivatives, leveraged finance, and securitization.</p><p>We advise on fund formation and structuring, M&A and portfolio transactions, and cross-border investment strategies across private equity, private credit, infrastructure, and real assets.</p>
+    - ID: "2bbc5b10-f6e5-47a2-b154-ad816816c759"
+      Hint: Item4Title
+      Value: |
+        Fintech, payments, and infrastructure
+    - ID: "e9432518-8eb2-4df9-ab9b-e7effb7783e1"
+      Hint: Item4Teaser
+      Value: |
+        
+    - ID: "3ee424e4-88c8-4f1e-ba74-bf71dd6a0082"
+      Hint: Item4Body
+      Value: |
+        <p>Our integrated team combines experience across financial regulation, technology and commercial transactions, IP, cybersecurity, data privacy, and capital markets. This breadth enables us to provide holistic advice that helps clients innovate in a way that is compliant, sustainable, and operationally effective. We do not simply respond to regulatory change; we anticipate it, engaging actively with regulators, policymakers, and industry bodies to provide the forward-looking insight clients need to stay ahead.</p><p>We advise fintechs focusing on payments and infrastructure, assisting with licensing and regulatory authorization, product structuring, and bank and scheme partnerships, as well as consumer protection compliance and cross-border expansion. Our cross-disciplinary team advises clients at the intersection of payment systems and market infrastructure, bringing practical insight into the operational design, governance frameworks, contractual structures, and technology systems that support these complex ecosystems.</p>

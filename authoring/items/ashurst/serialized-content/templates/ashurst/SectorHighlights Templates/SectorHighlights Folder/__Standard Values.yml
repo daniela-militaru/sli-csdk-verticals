@@ -1,0 +1,23 @@
+---
+ID: "d09c6732-0d39-4d1b-a2bc-8a0fe0a68e52"
+Parent: "53babc87-70df-433d-bc92-98c243126cfc"
+Template: "53babc87-70df-433d-bc92-98c243126cfc"
+Path: "/sitecore/templates/Project/ashurst/SectorHighlights Templates/SectorHighlights Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {121F035C-EC7A-4656-A580-27F8D44DEDF2}
+    {53BABC87-70DF-433D-BC92-98C243126CFC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

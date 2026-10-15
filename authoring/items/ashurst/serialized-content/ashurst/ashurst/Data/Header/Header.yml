@@ -44,6 +44,14 @@ Languages:
       Hint: InsightsLink
       Value: |
         <link text="Insights" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "ec8f92c8-575e-4971-9b53-d418d313aa08"
+      Hint: FinancialServicesLink
+      Value: |
+        <link text="Financial Services" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E917968F-D16E-425A-BE3E-CD5F69C381AB}" />
+    - ID: "3869e3e5-726c-44c9-b9fa-8ad604ed6960"
+      Hint: TechnologyLink
+      Value: |
+        <link text="Technology" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7B00EBE8-3393-4046-A4E3-B4E63C28F2E7}" />
     - ID: "5529435c-d038-4d8d-8594-3d1e2365ac82"
       Hint: LocationsLabel
       Value: |

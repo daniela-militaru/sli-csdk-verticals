@@ -1,6 +1,6 @@
 # Ashurst Perkins Coie
 
-Law-firm demo that follows the public Ashurst Perkins Coie site. The first pages are the homepage, the all-insights listing, and a few insight articles so search can be shown.
+Law-firm demo that follows the public Ashurst Perkins Coie site. Pages so far are the homepage, the all-insights listing, three insight articles, and the Financial Services and Technology sector pages.
 
 | | |
 | --- | --- |
@@ -20,6 +20,8 @@ Reference pages:
 - https://www.ashurstperkinscoie.com/en/insights/data-bytes-au-key-australian-privacy-updates-so-far-in-2026/
 - https://www.ashurstperkinscoie.com/en/insights/what-public-companies-need-to-know-about-the-sec-innovation-exemption-for-tokenized-stock/
 - https://www.ashurstperkinscoie.com/en/insights/asics-first-comprehensive-review-of-sustainability-reports/
+- https://www.ashurstperkinscoie.com/en/sectors/financial-services/
+- https://www.ashurstperkinscoie.com/en/sectors/technology/
 
 Run locally after `.env.local` is filled from Deploy portal Developer settings:
 

@@ -1,0 +1,18 @@
+---
+ID: "53fab765-6a56-47c9-a881-60e12ff2874f"
+Parent: "dd0366c3-7393-44b6-9b69-d70f506618be"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Headless Variants/SectorCapabilities"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    6e405654-e145-4ee7-8a47-9b65f97c5a19
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T160000Z

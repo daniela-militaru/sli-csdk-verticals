@@ -1,0 +1,75 @@
+---
+ID: "7b00ebe8-3393-4046-a4e3-b4e63c28f2e7"
+Parent: "d499d7ba-1def-4487-a7e0-ade549433747"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/sectors/technology"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{03A7C1E7-A785-439C-AD6A-CF3548F268DA}"
+              p:before="*"
+              s:ds="c025cc47-2831-49ab-8f38-432abbf2c629"
+              s:id="{2E80F598-5A9C-48F6-B4EA-410942A1B1D7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDACB1618-E710-4925-8F32-B139FB613935%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{A14AECB0-4839-446A-951A-CFD92A88F41F}"
+              p:after="r[@uid='{03A7C1E7-A785-439C-AD6A-CF3548F268DA}']"
+              s:ds="d17b9669-5014-41dc-a0b0-2177adeaa2f2"
+              s:id="{A27FEEFB-DA65-4790-84AD-9878B386D0FF}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B722ABCD2-CC51-4136-943F-AE1FC7A18FE0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{0C998A8B-167B-41B0-8BDE-6FBA405FCB20}"
+              p:after="r[@uid='{A14AECB0-4839-446A-951A-CFD92A88F41F}']"
+              s:ds="5dede8f4-444c-48fb-bd0e-9f60b3bcffae"
+              s:id="{96F2C77B-4AE2-45BF-A9F5-A473A6E0F987}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B893B2A49-01F3-4F49-956D-556BC1151512%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{30447A7A-3531-4936-99CD-517EF48163F3}"
+              p:after="r[@uid='{0C998A8B-167B-41B0-8BDE-6FBA405FCB20}']"
+              s:ds="e64998b5-5c04-474f-b1fb-419ea15b285a"
+              s:id="{25433EF9-558C-4B11-9C20-7F57A08BE931}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B5D759453-9C8B-4AF8-B8AA-57EE6DA06A78%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{FBD16A17-2F1C-4712-AF51-4B8536032990}"
+              p:after="r[@uid='{30447A7A-3531-4936-99CD-517EF48163F3}']"
+              s:ds="195397fe-57b1-49a8-a4d5-384a6026e144"
+              s:id="{9B6CC66E-D7B0-45D9-BF9D-91180BE3A4F7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA0AA549A-E147-4E6B-B1CB-73282ED38655%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{B246D6B9-7FAA-40FD-BCE6-5C5EA87BB61E}"
+              p:after="r[@uid='{FBD16A17-2F1C-4712-AF51-4B8536032990}']"
+              s:ds="cfb68e04-24a3-47a2-91da-c437199544af"
+              s:id="{9B6CC66E-D7B0-45D9-BF9D-91180BE3A4F7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA0AA549A-E147-4E6B-B1CB-73282ED38655%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{D16A7997-E9B8-40FC-98A9-07AE3AD60F51}"
+              p:after="r[@uid='{B246D6B9-7FAA-40FD-BCE6-5C5EA87BB61E}']"
+              s:ds="a66e7e85-7735-4a26-88a8-6a2160635c25"
+              s:id="{91B6C53D-4FEB-4B14-AAF5-C2BD0FF856FE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDFDC7F0B-B108-47A1-9935-5810703549DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ac44656d-89b1-466f-9f99-8a4b7ca2dba7"
+      Hint: Title
+      Value: |
+        Technology
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: |
+        Technology

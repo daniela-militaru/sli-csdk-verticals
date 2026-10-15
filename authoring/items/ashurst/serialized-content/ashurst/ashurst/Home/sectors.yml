@@ -1,0 +1,40 @@
+---
+ID: "d499d7ba-1def-4487-a7e0-ade549433747"
+Parent: "1a784bdd-39e2-4ed4-be9f-7c7d413ab256"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/sectors"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{1A50DCE8-1952-4F53-997E-32E93ECB341B}"
+              p:before="*"
+              s:ds="d7871a22-cfb2-4eee-b7a6-908462e1afbe"
+              s:id="{2E80F598-5A9C-48F6-B4EA-410942A1B1D7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDACB1618-E710-4925-8F32-B139FB613935%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{2FCD494A-6ED8-4199-BFF8-C67D6A97769D}"
+              p:after="r[@uid='{1A50DCE8-1952-4F53-997E-32E93ECB341B}']"
+              s:ds="1720955f-a54a-485b-9b50-ce529496ce92"
+              s:id="{A27FEEFB-DA65-4790-84AD-9878B386D0FF}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B722ABCD2-CC51-4136-943F-AE1FC7A18FE0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ac44656d-89b1-466f-9f99-8a4b7ca2dba7"
+      Hint: Title
+      Value: |
+        Sectors
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: |
+        Sectors

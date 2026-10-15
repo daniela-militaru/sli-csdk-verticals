@@ -1,0 +1,18 @@
+---
+ID: "74ea6965-129a-4fa7-a7bb-7716b159e804"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "5387bdfb-b5c4-4c6e-b1f9-cf5ee2f75e91"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorCapabilities"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    6d7f0032-9b67-4651-937b-5cc5dce4d16e
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T160000Z

@@ -1,0 +1,17 @@
+---
+ID: "ec4bb0db-e5a7-43d7-b433-8736ed2d83cd"
+Parent: "af26bb85-8eb9-46a2-81c0-4bdc10c581ab"
+Template: "af26bb85-8eb9-46a2-81c0-4bdc10c581ab"
+Path: "/sitecore/templates/Project/ashurst/SectorIntro Templates/SectorIntro Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

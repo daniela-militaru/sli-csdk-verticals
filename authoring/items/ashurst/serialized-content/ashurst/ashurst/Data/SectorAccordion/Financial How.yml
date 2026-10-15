@@ -1,0 +1,115 @@
+---
+ID: "4ee226a8-5e55-409a-8ff6-afe65f450299"
+Parent: "42b0ea5d-7f43-4aef-a64c-0475fd53f430"
+Template: "f3f3a3bb-063a-4f28-b6a6-976192e2bf04"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorAccordion/Financial How"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    d82ca2c7-429d-4f59-a9f0-17b177a0e61e
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f5db28af-eebd-4939-bbfb-f0fa51d1b650"
+      Hint: Title
+      Value: |
+        How we can help
+    - ID: "24c6dcef-9243-4835-a768-b1ee2c8b336f"
+      Hint: Item1Title
+      Value: |
+        Transacting and raising capital
+    - ID: "e9e9f289-9477-4d87-86fb-e570aade8fc8"
+      Hint: Item1Teaser
+      Value: |
+        Global loans, secured transactions, and capital markets
+    - ID: "059be3fc-ec8f-4584-8bd6-c9b8a1058779"
+      Hint: Item1Body
+      Value: |
+        <p>We advise on the full spectrum of capital markets and financing activity, including debt and equity capital markets, structured finance, derivatives, private capital transactions, multijurisdictional leveraged financings, real estate and infrastructure lending, and strategic M&A. Our clients include issuers, underwriters, dealers, and investors across global banking, asset management, and fintech and digital asset markets.</p>
+    - ID: "58c4f3a2-2d46-4597-8332-b50786010a05"
+      Hint: Item2Title
+      Value: |
+        Providing trustee and fiduciary services
+    - ID: "e38e1a79-4981-4863-aeca-d7b5a4fd32b3"
+      Hint: Item2Teaser
+      Value: |
+        Corporate trust and agent capacities
+    - ID: "fdfd2bcd-838f-4be7-a65e-106d62fbc542"
+      Hint: Item2Body
+      Value: |
+        <p>Our corporate trust group represents both domestic and international banks, in their roles as indenture trustee or related agent capacities, in domestic and cross-border financing transactions covering a wide range of asset classes and complex financial instruments.</p>
+    - ID: "ace72ef3-03bc-49be-a35b-ca07b16f93bf"
+      Hint: Item3Title
+      Value: |
+        Advising on M&A
+    - ID: "dbf562af-6148-44d3-a6a1-2422afff5a8b"
+      Hint: Item3Teaser
+      Value: |
+        Strategic transactions and corporate advisory
+    - ID: "bc6fa71b-3b58-4015-9ac0-5ae0f7ceb672"
+      Hint: Item3Body
+      Value: |
+        <p>Our team advises on some of the most complex and high-profile transactions in the market. We act for buyers, sellers, targets, and financial advisers. We use our legal, risk consulting, and NewLaw experience, including projects, tax, competition, real estate, finance, disputes, IT, employment, and pensions, to execute end-to-end transaction management.</p>
+    - ID: "2bbc5b10-f6e5-47a2-b154-ad816816c759"
+      Hint: Item4Title
+      Value: |
+        Running regulated businesses
+    - ID: "e9432518-8eb2-4df9-ab9b-e7effb7783e1"
+      Hint: Item4Teaser
+      Value: |
+        Regulatory compliance and operations
+    - ID: "3ee424e4-88c8-4f1e-ba74-bf71dd6a0082"
+      Hint: Item4Body
+      Value: |
+        <p>We support financial institutions and technology-enabled platforms through licensing, market entry, and ongoing operation across regulated environments. Our work includes obtaining regulatory approvals, structuring bank and fintech partnerships, and navigating multijurisdictional expansion.</p><p>We advise on financial crime compliance, prudential and conduct regulation, supervisory engagement, and regulatory change. We support governance design, risk management, and operational resilience as businesses scale.</p>
+    - ID: "13104b6d-c388-48f2-9059-f2fea54ab105"
+      Hint: Item5Title
+      Value: |
+        Managing risk and disputes
+    - ID: "5bcd7fa5-ad41-4364-95c0-28867a423080"
+      Hint: Item5Teaser
+      Value: |
+        Disputes, enforcement, and investigations
+    - ID: "a5146a40-2af8-444b-b7c0-afc79cafce8e"
+      Hint: Item5Body
+      Value: |
+        <p>When regulatory action arises, disputes emerge, or institutions face enforcement scrutiny, we deploy a deep financial services contentious practice. Our work covers commercial litigation and arbitration connected to financial transactions, market conduct, and investment activity, as well as regulatory enforcement defense, government investigations, white-collar matters, and cross-border proceedings.</p><p>We act for global banks, asset managers, fintech platforms, and digital asset businesses across securities litigation, derivatives disputes, and regulatory investigations. Our practice spans enforcement defense, civil litigation, arbitration, and crisis response.</p>
+    - ID: "7182bcf3-d359-41fb-a3c8-a5368e16b63c"
+      Hint: Item6Title
+      Value: |
+        Launching and structuring companies
+    - ID: "406008f8-00e1-4b47-b231-e5ba880569f5"
+      Hint: Item6Teaser
+      Value: |
+        Formation, venture, and growth
+    - ID: "e2e5137f-046e-4d06-b37a-4c3d0b70c45f"
+      Hint: Item6Body
+      Value: |
+        <p>We advise founders, sponsors, investors, and financial institutions at the formation and early growth stages of building financial services and fintech businesses. Our work includes venture financings, fund formation, corporate structuring, strategic investments, M&A, and regulatory compliance.</p><p>We support the design and launch of regulated financial products and platforms, including payments, lending, digital assets, and embedded finance, from product counseling and licensing strategy through regulatory structuring and commercialization.</p>
+    - ID: "e8624b10-aced-4d92-8b69-1d5261538088"
+      Hint: Item7Title
+      Value: |
+        Building financial infrastructure
+    - ID: "1394bb19-670a-4831-8ce4-dc3e13cf0063"
+      Hint: Item7Teaser
+      Value: |
+        Market infrastructure and digital systems
+    - ID: "cc842808-28d2-4f94-925d-3738cdbc3d92"
+      Hint: Item7Body
+      Value: |
+        <p>We advise on the development, operation, and scaling of financial market infrastructure across traditional and blockchain-based systems, including exchanges, clearing systems, payment networks, custody platforms, tokenized financial products, and next-generation settlement systems.</p><p>We counsel clients on regulatory classification, licensing strategy, governance, operational design, technology, IP, and commercial frameworks.</p>
+    - ID: "1a5d494d-fef0-484b-b4f7-82c4e2a66cea"
+      Hint: Item8Title
+      Value: |
+        Protecting financial privacy and data
+    - ID: "08a5beee-e478-44e4-9e59-5f098ed1b715"
+      Hint: Item8Teaser
+      Value: |
+        Data security, AI, and consumer financial protection
+    - ID: "8ef4e49c-4b04-4dc8-af6c-1f4284d25666"
+      Hint: Item8Body
+      Value: |
+        <p>We advise financial institutions and technology-driven financial services companies on financial privacy, data security, and related issues, including laws relating to AI and marketing.</p><p>We provide practical, business-focused solutions to help clients mitigate risks and maintain trust when advising on the use of AI in financial products and services, sharing consumer personal data with third parties, structuring financial transactions with privacy risks in mind, and responding to security incidents.</p>

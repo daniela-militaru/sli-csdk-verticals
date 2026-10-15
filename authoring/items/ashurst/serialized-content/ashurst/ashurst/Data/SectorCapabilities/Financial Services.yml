@@ -1,0 +1,75 @@
+---
+ID: "277b4700-3cfe-4dd9-957a-95c3b1fdf5d7"
+Parent: "74ea6965-129a-4fa7-a7bb-7716b159e804"
+Template: "a2ff2022-9b85-459f-b9ee-ac151aae584d"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorCapabilities/Financial Services"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    9cae5541-2bb3-45c4-8391-caa97ce31cc7
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "57fae11b-cfaf-4ec7-9164-059201f1dc54"
+      Hint: Title
+      Value: |
+        Our Capabilities
+    - ID: "f5fc657d-d9ce-4a48-acea-c0b170a4604f"
+      Hint: Group1Title
+      Value: |
+        For global banks and financial institutions
+    - ID: "9a8b8e4b-1c31-427d-93f1-340b0f80ad9a"
+      Hint: Group1Items
+      Value: |
+        <ul><li>Global Loans</li><li>Global Markets</li><li>Capital Markets</li><li>Financial Regulation</li><li>Corporate and M&A</li><li>Restructuring and Special Situations</li><li>Tax</li><li>Litigation and Dispute Resolution</li><li>Regulatory Enforcement</li><li>International Arbitration</li><li>Antitrust and Competition</li></ul>
+    - ID: "5f79a46f-4bfe-4722-8b91-b53f77236a14"
+      Hint: Group2Title
+      Value: |
+        For capital markets participants and asset managers
+    - ID: "071ea4bf-81ec-435b-9a86-88985b1a5945"
+      Hint: Group2Items
+      Value: |
+        <ul><li>Capital Markets</li><li>Investment Funds</li><li>Private Capital</li><li>Corporate and M&A</li><li>Tax</li><li>Derivatives and Structured Finance</li><li>Litigation and Dispute Resolution</li><li>Regulatory Enforcement</li><li>Global Loans</li></ul>
+    - ID: "193b7c53-6cd8-4287-bee1-1f13110f4837"
+      Hint: Group3Title
+      Value: |
+        For fintech, payments, and embedded finance platforms
+    - ID: "ecca64db-07c0-4ea4-af81-a35f7482b1a0"
+      Hint: Group3Items
+      Value: |
+        <ul><li>Financial Regulation</li><li>Payments and Fintech</li><li>Corporate and M&A</li><li>Technology Transactions</li><li>Intellectual Property</li><li>Cyber and Data Security</li><li>Labor and Employment</li><li>Tax</li><li>Real Estate</li><li>Infrastructure</li></ul>
+    - ID: "9fabf350-f495-4783-9655-19a9b0e6868a"
+      Hint: Group4Title
+      Value: |
+        For digital asset and blockchain businesses
+    - ID: "ee7899f6-a7c4-4aa0-bfdf-534ac35b90bd"
+      Hint: Group4Items
+      Value: |
+        <ul><li>Digital Assets and Blockchain</li><li>Financial Regulation</li><li>Intellectual Property</li><li>Corporate and M&A</li><li>Technology Transactions</li><li>Infrastructure</li><li>Litigation and Dispute Resolution</li><li>Regulatory Enforcement</li></ul>
+    - ID: "864d1a1f-a485-42a9-9764-bc3752d28d61"
+      Hint: Group5Title
+      Value: |
+        For venture-backed and emerging financial companies
+    - ID: "d311878c-eaba-4fe0-911f-dbab03e8f0f0"
+      Hint: Group5Items
+      Value: |
+        <ul><li>Venture Capital and Emerging Companies</li><li>Corporate and M&A</li><li>Investment Funds</li><li>Technology Transactions</li><li>Intellectual Property</li><li>Financial Regulation</li><li>Payments and Fintech</li><li>Tax</li></ul>
+    - ID: "dc02a138-bd22-430e-9a5d-98f9362683f7"
+      Hint: Group6Title
+      Value: |
+        For financial market infrastructure providers
+    - ID: "aa311ca0-a538-439d-80bb-d00d6361717b"
+      Hint: Group6Items
+      Value: |
+        <ul><li>Financial Regulation</li><li>Global Payments</li><li>Digital Assets and Blockchain</li><li>Infrastructure</li><li>Technology Transactions</li><li>Intellectual Property</li><li>Corporate and M&A</li><li>Antitrust and Competition</li></ul>
+    - ID: "2927ff67-ba46-4af1-9155-05c9e70002d9"
+      Hint: Group7Title
+      Value: |
+        For disputes, enforcement, and investigations
+    - ID: "ceb0aaa7-cbae-43ba-8e6d-b0f7dfae942d"
+      Hint: Group7Items
+      Value: |
+        <ul><li>Litigation and Dispute Resolution</li><li>Regulatory Enforcement</li><li>International Arbitration</li><li>White Collar and Investigations</li><li>Securities Litigation</li><li>Antitrust and Competition</li><li>Cyber and Data Security</li></ul>

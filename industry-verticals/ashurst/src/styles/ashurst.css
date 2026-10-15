@@ -14,7 +14,7 @@ body {
   margin: 0;
   color: var(--ash-ink);
   background: var(--ash-paper);
-  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -164,7 +164,7 @@ a {
 .ash-locations h2,
 .ash-insights-hero h1,
 .ash-article h1 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, 'Times New Roman', serif;
   font-weight: 500;
   letter-spacing: -0.02em;
 }
@@ -268,6 +268,188 @@ a {
   background: #d5dbe3;
 }
 
+.ash-sectors {
+  position: relative;
+}
+
+.ash-sectors summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.ash-sectors summary::-webkit-details-marker {
+  display: none;
+}
+
+.ash-sectors div {
+  position: absolute;
+  top: calc(100% + 12px);
+  left: 0;
+  z-index: 6;
+  display: grid;
+  gap: 10px;
+  min-width: 220px;
+  padding: 16px;
+  background: var(--ash-navy);
+}
+
+.ash-sector-hero {
+  position: relative;
+  min-height: 460px;
+  display: grid;
+  align-items: end;
+  background: var(--ash-ink);
+  color: #fff;
+}
+
+.ash-sector-hero img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ash-sector-hero-copy {
+  position: relative;
+  z-index: 1;
+  max-width: 760px;
+  padding: 72px 48px;
+  background: linear-gradient(90deg, rgba(7, 17, 31, 0.82), rgba(7, 17, 31, 0.15));
+}
+
+.ash-sector-hero h1 {
+  margin: 0 0 12px;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 64px;
+  font-weight: 500;
+}
+
+.ash-sector-intro,
+.ash-sector-accordion,
+.ash-sector-highlights,
+.ash-sector-capabilities,
+.ash-sector-carousel {
+  padding: 56px 48px;
+}
+
+.ash-sector-intro {
+  max-width: 980px;
+}
+
+.ash-sector-intro h3,
+.ash-sector-accordion h2,
+.ash-sector-highlights h2,
+.ash-sector-highlights h3,
+.ash-sector-capabilities h2,
+.ash-sector-carousel h2 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: 500;
+}
+
+.ash-sector-intro li {
+  margin: 8px 0;
+}
+
+.ash-sector-accordion article {
+  border-top: 1px solid var(--ash-line);
+}
+
+.ash-sector-accordion button {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  width: 100%;
+  padding: 18px 0;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+}
+
+.ash-sector-accordion strong {
+  display: block;
+  font-size: 20px;
+}
+
+.ash-sector-accordion em {
+  display: block;
+  margin-top: 4px;
+  color: var(--ash-muted);
+  font-style: normal;
+}
+
+.ash-sector-panel {
+  padding: 0 0 20px;
+  max-width: 860px;
+}
+
+.ash-sector-highlights {
+  background: var(--ash-cream);
+}
+
+.ash-sector-highlights > div,
+.ash-sector-track {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.ash-sector-highlights article,
+.ash-sector-carousel article {
+  background: #fff;
+  padding: 20px;
+}
+
+.ash-sector-capabilities article {
+  margin-top: 24px;
+}
+
+.ash-sector-capabilities ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 0;
+  list-style: none;
+}
+
+.ash-sector-capabilities li {
+  padding: 8px 12px;
+  background: var(--ash-cream);
+}
+
+.ash-sector-carousel header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+}
+
+.ash-sector-carousel header button,
+.ash-text-link {
+  margin-left: 8px;
+  border: 0;
+  background: transparent;
+  color: var(--ash-ink);
+  text-decoration: underline;
+  cursor: pointer;
+  font: inherit;
+}
+
+.ash-sector-track {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 8px;
+}
+
+.ash-sector-track article {
+  flex: 0 0 320px;
+  scroll-snap-align: start;
+  border: 1px solid var(--ash-line);
+}
+
 @media (max-width: 800px) {
   .ash-header,
   .ash-nav,
@@ -292,7 +474,25 @@ a {
   .ash-featured,
   .ash-search-page,
   .ash-insights-hero,
-  .ash-footer {
+  .ash-footer,
+  .ash-sector-intro,
+  .ash-sector-accordion,
+  .ash-sector-highlights,
+  .ash-sector-capabilities,
+  .ash-sector-carousel {
     padding: 32px 20px;
+  }
+
+  .ash-sector-hero h1 {
+    font-size: 40px;
+  }
+
+  .ash-sector-hero-copy {
+    padding: 48px 20px;
+  }
+
+  .ash-sectors div {
+    position: static;
+    margin-top: 8px;
   }
 }

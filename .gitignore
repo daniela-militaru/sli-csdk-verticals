@@ -54,3 +54,5 @@ packages/
 
 # Ignore all TS incremental build files
 *.tsbuildinfo
+.vercel
+.env*

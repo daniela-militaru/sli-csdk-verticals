@@ -1,0 +1,19 @@
+---
+ID: "349285a5-165a-432b-9256-37b11aea87bb"
+Parent: "4fed26dd-e358-465d-861a-d6578a66f7f2"
+Template: "96f4f856-2d4c-447d-a9e4-e15f42102e8f"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorIntro/Financial Services"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    01890e58-993b-47b3-9e41-2f027e166e3a
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "887c19d4-281f-4732-9cc3-23f291ae8a1f"
+      Hint: Body
+      Value: |
+        <p>The financial services sector is undergoing groundbreaking change driven by new regulations, disruptive technologies, and the convergence of traditional and emerging finance.</p><p>Institutions and innovators alike are navigating a common challenge: how to launch, operate, and grow financial products and services in an environment where legal frameworks are evolving as quickly as the market itself.</p><p>That challenge requires a different kind of law firm.</p><p>We help clients outpace change because we are trailblazers in both financial services law and the transformative technologies they adopt, including AI, digital assets, tokenization, and blockchain infrastructure.</p><p>Our lawyers advise on the full range of business opportunities and challenges our clients encounter, from regulatory counseling and strategic acquisitions to financing structures, product launches, disputes, and investigations. We work alongside our Risk Advisory practice to provide practical, commercially grounded approaches to managing risk and driving compliance. Through Ashurst Perkins Coie Advance, our technology professionals deliver advanced collaboration tools, automation, and cost-effective legal services that keep pace with our clients’ ambitions.</p>

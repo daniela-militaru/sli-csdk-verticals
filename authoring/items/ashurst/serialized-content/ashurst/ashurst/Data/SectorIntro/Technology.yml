@@ -1,0 +1,19 @@
+---
+ID: "d17b9669-5014-41dc-a0b0-2177adeaa2f2"
+Parent: "4fed26dd-e358-465d-861a-d6578a66f7f2"
+Template: "96f4f856-2d4c-447d-a9e4-e15f42102e8f"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorIntro/Technology"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    37394a65-3be3-4403-a47c-98225715cd67
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "887c19d4-281f-4732-9cc3-23f291ae8a1f"
+      Hint: Body
+      Value: |
+        <p>In an age of accelerating technological change, informed legal advice is essential.</p><p>Technology moves faster than the rules that govern it. We help you stay ahead in an ever-evolving environment. We advise the world's leading technology companies, including major platform and cloud providers, and businesses that depend on their products.</p><p>Our strategic counsel delivers measurable results across the technology life cycle, from ideation and product build to launch, commercialization, scaling, and course-correction, so clients can stay focused on what they do best: innovate. We support the full range of needs at each stage of growth, including strategic partnerships and acquisitions, product innovation and marketplace development, monetization strategies, infrastructure expansion, IP strategy, protection and enforcement, regulatory and risk management, and dispute resolution.</p><p>Our approach is strategic, multidisciplinary, and built around the domains where our clients are investing and innovating:</p><ul><li><strong>AI and frontier tech:</strong> Generative AI, machine learning, automated decisioning, robotics, and autonomous systems</li><li><strong>Cloud:</strong> IaaS/PaaS, compute, and storage and data management</li><li><strong>Digital infrastructure:</strong> Data centers and next-generation connectivity</li><li><strong>Digital platforms and marketplaces:</strong> E-commerce, consumer platforms, social and communications services, product and service marketplaces, and digital ecosystems</li><li><strong>Enterprise software and solutions:</strong> SaaS, business applications, and workflow platforms</li><li><strong>Chips and intelligent hardware:</strong> Semiconductors, connected devices, IoT, and identity and biometrics</li><li><strong>Cybersecurity and identity:</strong> Security products and services, IAM, zero trust, and trust and safety tooling</li><li><strong>Data platforms:</strong> Data infrastructure, data governance, analytics/BI, and data sharing ecosystems</li><li><strong>Fintech and digital payments:</strong> Payments rails, wallets, embedded finance, and digital banking infrastructure</li><li><strong>Gaming, media entertainment, and sports:</strong> Games, devices, marketplaces, content development and distribution platforms, music, streaming, digital media and interactive entertainment</li><li><strong>Autonomous, robotic systems, and mobility:</strong> Autonomous vehicles, connected vehicle ecosystems, and infrastructure, including satellite and space</li></ul><p>We are proud to advise clients at the forefront of evolving technologies and business models, reshaping business practices and transforming the way people live and work.</p><p>As regulatory demands intensify across privacy, cybersecurity, AI governance, platform accountability, and competition, antitrust and trade, we help you anticipate what’s coming, navigate uncertainty, and execute with confidence. That same experience positions us to help your organization, no matter the industry, solve its most important regulatory challenges.</p>

@@ -1,0 +1,27 @@
+---
+ID: "d7871a22-cfb2-4eee-b7a6-908462e1afbe"
+Parent: "3974c026-63c2-4bf5-8eae-e4dd71c131a5"
+Template: "1e592e2d-563f-4bd1-86b5-a3bbd02c5e4a"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorHero/Sectors"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    fb6a44cf-b812-46d4-bc35-d84ec19b8b6e
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "66ec287d-b3c4-484c-9941-f188b79e39e5"
+      Hint: Eyebrow
+      Value: |
+        Sectors
+    - ID: "d9f6416a-b779-4aed-9e74-e2778e8e7ce7"
+      Hint: Title
+      Value: |
+        Sectors
+    - ID: "f5ab93c8-1c64-42a8-8e60-30abdc592f7d"
+      Hint: Intro
+      Value: |
+        <p>Technology, energy and infrastructure, financial services, and more.</p>

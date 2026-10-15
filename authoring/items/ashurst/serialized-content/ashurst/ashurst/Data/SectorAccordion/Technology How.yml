@@ -1,0 +1,67 @@
+---
+ID: "e64998b5-5c04-474f-b1fb-419ea15b285a"
+Parent: "42b0ea5d-7f43-4aef-a64c-0475fd53f430"
+Template: "f3f3a3bb-063a-4f28-b6a6-976192e2bf04"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorAccordion/Technology How"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    3a5640c5-b629-4146-8960-a9386ccba77a
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f5db28af-eebd-4939-bbfb-f0fa51d1b650"
+      Hint: Title
+      Value: |
+        How we can help
+    - ID: "24c6dcef-9243-4835-a768-b1ee2c8b336f"
+      Hint: Item1Title
+      Value: |
+        Leading technology counsel
+    - ID: "e9e9f289-9477-4d87-86fb-e570aade8fc8"
+      Hint: Item1Teaser
+      Value: |
+        
+    - ID: "059be3fc-ec8f-4584-8bd6-c9b8a1058779"
+      Hint: Item1Body
+      Value: |
+        <p>We are trusted by entrepreneurs, innovators, and established market leaders to guide the legal and risk strategy behind new products, services, and platforms, from early development and data strategy to commercialization, scaling, and exit. We deliver product innovation and marketplace development counsel, regulatory protection and enforcement guidance, and dispute-ready support.</p>
+    - ID: "58c4f3a2-2d46-4597-8332-b50786010a05"
+      Hint: Item2Title
+      Value: |
+        Platform, content, and consumer tech
+    - ID: "e38e1a79-4981-4863-aeca-d7b5a4fd32b3"
+      Hint: Item2Teaser
+      Value: |
+        
+    - ID: "fdfd2bcd-838f-4be7-a65e-106d62fbc542"
+      Hint: Item2Body
+      Value: |
+        <p>We advise companies building and operating consumer-facing platforms and digital ecosystems, including e-commerce and marketplace businesses, social and communications services, adtech and martech, media and entertainment, streaming and interactive experiences, games, sports, and connected products. We help align product design with privacy, IP, content, consumer protection, revenue generation, and platform accountability and safety requirements.</p>
+    - ID: "ace72ef3-03bc-49be-a35b-ca07b16f93bf"
+      Hint: Item3Title
+      Value: |
+        Strategic transactions and growth
+    - ID: "dbf562af-6148-44d3-a6a1-2422afff5a8b"
+      Hint: Item3Teaser
+      Value: |
+        
+    - ID: "bc6fa71b-3b58-4015-9ac0-5ae0f7ceb672"
+      Hint: Item3Body
+      Value: |
+        <p>We help technology companies and their investors execute transformative transactions, including M&A, IPOs, financings, joint ventures, and strategic partnerships. Our teams combine industry knowledge with transactional capability so clients can move on high-stakes opportunities while managing regulatory complexity across jurisdictions.</p>
+    - ID: "2bbc5b10-f6e5-47a2-b154-ad816816c759"
+      Hint: Item4Title
+      Value: |
+        Risk, regulatory, and disputes
+    - ID: "e9432518-8eb2-4df9-ab9b-e7effb7783e1"
+      Hint: Item4Teaser
+      Value: |
+        
+    - ID: "3ee424e4-88c8-4f1e-ba74-bf71dd6a0082"
+      Hint: Item4Body
+      Value: |
+        <p>We help clients navigate the shifting regulatory landscape, from AI governance and data protection to cybersecurity, digital advertising, and platform accountability. When disputes arise, we bring the same technology fluency to enforcement actions, IP litigation, and complex cross-border proceedings.</p>

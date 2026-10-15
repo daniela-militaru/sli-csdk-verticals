@@ -1,0 +1,31 @@
+---
+ID: "a1780ef7-3c14-4326-bcb4-ac8fcf76ccd9"
+Parent: "3974c026-63c2-4bf5-8eae-e4dd71c131a5"
+Template: "1e592e2d-563f-4bd1-86b5-a3bbd02c5e4a"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorHero/Financial Services"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    adff55ab-4873-420a-a440-d4dcbcc73852
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "66ec287d-b3c4-484c-9941-f188b79e39e5"
+      Hint: Eyebrow
+      Value: |
+        Sector strengths
+    - ID: "d9f6416a-b779-4aed-9e74-e2778e8e7ce7"
+      Hint: Title
+      Value: |
+        Financial Services
+    - ID: "f5ab93c8-1c64-42a8-8e60-30abdc592f7d"
+      Hint: Intro
+      Value: |
+        <p>Guiding financial institutions and fintech companies into tomorrow with a proven track record of pioneering legal solutions.</p>
+    - ID: "618157f3-410a-45a2-b463-dce2d3d86507"
+      Hint: Image
+      Value: |
+        <image mediaid="{EA443389-9768-42C1-A30F-069CEB5FDBFD}" />

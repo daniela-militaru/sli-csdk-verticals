@@ -1,0 +1,23 @@
+---
+ID: "53272e62-a5f0-4034-a971-832f4323b2aa"
+Parent: "5387bdfb-b5c4-4c6e-b1f9-cf5ee2f75e91"
+Template: "5387bdfb-b5c4-4c6e-b1f9-cf5ee2f75e91"
+Path: "/sitecore/templates/Project/ashurst/SectorCapabilities Templates/SectorCapabilities Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A2FF2022-9B85-459F-B9EE-AC151AAE584D}
+    {5387BDFB-B5C4-4C6E-B1F9-CF5EE2F75E91}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

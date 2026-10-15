@@ -1,0 +1,23 @@
+---
+ID: "c7b352be-ec33-49aa-b55b-2bf8062beea0"
+Parent: "acb8dc24-adbe-4d62-8ff9-0c5ea96f6588"
+Template: "acb8dc24-adbe-4d62-8ff9-0c5ea96f6588"
+Path: "/sitecore/templates/Project/ashurst/SectorIntro Templates/SectorIntro Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {96F4F856-2D4C-447D-A9E4-E15F42102E8F}
+    {ACB8DC24-ADBE-4D62-8FF9-0C5EA96F6588}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

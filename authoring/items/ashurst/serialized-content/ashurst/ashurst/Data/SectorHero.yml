@@ -1,0 +1,18 @@
+---
+ID: "3974c026-63c2-4bf5-8eae-e4dd71c131a5"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "7b68b946-a556-483f-bc9d-26e14df855fb"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorHero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    97c3fbee-3716-4279-aa57-eed5f76eeac1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T160000Z

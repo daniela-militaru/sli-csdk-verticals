@@ -1,0 +1,43 @@
+---
+ID: "a66e7e85-7735-4a26-88a8-6a2160635c25"
+Parent: "eab4a2ae-8a26-41ca-a35c-ae1f57d5cc94"
+Template: "d8e0c65f-c2d4-4ec4-ab59-65ec6d981db1"
+Path: "/sitecore/content/ashurst/ashurst/Data/KeyContacts/Technology"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    1862119b-ff55-4c14-b498-71b06f737ac3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06c2b4e5-eb98-4856-8a13-d4d3164ab8b3"
+      Hint: Title
+      Value: |
+        Meet our people
+    - ID: "acdb8ffa-5ad9-4388-b68f-b96b01090da3"
+      Hint: Contact1Name
+      Value: |
+        Judy Jennison
+    - ID: "a4b2416e-bc92-403d-9000-05b9ee7d4901"
+      Hint: Contact1Role
+      Value: |
+        Global Sector Leader, Technology · Seattle · 206.359.3489
+    - ID: "95932755-bf01-47af-b06e-d8f6fe7153cc"
+      Hint: Contact1Image
+      Value: |
+        <image mediaid="{CA3C205A-3904-4C89-BBFE-E3967FFE24B8}" />
+    - ID: "f09c9997-50b9-42d5-a9ae-3f6b0e5cc5ab"
+      Hint: Contact2Name
+      Value: |
+        Tihana Zuk
+    - ID: "b16f6607-e15b-451a-a91b-002b2600bc71"
+      Hint: Contact2Role
+      Value: |
+        Regional Sector Leader, Technology · Sydney · +61 2 9258 6343
+    - ID: "b5c10dd2-b4b2-4a5e-b16f-4873f60983f5"
+      Hint: Contact2Image
+      Value: |
+        <image mediaid="{BE7807AB-8526-47F8-98D0-806ACA1D6A3F}" />

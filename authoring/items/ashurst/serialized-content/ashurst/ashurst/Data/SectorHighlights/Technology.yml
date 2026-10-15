@@ -1,0 +1,51 @@
+---
+ID: "5dede8f4-444c-48fb-bd0e-9f60b3bcffae"
+Parent: "4892b01e-6488-4e17-82d0-16f8389bb04a"
+Template: "121f035c-ec7a-4656-a580-27f8d44dedf2"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorHighlights/Technology"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    f0ee9e07-b7d0-432a-958b-cf5fa36e1f48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "47ac74d5-be75-4841-a98d-a2c6706772da"
+      Hint: Card1Kicker
+      Value: |
+        
+    - ID: "e618e887-e77a-4bb0-84d7-82a06d8337ea"
+      Hint: Card1Title
+      Value: |
+        Technology prowess
+    - ID: "a4eed9dc-b7b2-4f74-8f78-3352c3cd591d"
+      Hint: Card1Body
+      Value: |
+        <p>We pair product-first advice with deep technology fluency, helping you build, launch, and scale with confidence across fast-moving innovation cycles. We are often at the forefront of advising clients on emerging areas of law, helping them address regulatory challenges, identify opportunities, and strengthen their competitive position.</p>
+    - ID: "434129de-948e-4212-adf5-cf1ae51de8f0"
+      Hint: Card2Kicker
+      Value: |
+        Global
+    - ID: "9435357e-6977-42a8-951e-622f05f4c691"
+      Hint: Card2Title
+      Value: |
+        Global experience
+    - ID: "52e71225-d210-4b4a-88e5-ee11db7b09e0"
+      Hint: Card2Body
+      Value: |
+        <p>With cross-border reach, we help you stay ahead of regulatory and market shifts across innovation, operations, and growth. We can assemble multijurisdictional teams spanning technology development and licensing, commercial partnerships, sourcing, distribution, M&A, IPOs, financing, joint ventures, international trade and tariffs, disputes, tax, and IP protection and enforcement.</p>
+    - ID: "e335e526-98a4-441b-a04e-0b9a79012638"
+      Hint: Card3Kicker
+      Value: |
+        
+    - ID: "e9452b80-eb69-456e-8aba-3506500b0ea2"
+      Hint: Card3Title
+      Value: |
+        Innovation risk management
+    - ID: "f751ee46-330e-42f1-9d97-8b335523cc54"
+      Hint: Card3Body
+      Value: |
+        <p>We help you design resilient legal and risk programs to operationalize your legal obligations so innovation can move forward without disruption.</p>

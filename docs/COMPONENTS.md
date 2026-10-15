@@ -89,9 +89,9 @@ Articles plus grid status.
 
 ## Professional services — Ashurst Perkins Coie
 
-Homepage, insights listing, and three insight articles. Search filters the local insight catalog.
+Homepage, insights listing, three insight articles, and the Financial Services and Technology sector pages. Search filters the local insight catalog.
 
-`header`, `header-search`, `footer`, `hero-video`, `feature-split`, `locations-band`, `insights-hero`, `featured-insights`, `insights-search`, `article-hero`, `article-body`, `key-contacts`
+`header`, `header-search`, `footer`, `hero-video`, `feature-split`, `locations-band`, `insights-hero`, `featured-insights`, `insights-search`, `article-hero`, `article-body`, `key-contacts`, `sector-hero`, `sector-intro`, `sector-accordion`, `sector-highlights`, `sector-capabilities`, `sector-carousel`
 
 ## Where to read next
 

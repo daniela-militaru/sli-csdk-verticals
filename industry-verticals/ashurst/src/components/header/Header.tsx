@@ -12,6 +12,8 @@ type HeaderFields = {
   PrivateCapitalLabel?: TextField;
   InsightsLabel?: TextField;
   InsightsLink?: LinkField;
+  FinancialServicesLink?: LinkField;
+  TechnologyLink?: LinkField;
   LocationsLabel?: TextField;
   CareersLabel?: TextField;
 };
@@ -29,9 +31,15 @@ const Labels = ({ fields }: { fields?: HeaderFields }): JSX.Element => (
     <span>
       <Text field={fields?.WhatWeDoLabel} />
     </span>
-    <span>
-      <Text field={fields?.SectorsLabel} />
-    </span>
+    <details className="ash-sectors">
+      <summary>
+        <Text field={fields?.SectorsLabel} />
+      </summary>
+      <div>
+        {fields?.FinancialServicesLink ? <Link field={fields.FinancialServicesLink} /> : null}
+        {fields?.TechnologyLink ? <Link field={fields.TechnologyLink} /> : null}
+      </div>
+    </details>
     <span>
       <Text field={fields?.PrivateCapitalLabel} />
     </span>
