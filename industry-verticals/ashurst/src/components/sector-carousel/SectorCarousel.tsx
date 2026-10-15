@@ -61,6 +61,7 @@ const Carousel = ({ fields, params, rendering }: Props): JSX.Element => {
       <div className="ash-sector-track" ref={scroller}>
         {slots.map((slot) => {
           const title = fields?.[`Card${slot}Title`];
+          const cardLink = fields?.[`Card${slot}Link`];
           if (!title?.value) return null;
           return (
             <article key={slot}>
@@ -73,9 +74,7 @@ const Carousel = ({ fields, params, rendering }: Props): JSX.Element => {
               <p>
                 <Text field={fields?.[`Card${slot}Date`]} />
               </p>
-              {fields?.[`Card${slot}Link`]?.value?.href ? (
-                <Link field={fields[`Card${slot}Link`]} className="ash-text-link" />
-              ) : null}
+              {cardLink?.value?.href ? <Link field={cardLink} className="ash-text-link" /> : null}
             </article>
           );
         })}
