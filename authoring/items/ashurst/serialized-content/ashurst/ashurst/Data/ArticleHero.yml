@@ -1,0 +1,17 @@
+---
+ID: "49749a42-03dc-4d86-bad2-3e4d1cc26a35"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "2c201243-15f6-4a63-b341-0157ad26a691"
+Path: "/sitecore/content/ashurst/ashurst/Data/ArticleHero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "94d9d9d5-aca9-4e2b-8a91-e179bd4b8fcc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

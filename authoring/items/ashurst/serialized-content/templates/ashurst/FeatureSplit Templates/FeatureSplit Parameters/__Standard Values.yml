@@ -1,0 +1,17 @@
+---
+ID: "0ce46ed8-44a4-4392-87eb-82410e567619"
+Parent: "c25ec605-ef76-498a-8c64-5589d2ed67b3"
+Template: "c25ec605-ef76-498a-8c64-5589d2ed67b3"
+Path: "/sitecore/templates/Project/ashurst/FeatureSplit Templates/FeatureSplit Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,17 @@
+---
+ID: "caf283bc-7469-40e7-b996-6aa70b8b214e"
+Parent: "b913b935-a9f5-4111-a542-cb7b3343d036"
+Template: "b913b935-a9f5-4111-a542-cb7b3343d036"
+Path: "/sitecore/templates/Project/ashurst/InsightsHero Templates/InsightsHero Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

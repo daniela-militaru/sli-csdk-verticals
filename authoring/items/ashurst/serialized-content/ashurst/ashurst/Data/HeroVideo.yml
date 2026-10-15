@@ -1,0 +1,17 @@
+---
+ID: "b7f70c8f-4503-4dfb-9a1c-fbff97de52e6"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "3abbb1d5-f156-4493-9965-e82a1aff72ec"
+Path: "/sitecore/content/ashurst/ashurst/Data/HeroVideo"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e45a841a-2edb-40fa-ac8b-a8eb82621da9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

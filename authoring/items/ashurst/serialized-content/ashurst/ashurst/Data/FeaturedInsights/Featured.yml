@@ -1,0 +1,74 @@
+---
+ID: "b1f6427c-366f-447a-a0a6-59601d282803"
+Parent: "7af90ad0-952b-439a-8647-96ce078d29a7"
+Template: "82a6c5f4-395a-4c7b-9c9d-cba66d5cea2e"
+Path: "/sitecore/content/ashurst/ashurst/Data/FeaturedInsights/Featured"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1825cbae-60b3-4695-b9fd-33c6b965694c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8706269f-6651-4d00-ad49-a700de20eae8"
+      Hint: Card1Image
+      Value: |
+        <image mediaid="{F0A2FBE1-697E-4280-B34D-C29D58158799}" />
+    - ID: "eee16479-0167-45c0-9e49-dc017e86d036"
+      Hint: Card2Image
+      Value: |
+        <image mediaid="{EE55473C-CB44-4687-820A-A136CEFEB579}" />
+    - ID: "22be3cfd-b783-4988-9b86-beade4d0bb24"
+      Hint: Card3Image
+      Value: |
+        <image mediaid="{8836AE3C-F4F1-4EF6-AA9B-11380DB577AD}" />
+    - ID: "95e81610-c4aa-43e7-ad3b-578a963382b6"
+      Hint: Card1Tag
+      Value: |
+        Legal development
+    - ID: "5322bbdf-5a40-4ce0-bc28-b64409e096e4"
+      Hint: Card1Title
+      Value: |
+        FERC Meeting Agenda Summaries
+    - ID: "93890efd-c18e-4981-a61d-759a40ec3b1f"
+      Hint: Card1Date
+      Value: |
+        October 14, 2026
+    - ID: "1f20e6c1-0475-4c9e-8c27-407419b64392"
+      Hint: Card1Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "7ad6c534-3417-4976-9239-de3ad74c22b2"
+      Hint: Card2Tag
+      Value: |
+        Legal development
+    - ID: "fa57a1f9-c571-4a8a-8e67-f492e335525b"
+      Hint: Card2Title
+      Value: |
+        "De facto Directors": Who are they?
+    - ID: "1fe221ae-b59a-4db8-958a-43645972472a"
+      Hint: Card2Date
+      Value: |
+        October 14, 2026
+    - ID: "263d5174-f4eb-4a75-b0a5-70a44ab32789"
+      Hint: Card2Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "efdb27fc-a844-4865-8aaa-ead00c643f43"
+      Hint: Card3Tag
+      Value: |
+        Legal development
+    - ID: "4bdad02a-fe35-4485-ac7e-8254401a3cfe"
+      Hint: Card3Title
+      Value: |
+        Data Bytes AU: Key Australian privacy updates so far in 2026
+    - ID: "2f6f0e73-b2e5-4188-acf4-809a9a2eb82b"
+      Hint: Card3Date
+      Value: |
+        October 13, 2026
+    - ID: "f4e492d2-fccf-4352-9f97-051dc6c6b6b9"
+      Hint: Card3Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E62D2D75-4816-4842-A04D-565BB2412936}" />

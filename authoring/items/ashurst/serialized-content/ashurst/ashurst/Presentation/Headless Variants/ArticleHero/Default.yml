@@ -1,0 +1,17 @@
+---
+ID: "b1f6d27f-8446-4e4d-a532-a1260a87ea27"
+Parent: "048c9fd9-b9d9-41ca-bfa6-7a8873090bb6"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Headless Variants/ArticleHero/Default"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5f443698-24b1-451d-a9ac-09ac9289dde6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

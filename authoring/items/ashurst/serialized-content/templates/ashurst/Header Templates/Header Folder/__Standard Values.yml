@@ -1,0 +1,23 @@
+---
+ID: "90e108d2-bfef-4d4d-8a05-d2f07ddd4ab8"
+Parent: "2006dcd5-5b58-4e27-9b4c-921949e67484"
+Template: "2006dcd5-5b58-4e27-9b4c-921949e67484"
+Path: "/sitecore/templates/Project/ashurst/Header Templates/Header Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AFC7E4AA-7EB5-4AA6-9E87-CDFB9D4C2E22}
+    {2006DCD5-5B58-4E27-9B4C-921949E67484}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

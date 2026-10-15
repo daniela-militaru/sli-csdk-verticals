@@ -1,0 +1,17 @@
+---
+ID: "cd983f69-85b2-441b-8030-1c1cd94ebc92"
+Parent: "4cd646b1-0149-4da7-b74f-d88e7cea2f52"
+Template: "4cd646b1-0149-4da7-b74f-d88e7cea2f52"
+Path: "/sitecore/templates/Project/ashurst/LocationsBand Templates/LocationsBand/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

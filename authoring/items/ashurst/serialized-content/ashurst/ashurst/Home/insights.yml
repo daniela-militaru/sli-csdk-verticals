@@ -1,0 +1,28 @@
+---
+ID: "27124afa-e692-4d09-b0d7-49b23ab0aa8a"
+Parent: "1a784bdd-39e2-4ed4-be9f-7c7d413ab256"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/insights"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{829D3238-B695-40BD-A08F-C930ABD3B701}"
+              p:before="*"
+              s:ds="161a5f2a-5502-4d76-9cc5-28225f8670b7"
+              s:id="{24980CAD-4CED-485E-B47D-5484992B7C6C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BCF0F22E8-D914-46DB-92B8-D049F6393BC1%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

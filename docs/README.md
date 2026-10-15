@@ -1,6 +1,6 @@
 # Documentation
 
-Sitecore industry verticals: six Next.js rendering hosts under `industry-verticals/`, with shared content in `authoring/items/industry-verticals/`.
+Sitecore industry verticals: Next.js rendering hosts under `industry-verticals/`. Shared tenant content stays in `authoring/items/industry-verticals/`. Ashurst is an isolated collection in `authoring/items/ashurst/`.
 
 The live host list is [.cursor/SITE-REGISTRY.md](../.cursor/SITE-REGISTRY.md). When a site is added, update that registry and this page together.
 
@@ -14,6 +14,7 @@ The live host list is [.cursor/SITE-REGISTRY.md](../.cursor/SITE-REGISTRY.md). W
 | Starter | `industry-verticals/starter` | starter | not deployed |
 | Travel | `industry-verticals/travel` | Skywings | `travel` |
 | Energy | `industry-verticals/energy` | Gridwell | `energy` |
+| Professional services | [`industry-verticals/ashurst`](./ASHURST.md) | Ashurst Perkins Coie | `ashurst` |
 
 Component lists: [COMPONENTS.md](./COMPONENTS.md).
 
@@ -33,7 +34,7 @@ npm install
 npm run dev
 ```
 
-Other hosts: `healthcare`, `luxury-retail`, `travel`, `energy`, `starter`. Open http://localhost:3000.
+Other hosts: `healthcare`, `luxury-retail`, `travel`, `energy`, `ashurst`, `starter`. Open http://localhost:3000.
 
 ## Create a site
 

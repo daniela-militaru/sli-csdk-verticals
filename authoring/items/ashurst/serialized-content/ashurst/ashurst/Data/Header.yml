@@ -1,0 +1,17 @@
+---
+ID: "179bc4d7-a596-46b6-9bc7-57daac308b4f"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "2006dcd5-5b58-4e27-9b4c-921949e67484"
+Path: "/sitecore/content/ashurst/ashurst/Data/Header"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "fe72c774-3895-4171-af5d-c70843679b5e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

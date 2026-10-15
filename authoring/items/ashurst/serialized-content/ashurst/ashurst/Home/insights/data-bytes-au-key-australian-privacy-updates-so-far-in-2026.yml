@@ -1,0 +1,42 @@
+---
+ID: "e62d2d75-4816-4842-a04d-565bb2412936"
+Parent: "27124afa-e692-4d09-b0d7-49b23ab0aa8a"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/insights/data-bytes-au-key-australian-privacy-updates-so-far-in-2026"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{2A8E393E-D207-4145-ABED-3A0ED4883D18}"
+              p:before="*"
+              s:ds="c4d03491-5020-4668-88d9-16fff5ffc12b"
+              s:id="{0321C53F-C92A-4188-8002-C66622B2A2B8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BB1F6D27F-8446-4E4D-A532-A1260A87EA27%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{52706926-16D2-475D-ABA1-F95F2B810D5C}"
+              p:after="r[@uid='{2A8E393E-D207-4145-ABED-3A0ED4883D18}']"
+              s:ds="c5cb8f76-9171-45e8-8e04-34f0699b9c83"
+              s:id="{77405E67-4A04-4F2C-BA09-1F2060DB5094}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B346CEE45-67B1-424C-809D-3BB9C16EBC80%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{4B0FD1A3-0E5E-4ACB-9519-A6A34438B7C5}"
+              p:after="r[@uid='{52706926-16D2-475D-ABA1-F95F2B810D5C}']"
+              s:ds="26e70103-b833-497d-977c-e6ac422cca2b"
+              s:id="{91B6C53D-4FEB-4B14-AAF5-C2BD0FF856FE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDFDC7F0B-B108-47A1-9935-5810703549DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

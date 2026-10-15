@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Contact1Name",
+    "title": "Contact 1 name",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Contact1Role",
+    "title": "Contact 1 role",
+    "type": "Single-Line Text",
+    "sort": 210
+  },
+  {
+    "name": "Contact1Image",
+    "title": "Contact 1 image",
+    "type": "Image",
+    "sort": 220
+  },
+  {
+    "name": "Contact2Name",
+    "title": "Contact 2 name",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Contact2Role",
+    "title": "Contact 2 role",
+    "type": "Single-Line Text",
+    "sort": 310
+  },
+  {
+    "name": "Contact2Image",
+    "title": "Contact 2 image",
+    "type": "Image",
+    "sort": 320
+  },
+  {
+    "name": "Contact3Name",
+    "title": "Contact 3 name",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Contact3Role",
+    "title": "Contact 3 role",
+    "type": "Single-Line Text",
+    "sort": 410
+  },
+  {
+    "name": "Contact3Image",
+    "title": "Contact 3 image",
+    "type": "Image",
+    "sort": 420
+  },
+  {
+    "name": "Contact4Name",
+    "title": "Contact 4 name",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Contact4Role",
+    "title": "Contact 4 role",
+    "type": "Single-Line Text",
+    "sort": 510
+  },
+  {
+    "name": "Contact4Image",
+    "title": "Contact 4 image",
+    "type": "Image",
+    "sort": 520
+  }
+]

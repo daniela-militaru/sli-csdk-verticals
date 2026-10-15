@@ -1,0 +1,23 @@
+---
+ID: "57b6d58d-f181-40b5-a55c-9133b36dd4bf"
+Parent: "3abbb1d5-f156-4493-9965-e82a1aff72ec"
+Template: "3abbb1d5-f156-4493-9965-e82a1aff72ec"
+Path: "/sitecore/templates/Project/ashurst/HeroVideo Templates/HeroVideo Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4D690E68-2A6C-4773-97ED-514D619ECE20}
+    {3ABBB1D5-F156-4493-9965-E82A1AFF72EC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

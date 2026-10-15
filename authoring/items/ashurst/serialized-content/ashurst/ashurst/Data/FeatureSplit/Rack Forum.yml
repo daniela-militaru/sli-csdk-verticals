@@ -1,0 +1,34 @@
+---
+ID: "a19b63c7-0d44-4e68-946e-9aa53c430dbd"
+Parent: "c7774a70-91c6-4e46-92b2-217dfaacea7a"
+Template: "4411f9c3-033e-434d-b237-f29ee027c370"
+Path: "/sitecore/content/ashurst/ashurst/Data/FeatureSplit/Rack Forum"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5b03f59c-ea97-43bb-9d93-20cfb798c7df"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c7b9af6e-e3a8-4c8a-950c-671e5caa4d55"
+      Hint: Image
+      Value: |
+        <image mediaid="{F0ECCC31-D6B5-4B12-B14D-2D69CB39BE16}" />
+    - ID: "7b7c4c7a-2e84-41f4-a134-dfa4d2850f01"
+      Hint: Eyebrow
+      Value: |
+        Thinking piece
+    - ID: "afa4e13b-fed9-49f7-b4bd-291eb8cee2e3"
+      Hint: Title
+      Value: |
+        The Rack Forum: BYO Resources
+    - ID: "dede8cd5-6f8c-4d4f-949e-b24abb613aa7"
+      Hint: Body
+      Value: |
+        <p>In the European and broader development of data centers in the United States, looking at bring your own power solutions, how developers are securing energy needs, and the lessons learned.</p>
+    - ID: "68f262a1-f976-4298-bdb9-634384d41c96"
+      Hint: Link
+      Value: |
+        <link text="Listen now" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />

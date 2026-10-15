@@ -1,0 +1,17 @@
+---
+ID: "33610eb6-14ff-4e7c-ad59-46bfe76a7fc5"
+Parent: "940071bb-6133-480f-9529-a96dcaa8bed5"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Headless Variants/FeatureSplit/Inversed"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "242e44ed-92b9-4336-8efe-9d3cd53cc2d2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

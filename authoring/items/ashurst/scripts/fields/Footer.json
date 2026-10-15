@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ColumnOneTitle",
+    "title": "Column one title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "ColumnOneLinks",
+    "title": "Column one links",
+    "type": "Rich Text",
+    "sort": 200
+  },
+  {
+    "name": "ColumnTwoTitle",
+    "title": "Column two title",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "ColumnTwoLinks",
+    "title": "Column two links",
+    "type": "Rich Text",
+    "sort": 400
+  },
+  {
+    "name": "ColumnThreeTitle",
+    "title": "Column three title",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "ColumnThreeLinks",
+    "title": "Column three links",
+    "type": "Rich Text",
+    "sort": 600
+  },
+  {
+    "name": "Copyright",
+    "title": "Copyright",
+    "type": "Single-Line Text",
+    "sort": 700
+  }
+]

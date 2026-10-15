@@ -1,0 +1,17 @@
+---
+ID: "ec6f267c-6e16-4840-8d4e-13fb85c484e9"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "e44bfa24-2ad4-4ccf-b577-1d83adab74e8"
+Path: "/sitecore/content/ashurst/ashurst/Data/LocationsBand"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f2aeb6c6-da2a-4b4e-8bfc-bb026cb7b522"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

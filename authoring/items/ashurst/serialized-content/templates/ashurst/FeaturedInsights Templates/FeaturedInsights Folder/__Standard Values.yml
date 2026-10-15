@@ -1,0 +1,23 @@
+---
+ID: "2e6cd0ee-6a0b-4922-b77b-85d950f0ac49"
+Parent: "903848a9-cdba-43db-ac0c-b3fdbec7a2b9"
+Template: "903848a9-cdba-43db-ac0c-b3fdbec7a2b9"
+Path: "/sitecore/templates/Project/ashurst/FeaturedInsights Templates/FeaturedInsights Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {82A6C5F4-395A-4C7B-9C9D-CBA66D5CEA2E}
+    {903848A9-CDBA-43DB-AC0C-B3FDBEC7A2B9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

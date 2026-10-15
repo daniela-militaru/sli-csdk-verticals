@@ -1,0 +1,17 @@
+---
+ID: "c7774a70-91c6-4e46-92b2-217dfaacea7a"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "bd850c9c-2535-45ce-a045-48b3d4267d06"
+Path: "/sitecore/content/ashurst/ashurst/Data/FeatureSplit"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "43b846a5-487d-4a36-b924-116a09af0cdf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

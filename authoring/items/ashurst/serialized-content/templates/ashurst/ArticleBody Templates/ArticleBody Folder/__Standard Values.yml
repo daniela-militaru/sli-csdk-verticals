@@ -1,0 +1,23 @@
+---
+ID: "8ce2b63a-85af-4201-8d16-572f72ec202e"
+Parent: "72d5e368-8edc-4f1f-bac8-6ac80f8e9334"
+Template: "72d5e368-8edc-4f1f-bac8-6ac80f8e9334"
+Path: "/sitecore/templates/Project/ashurst/ArticleBody Templates/ArticleBody Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {F4FB750F-504E-4A47-AD08-78D32CA68121}
+    {72D5E368-8EDC-4F1F-BAC8-6AC80F8E9334}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

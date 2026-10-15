@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Image1",
+    "title": "Image 1",
+    "type": "Image",
+    "sort": 100
+  },
+  {
+    "name": "Image2",
+    "title": "Image 2",
+    "type": "Image",
+    "sort": 200
+  },
+  {
+    "name": "Image3",
+    "title": "Image 3",
+    "type": "Image",
+    "sort": 300
+  }
+]

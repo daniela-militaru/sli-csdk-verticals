@@ -1,0 +1,23 @@
+---
+ID: "124b8027-4400-4f5d-8c81-49af1e446824"
+Parent: "e44bfa24-2ad4-4ccf-b577-1d83adab74e8"
+Template: "e44bfa24-2ad4-4ccf-b577-1d83adab74e8"
+Path: "/sitecore/templates/Project/ashurst/LocationsBand Templates/LocationsBand Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4CD646B1-0149-4DA7-B74F-D88E7CEA2F52}
+    {E44BFA24-2AD4-4CCF-B577-1D83ADAB74E8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

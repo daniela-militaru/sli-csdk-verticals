@@ -1,0 +1,29 @@
+---
+ID: "4c8ba396-4355-41af-b8f9-d52c996b5358"
+Parent: "b7f70c8f-4503-4dfb-9a1c-fbff97de52e6"
+Template: "4d690e68-2a6c-4773-97ed-514d619ece20"
+Path: "/sitecore/content/ashurst/ashurst/Data/HeroVideo/Home Hero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7d93d20c-f77f-4257-9cea-13cf74ab476a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19145f4b-adb6-4a7b-b5a6-1b815faa6640"
+      Hint: Image1
+      Value: |
+        <image mediaid="{00817897-2771-48C9-975F-4235779FD147}" />
+    - ID: "32376b95-feca-42fb-a212-674ffeccdcea"
+      Hint: Image2
+      Value: |
+        <image mediaid="{F0ECCC31-D6B5-4B12-B14D-2D69CB39BE16}" />
+    - ID: "2611e031-d7da-4a68-91ec-14f4e2ab82a4"
+      Hint: Image3
+      Value: |
+        <image mediaid="{9743AAB8-6D58-4B6B-915F-312161C4FAF9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

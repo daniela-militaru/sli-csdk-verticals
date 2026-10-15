@@ -1,0 +1,18 @@
+---
+ID: "081c737d-123d-422f-b944-276620efd2f8"
+Parent: "7b1b8e58-1c2c-484a-b728-cf32281edd0b"
+Template: "f4fb750f-504e-4a47-ad08-78d32ca68121"
+Path: "/sitecore/content/ashurst/ashurst/Data/ArticleBody/what-public-companies-need-to-know-about-the-sec-innovation-exemption-for-tokenized-stock"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a38a1ccd-e62e-40f5-89d1-925127c98d5a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "53e3beda-98a7-43b7-93c9-0bd4dae24b3d"
+      Hint: Body
+      Value: |
+        <h2>Why this exemptive order matters now for public companies</h2><p>The SEC’s five-year Innovation Exemption lets regulated venues offer tokenized versions of listed stock, with a notice and objection process for issuers.</p><h2>Notification and objection process</h2><p>Venues must give written notice, publish a plain-English public notice, and wait 30 days. A written objection stops listing.</p><h2>Selected practical considerations</h2><p>Companies should confirm the address on Exchange Act filings is monitored and decide who owns an objection.</p><h2>Action items to consider</h2><p>Map the notice path, brief the board, and prepare a short objection playbook before a venue writes.</p>

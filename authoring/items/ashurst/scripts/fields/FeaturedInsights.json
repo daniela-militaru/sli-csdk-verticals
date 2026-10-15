@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Card1Image",
+    "title": "Card 1 image",
+    "type": "Image",
+    "sort": 100
+  },
+  {
+    "name": "Card1Tag",
+    "title": "Card 1 tag",
+    "type": "Single-Line Text",
+    "sort": 110
+  },
+  {
+    "name": "Card1Title",
+    "title": "Card 1 title",
+    "type": "Single-Line Text",
+    "sort": 120
+  },
+  {
+    "name": "Card1Date",
+    "title": "Card 1 date",
+    "type": "Single-Line Text",
+    "sort": 130
+  },
+  {
+    "name": "Card1Link",
+    "title": "Card 1 link",
+    "type": "General Link",
+    "sort": 140
+  },
+  {
+    "name": "Card2Image",
+    "title": "Card 2 image",
+    "type": "Image",
+    "sort": 200
+  },
+  {
+    "name": "Card2Tag",
+    "title": "Card 2 tag",
+    "type": "Single-Line Text",
+    "sort": 210
+  },
+  {
+    "name": "Card2Title",
+    "title": "Card 2 title",
+    "type": "Single-Line Text",
+    "sort": 220
+  },
+  {
+    "name": "Card2Date",
+    "title": "Card 2 date",
+    "type": "Single-Line Text",
+    "sort": 230
+  },
+  {
+    "name": "Card2Link",
+    "title": "Card 2 link",
+    "type": "General Link",
+    "sort": 240
+  },
+  {
+    "name": "Card3Image",
+    "title": "Card 3 image",
+    "type": "Image",
+    "sort": 300
+  },
+  {
+    "name": "Card3Tag",
+    "title": "Card 3 tag",
+    "type": "Single-Line Text",
+    "sort": 310
+  },
+  {
+    "name": "Card3Title",
+    "title": "Card 3 title",
+    "type": "Single-Line Text",
+    "sort": 320
+  },
+  {
+    "name": "Card3Date",
+    "title": "Card 3 date",
+    "type": "Single-Line Text",
+    "sort": 330
+  },
+  {
+    "name": "Card3Link",
+    "title": "Card 3 link",
+    "type": "General Link",
+    "sort": 340
+  }
+]

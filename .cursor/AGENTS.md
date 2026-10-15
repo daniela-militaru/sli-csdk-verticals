@@ -126,7 +126,7 @@ Shared rules and the map of industry type → host are in [industry-verticals](.
 |-------|----------------|
 | **[industry-verticals](./skills/industry-verticals/SKILL.md)** | Common layout, DAM, and Pages rules. Which vertical to clone for retail, healthcare, travel, energy, and for people-led or catalogue sites. |
 | **[industry-retail](./skills/industry-retail/SKILL.md)** | FormaLux and Essential Living. Product listing, product detail, offers, articles, cart-style actions. |
-| **[industry-healthcare](./skills/industry-healthcare/SKILL.md)** | Nova Medical. Person listing and detail, reviews. Also the pattern for consultants or lawyers. |
+| **[industry-healthcare](./skills/industry-healthcare/SKILL.md)** | Nova Medical. Person listing and detail, reviews. Also the pattern for consultants or lawyers. Ashurst Perkins Coie is the legal insights host: [docs/ASHURST.md](../docs/ASHURST.md). |
 | **[industry-travel](./skills/industry-travel/SKILL.md)** | Skywings. Destinations, articles, deals. |
 | **[industry-energy](./skills/industry-energy/SKILL.md)** | Gridwell. Articles plus grid status. |
 

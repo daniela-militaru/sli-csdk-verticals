@@ -1,0 +1,54 @@
+---
+ID: "a61d3d9c-b221-4c51-a057-4947a35d030b"
+Parent: "179bc4d7-a596-46b6-9bc7-57daac308b4f"
+Template: "afc7e4aa-7eb5-4aa6-9e87-cdfb9d4c2e22"
+Path: "/sitecore/content/ashurst/ashurst/Data/Header/Header"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a2aabaff-06fc-4f42-995a-bd5003e4ee03"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8212fad0-3e9a-4c0f-a051-f3ae433c9d9d"
+      Hint: SearchLabel
+      Value: |
+        Search
+    - ID: "712f598c-209b-42bd-87ba-21c753768905"
+      Hint: PeopleLabel
+      Value: |
+        People
+    - ID: "2ea63fc2-1b1c-44c5-b6da-4a2293018d68"
+      Hint: WhoWeAreLabel
+      Value: |
+        Who we are
+    - ID: "75ec4931-a159-401f-8f34-eebf4000d244"
+      Hint: WhatWeDoLabel
+      Value: |
+        What we do
+    - ID: "ad4d8b4d-a9e1-440a-8ea6-4331967cac31"
+      Hint: SectorsLabel
+      Value: |
+        Sectors
+    - ID: "1d6c1ef4-bdb7-4c3c-a43e-c04e8bd70be6"
+      Hint: PrivateCapitalLabel
+      Value: |
+        Private Capital
+    - ID: "0b1705d0-26cd-40b9-bf3b-b6c4a094e3f9"
+      Hint: InsightsLabel
+      Value: |
+        Insights
+    - ID: "f6f892ed-3f0b-4df6-91e5-63e1ea3d3640"
+      Hint: InsightsLink
+      Value: |
+        <link text="Insights" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "5529435c-d038-4d8d-8594-3d1e2365ac82"
+      Hint: LocationsLabel
+      Value: |
+        Our locations
+    - ID: "aa6dedff-dab9-47ae-9354-fe51a9dbd03d"
+      Hint: CareersLabel
+      Value: |
+        Careers

@@ -1,0 +1,54 @@
+---
+ID: "869d711e-afb2-48df-9041-4ba96b52e004"
+Parent: "eab4a2ae-8a26-41ca-a35c-ae1f57d5cc94"
+Template: "d8e0c65f-c2d4-4ec4-ab59-65ec6d981db1"
+Path: "/sitecore/content/ashurst/ashurst/Data/KeyContacts/what-public-companies-need-to-know-about-the-sec-innovation-exemption-for-tokenized-stock"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f166ef05-fc6d-4b7e-b464-e887b64167a3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "95932755-bf01-47af-b06e-d8f6fe7153cc"
+      Hint: Contact1Image
+      Value: |
+        <image mediaid="{DF7D157B-740E-45D1-B418-A2CA48690FF6}" />
+    - ID: "b5c10dd2-b4b2-4a5e-b16f-4873f60983f5"
+      Hint: Contact2Image
+      Value: |
+        <image mediaid="{00A5487C-80FD-4671-B354-9B248C8993DA}" />
+    - ID: "7fa195f6-8949-4af5-aafe-6c2ba373caa7"
+      Hint: Contact3Image
+      Value: |
+        <image mediaid="{318F13E2-D46F-4EB4-BC8F-4270FC6DB781}" />
+    - ID: "06c2b4e5-eb98-4856-8a13-d4d3164ab8b3"
+      Hint: Title
+      Value: |
+        Key Contacts
+    - ID: "acdb8ffa-5ad9-4388-b68f-b96b01090da3"
+      Hint: Contact1Name
+      Value: |
+        Allison Handy
+    - ID: "a4b2416e-bc92-403d-9000-05b9ee7d4901"
+      Hint: Contact1Role
+      Value: |
+        Partner
+    - ID: "f09c9997-50b9-42d5-a9ae-3f6b0e5cc5ab"
+      Hint: Contact2Name
+      Value: |
+        Joshua Ashley Klayman
+    - ID: "b16f6607-e15b-451a-a91b-002b2600bc71"
+      Hint: Contact2Role
+      Value: |
+        Partner
+    - ID: "eb980809-6bba-42b8-befc-e1929c6f685e"
+      Hint: Contact3Name
+      Value: |
+        James Walker
+    - ID: "4c0fb517-2af0-4248-997f-9fa5872e4dbf"
+      Hint: Contact3Role
+      Value: |
+        Partner

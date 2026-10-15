@@ -17,6 +17,8 @@ Read [industry-verticals](../industry-verticals/SKILL.md) first.
 | Editing host | `healthcare` |
 | Content | `authoring/items/industry-verticals/sites/nova-medical` |
 
+Ashurst Perkins Coie (`industry-verticals/ashurst`, site `ashurst`, module `ashurst-scs`) is the legal insights host. Its first pages are the homepage, the insights listing, and insight articles. People pages are not part of that first build. See [docs/ASHURST.md](../../../docs/ASHURST.md).
+
 ## Components to reuse
 
 `doctors-listing`, `doctor-details`, `reviews`, `header-extended`.

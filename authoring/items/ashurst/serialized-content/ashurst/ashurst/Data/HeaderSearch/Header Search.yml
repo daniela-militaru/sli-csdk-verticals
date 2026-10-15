@@ -1,0 +1,26 @@
+---
+ID: "e4dcd836-5d61-4489-af29-9d1aa05a9342"
+Parent: "7176f728-7ca8-406e-96c8-064abc5aeaed"
+Template: "b7e881b5-4a31-4eb1-a6f2-279db242c298"
+Path: "/sitecore/content/ashurst/ashurst/Data/HeaderSearch/Header Search"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4fe1a33f-e351-4bfd-abee-120d22638714"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8f706f4f-2359-4c77-956b-63b19430986d"
+      Hint: Placeholder
+      Value: |
+        Enter a search term
+    - ID: "badd8c8a-cb14-4e3a-a21e-fab758460211"
+      Hint: InsightsTitle
+      Value: |
+        Insights & News
+    - ID: "14aa8a5f-45ea-4813-a0f9-24b7347c3920"
+      Hint: PeopleTitle
+      Value: |
+        People

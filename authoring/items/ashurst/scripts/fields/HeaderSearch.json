@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Placeholder",
+    "title": "Placeholder",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "InsightsTitle",
+    "title": "Insights title",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "PeopleTitle",
+    "title": "People title",
+    "type": "Single-Line Text",
+    "sort": 300
+  }
+]

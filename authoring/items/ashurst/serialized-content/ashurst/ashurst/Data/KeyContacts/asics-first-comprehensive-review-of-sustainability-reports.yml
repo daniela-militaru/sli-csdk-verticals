@@ -1,0 +1,30 @@
+---
+ID: "36e6d365-9ea9-4e3e-bbd5-ba31e266968a"
+Parent: "eab4a2ae-8a26-41ca-a35c-ae1f57d5cc94"
+Template: "d8e0c65f-c2d4-4ec4-ab59-65ec6d981db1"
+Path: "/sitecore/content/ashurst/ashurst/Data/KeyContacts/asics-first-comprehensive-review-of-sustainability-reports"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d4a6bdfb-3b02-4606-b1c7-25e7c8dc0c81"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "95932755-bf01-47af-b06e-d8f6fe7153cc"
+      Hint: Contact1Image
+      Value: |
+        <image mediaid="{2A2B6CFF-A58B-465A-BC72-262C44ED68CB}" />
+    - ID: "06c2b4e5-eb98-4856-8a13-d4d3164ab8b3"
+      Hint: Title
+      Value: |
+        Key Contacts
+    - ID: "acdb8ffa-5ad9-4388-b68f-b96b01090da3"
+      Hint: Contact1Name
+      Value: |
+        Miriam Kleiner
+    - ID: "a4b2416e-bc92-403d-9000-05b9ee7d4901"
+      Hint: Contact1Role
+      Value: |
+        Partner

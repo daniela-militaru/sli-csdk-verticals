@@ -1,0 +1,22 @@
+---
+ID: "9d0a46cb-3682-4a67-b865-e05df9ab3653"
+Parent: "f5d95983-8e7e-422b-abc1-35e625a3f9f6"
+Template: "b27c25f6-6e11-4c9b-a09f-50f1dcb5d903"
+Path: "/sitecore/content/ashurst/ashurst/Data/InsightsSearch/Search"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "aabbb4e3-dbed-4ba9-b5b4-282aa0fe2d99"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ce9f2100-8df4-4d26-bf10-3f36adb908a9"
+      Hint: Title
+      Value: |
+        Search all insights
+    - ID: "cd377e15-c984-428d-8b84-77e3a6dd8682"
+      Hint: Placeholder
+      Value: |
+        Enter key words e.g. corporate, tax.

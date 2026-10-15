@@ -1,0 +1,17 @@
+---
+ID: "05099d3b-235b-4daa-888f-9d19f8c192f5"
+Parent: "bb8bf4d5-89f6-4750-8432-14f9239c9c5b"
+Template: "bb8bf4d5-89f6-4750-8432-14f9239c9c5b"
+Path: "/sitecore/templates/Project/ashurst/ArticleHero Templates/ArticleHero/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -14,6 +14,7 @@ Paths are `industry-verticals/{folder}/src/components/{name}/`.
 | `starter` | starter | not deployed |
 | `travel` | Skywings | `travel` |
 | `energy` | Gridwell | `energy` |
+| `ashurst` | Ashurst Perkins Coie | `ashurst` |
 
 ## Shared
 
@@ -85,6 +86,12 @@ Articles, destinations, and deals.
 Articles plus grid status.
 
 `article-details`, `article-listing`, `selected-articles`, `grid-conditions`, `grid-demand`, `gridstatusgauge`
+
+## Professional services — Ashurst Perkins Coie
+
+Homepage, insights listing, and three insight articles. Search filters the local insight catalog.
+
+`header`, `header-search`, `footer`, `hero-video`, `feature-split`, `locations-band`, `insights-hero`, `featured-insights`, `insights-search`, `article-hero`, `article-body`, `key-contacts`
 
 ## Where to read next
 

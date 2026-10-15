@@ -1,0 +1,18 @@
+---
+ID: "0d34f135-bb00-42e7-865b-fec753a1b98f"
+Parent: "c32ce1d9-ab76-4c61-b512-1843ad3b0426"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: |
+    0566979f-bd43-45ab-9020-90f669e2790f|925f8de1-c9ec-4d7c-ba99-ce0ad1ad06b8
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

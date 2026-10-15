@@ -1,0 +1,23 @@
+---
+ID: "85657d19-792f-44f4-acdd-9c9383804fcd"
+Parent: "6e0fd21e-0a98-4ab0-bcf8-377668cb4afc"
+Template: "6e0fd21e-0a98-4ab0-bcf8-377668cb4afc"
+Path: "/sitecore/templates/Project/ashurst/Footer Templates/Footer Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {DAED32CB-52EE-42BB-A5EF-1E8F4EC06FAD}
+    {6E0FD21E-0A98-4AB0-BCF8-377668CB4AFC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

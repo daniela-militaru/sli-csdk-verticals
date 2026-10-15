@@ -1,0 +1,17 @@
+---
+ID: "85fdaef3-5789-43f3-99df-cdce804e89c5"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "79e06a6e-e4a0-4e94-8ad1-1d8782fc05e7"
+Path: "/sitecore/content/ashurst/ashurst/Data/InsightsHero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "099703ab-0fa9-4721-a855-e256c9497f7d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

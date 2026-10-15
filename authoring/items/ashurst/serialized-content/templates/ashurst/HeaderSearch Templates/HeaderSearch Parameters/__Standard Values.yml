@@ -1,0 +1,17 @@
+---
+ID: "23de4c92-375e-4c18-b6a5-b98f0f5ac252"
+Parent: "9f37d7c2-fc18-4b73-84fc-bd319c6710d0"
+Template: "9f37d7c2-fc18-4b73-84fc-bd319c6710d0"
+Path: "/sitecore/templates/Project/ashurst/HeaderSearch Templates/HeaderSearch Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

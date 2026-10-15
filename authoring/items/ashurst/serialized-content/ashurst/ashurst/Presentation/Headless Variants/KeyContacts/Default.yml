@@ -1,0 +1,17 @@
+---
+ID: "dfdc7f0b-b108-47a1-9935-5810703549db"
+Parent: "eb0cccc5-97fb-43ba-8f7a-cc075e4ca6d5"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Headless Variants/KeyContacts/Default"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "09bc8dab-5e7d-4ff0-b350-aba9c6cfc3ea"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

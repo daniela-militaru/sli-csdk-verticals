@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SearchLabel",
+    "title": "Search label",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "PeopleLabel",
+    "title": "People label",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "WhoWeAreLabel",
+    "title": "Who we are label",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "WhatWeDoLabel",
+    "title": "What we do label",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "SectorsLabel",
+    "title": "Sectors label",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "PrivateCapitalLabel",
+    "title": "Private capital label",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "InsightsLabel",
+    "title": "Insights label",
+    "type": "Single-Line Text",
+    "sort": 700
+  },
+  {
+    "name": "InsightsLink",
+    "title": "Insights link",
+    "type": "General Link",
+    "sort": 800
+  },
+  {
+    "name": "LocationsLabel",
+    "title": "Locations label",
+    "type": "Single-Line Text",
+    "sort": 900
+  },
+  {
+    "name": "CareersLabel",
+    "title": "Careers label",
+    "type": "Single-Line Text",
+    "sort": 1000
+  }
+]

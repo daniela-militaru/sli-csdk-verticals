@@ -1,0 +1,26 @@
+---
+ID: "c4d03491-5020-4668-88d9-16fff5ffc12b"
+Parent: "49749a42-03dc-4d86-bad2-3e4d1cc26a35"
+Template: "bb8bf4d5-89f6-4750-8432-14f9239c9c5b"
+Path: "/sitecore/content/ashurst/ashurst/Data/ArticleHero/data-bytes-au-key-australian-privacy-updates-so-far-in-2026"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b643fda2-d9f6-4a89-a148-b3445ea22045"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5e2c133c-da6d-49d0-a8c4-71f6054922e3"
+      Hint: Tag
+      Value: |
+        Legal development
+    - ID: "d898ab13-92b6-4bbc-af99-00d2a0b36616"
+      Hint: Title
+      Value: |
+        Data Bytes AU: Key Australian privacy updates so far in 2026
+    - ID: "c543f713-6cc0-45f2-9005-9439cc92a441"
+      Hint: Date
+      Value: |
+        October 13, 2026

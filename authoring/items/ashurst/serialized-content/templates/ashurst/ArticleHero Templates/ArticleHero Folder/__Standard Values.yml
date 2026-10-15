@@ -1,0 +1,23 @@
+---
+ID: "7ef10cd6-5379-4ed5-8f49-3fa225392b82"
+Parent: "2c201243-15f6-4a63-b341-0157ad26a691"
+Template: "2c201243-15f6-4a63-b341-0157ad26a691"
+Path: "/sitecore/templates/Project/ashurst/ArticleHero Templates/ArticleHero Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {BB8BF4D5-89F6-4750-8432-14F9239C9C5B}
+    {2C201243-15F6-4A63-B341-0157AD26A691}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

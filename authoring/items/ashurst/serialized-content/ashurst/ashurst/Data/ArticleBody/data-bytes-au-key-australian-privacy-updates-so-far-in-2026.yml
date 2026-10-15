@@ -1,0 +1,18 @@
+---
+ID: "c5cb8f76-9171-45e8-8e04-34f0699b9c83"
+Parent: "7b1b8e58-1c2c-484a-b728-cf32281edd0b"
+Template: "f4fb750f-504e-4a47-ad08-78d32ca68121"
+Path: "/sitecore/content/ashurst/ashurst/Data/ArticleBody/data-bytes-au-key-australian-privacy-updates-so-far-in-2026"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "25482328-a417-4204-a43a-d66328781b54"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "53e3beda-98a7-43b7-93c9-0bd4dae24b3d"
+      Hint: Body
+      Value: |
+        <h2>Welcome to Data Bytes AU</h2><p>A roundup of Australian privacy, cyber security, and online safety developments so far in 2026.</p><h2>Part 1 – Recent updates</h2><p>Privacy Act reform, OAIC guidance, and cyber security expectations for organisations handling personal information.</p><h2>Part 2 – Key determinations</h2><p>Recent determinations on automated decisions, facial recognition, and online safety duties.</p><h2>Part 3 – What to watch</h2><p>The next enforcement cycle and the practical steps privacy teams should take before year end.</p>

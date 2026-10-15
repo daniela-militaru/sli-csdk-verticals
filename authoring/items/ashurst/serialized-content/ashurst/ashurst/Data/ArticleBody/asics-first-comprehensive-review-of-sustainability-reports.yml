@@ -1,0 +1,18 @@
+---
+ID: "9a065654-bb30-4132-9ef2-a36b389010c5"
+Parent: "7b1b8e58-1c2c-484a-b728-cf32281edd0b"
+Template: "f4fb750f-504e-4a47-ad08-78d32ca68121"
+Path: "/sitecore/content/ashurst/ashurst/Data/ArticleBody/asics-first-comprehensive-review-of-sustainability-reports"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1dd11296-0d0f-49a6-8551-02ecf6ca82f2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "53e3beda-98a7-43b7-93c9-0bd4dae24b3d"
+      Hint: Body
+      Value: |
+        <h2>Background</h2><p>Australia’s mandatory sustainability reporting regime commenced in 2025. ASIC reviewed a sample of Group 1 reports for the year ending 31 December 2025.</p><h2>Headline findings</h2><p>Preparation, lodgement, and audit requirements were generally met. Disclosure quality is the gap ASIC expects to close.</p><h2>ASIC's eight key action items</h2><p>Treat the eight action items as a checklist when the next Group 1 reports are finalised.</p><h2>Key takeaways and next steps</h2><p>Entities with a 30 June 2026 year end are the next cohort. Boards should test governance, scenario analysis, and scope 3 readiness now.</p>

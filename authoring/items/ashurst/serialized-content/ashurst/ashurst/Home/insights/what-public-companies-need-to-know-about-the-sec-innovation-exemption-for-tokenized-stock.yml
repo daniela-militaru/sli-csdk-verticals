@@ -1,0 +1,42 @@
+---
+ID: "7db785b1-6bde-4541-98e6-fc1fc86dd8cd"
+Parent: "27124afa-e692-4d09-b0d7-49b23ab0aa8a"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/insights/what-public-companies-need-to-know-about-the-sec-innovation-exemption-for-tokenized-stock"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{E7579E7F-9F45-4FEA-BEA4-B77E489EC32A}"
+              p:before="*"
+              s:ds="4c0f2ce9-fff9-437f-8ecb-9c653dea7259"
+              s:id="{0321C53F-C92A-4188-8002-C66622B2A2B8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BB1F6D27F-8446-4E4D-A532-A1260A87EA27%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{09F201B9-93E4-40E1-9A93-61DB81D6BEF8}"
+              p:after="r[@uid='{E7579E7F-9F45-4FEA-BEA4-B77E489EC32A}']"
+              s:ds="081c737d-123d-422f-b944-276620efd2f8"
+              s:id="{77405E67-4A04-4F2C-BA09-1F2060DB5094}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B346CEE45-67B1-424C-809D-3BB9C16EBC80%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{8FBF8950-3764-47C1-8839-0ADF727F7A77}"
+              p:after="r[@uid='{09F201B9-93E4-40E1-9A93-61DB81D6BEF8}']"
+              s:ds="869d711e-afb2-48df-9041-4ba96b52e004"
+              s:id="{91B6C53D-4FEB-4B14-AAF5-C2BD0FF856FE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDFDC7F0B-B108-47A1-9935-5810703549DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

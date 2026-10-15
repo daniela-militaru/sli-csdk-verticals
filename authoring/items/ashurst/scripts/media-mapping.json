@@ -1,0 +1,104 @@
+﻿[
+    {
+        "Path":  "authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\ashurst-perkins-coie.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/ashurst-perkins-coie.svg",
+        "Skipped":  false,
+        "MediaId":  "5ae52269-6b77-4fff-8578-a029ad9e3d2e"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\Home-page\\APC-Homepage_Fallback_1920x1080.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/Home-page/APC-Homepage_Fallback_1920x1080.jpg",
+        "Skipped":  false,
+        "MediaId":  "adcc2858-77ff-4120-b287-002e9c8c6de5"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\Home-page\\APC_MobHomeHero_780x310-test.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/Home-page/APC_MobHomeHero_780x310-test.jpg",
+        "Skipped":  false,
+        "MediaId":  "23b49e11-ac2f-46f1-8354-60c6644b02e4"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\Home-page\\APC-Technology-1500x1000.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/Home-page/APC-Technology-1500x1000.jpg",
+        "Skipped":  false,
+        "MediaId":  "00817897-2771-48c9-975f-4235779fd147"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\News-and-Insights\\Abstract\\Festure-Teasers\\The-rack-forum-1500x1000.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/News-and-Insights/Abstract/Festure-Teasers/The-rack-forum-1500x1000.jpg",
+        "Skipped":  false,
+        "MediaId":  "f0eccc31-d6b5-4b12-b14d-2d69cb39be16"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\News-and-Insights\\Abstract\\Festure-Teasers\\Abstract_Insight_Teaser_1500x1000_10.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/News-and-Insights/Abstract/Festure-Teasers/Abstract_Insight_Teaser_1500x1000_10.jpg",
+        "Skipped":  false,
+        "MediaId":  "8836ae3c-f4f1-4ef6-aa9b-11380db577ad"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\News-and-Insights\\Insfrastructure\\Feature-Teaser\\R009046_Insights-Infrastructure-2-1500x1000.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/News-and-Insights/Insfrastructure/Feature-Teaser/R009046_Insights-Infrastructure-2-1500x1000.jpg",
+        "Skipped":  false,
+        "MediaId":  "9743aab8-6d58-4b6b-915f-312161c4faf9"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\SyncedArticleImages\\iStock-532524047.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/SyncedArticleImages/iStock-532524047.jpg",
+        "Skipped":  false,
+        "MediaId":  "f0a2fbe1-697e-4280-b34d-c29d58158799"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\News-and-Insights\\Abstract\\Abstract_Insight_60x677_6.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/News-and-Insights/Abstract/Abstract_Insight_60x677_6.jpg",
+        "Skipped":  false,
+        "MediaId":  "ee55473c-cb44-4687-820a-a136cefeb579"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Synced-Images\\Mr-Geoff-McGrath_301516\\Mr-Geoff-McGrath_301516_Thumbnail.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Synced-Images/Mr-Geoff-McGrath_301516/Mr-Geoff-McGrath_301516_Thumbnail.jpg",
+        "Skipped":  false,
+        "MediaId":  "4456618a-fa71-47d9-918c-24b4fe2a724e"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Synced-Images\\Ms-Emma-Butler_207784\\Ms-Emma-Butler_207784_Thumbnail.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Synced-Images/Ms-Emma-Butler_207784/Ms-Emma-Butler_207784_Thumbnail.jpg",
+        "Skipped":  false,
+        "MediaId":  "d13d5fe2-be17-4217-b950-8c3ebc1adec5"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Synced-Images\\Mrs-Sonia-Haque-Vatcher_319760\\Mrs-Sonia-Haque-Vatcher_319760_Thumbnail.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Synced-Images/Mrs-Sonia-Haque-Vatcher_319760/Mrs-Sonia-Haque-Vatcher_319760_Thumbnail.jpg",
+        "Skipped":  false,
+        "MediaId":  "fcc12ffd-c803-40b0-815f-e940c3b34b50"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Synced-Images\\Mr-Nick-Perkins_211337\\Mr-Nick-Perkins_211337_Thumbnail.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Synced-Images/Mr-Nick-Perkins_211337/Mr-Nick-Perkins_211337_Thumbnail.jpg",
+        "Skipped":  false,
+        "MediaId":  "9b7b2b61-d01a-408b-b21c-23d436149461"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Synced-Images\\Allison-C-Handy323PC\\Allison-C-Handy323PCThumbnail.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Synced-Images/Allison-C-Handy323PC/Allison-C-Handy323PCThumbnail.jpg",
+        "Skipped":  false,
+        "MediaId":  "df7d157b-740e-45d1-b418-a2ca48690ff6"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Placeholder-image.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Placeholder-image.jpg",
+        "Skipped":  false,
+        "MediaId":  "00a5487c-80fd-4671-b354-9b248c8993da"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Synced-Images\\James-Q-Walker213PC\\James-Q-Walker213PCThumbnail.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Synced-Images/James-Q-Walker213PC/James-Q-Walker213PCThumbnail.jpg",
+        "Skipped":  false,
+        "MediaId":  "318f13e2-d46f-4eb4-bc8f-4270fc6db781"
+    },
+    {
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\ashurst\\serialized-content\\media-library\\ashurst\\ashurst\\Project\\Websites\\APC\\Images\\People\\Synced-Images\\Ms-Miriam-Kleiner_315089\\Ms-Miriam-Kleiner_315089_Thumbnail.yml",
+        "Url":  "https://cdn.ashurstperkinscoie.com/-/media/Project/Websites/APC/Images/People/Synced-Images/Ms-Miriam-Kleiner_315089/Ms-Miriam-Kleiner_315089_Thumbnail.jpg",
+        "Skipped":  false,
+        "MediaId":  "2a2b6cff-a58b-465a-bc72-262c44ed68cb"
+    }
+]

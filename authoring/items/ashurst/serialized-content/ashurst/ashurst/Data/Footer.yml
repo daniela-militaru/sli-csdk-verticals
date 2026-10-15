@@ -1,0 +1,17 @@
+---
+ID: "d62ce557-9d05-43fb-8890-d83a69332b7d"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "6e0fd21e-0a98-4ab0-bcf8-377668cb4afc"
+Path: "/sitecore/content/ashurst/ashurst/Data/Footer"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "853b03b2-2342-47ce-939e-68b4176e76cf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

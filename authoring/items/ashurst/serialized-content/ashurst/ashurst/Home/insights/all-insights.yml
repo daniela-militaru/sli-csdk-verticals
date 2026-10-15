@@ -1,0 +1,42 @@
+---
+ID: "e9d5cdc8-a2a9-4865-aa0a-0ebbb2c6294f"
+Parent: "27124afa-e692-4d09-b0d7-49b23ab0aa8a"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/insights/all-insights"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{5C0B238C-B0D0-4E1E-A7A0-1537815160C5}"
+              p:before="*"
+              s:ds="161a5f2a-5502-4d76-9cc5-28225f8670b7"
+              s:id="{24980CAD-4CED-485E-B47D-5484992B7C6C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BCF0F22E8-D914-46DB-92B8-D049F6393BC1%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{9FE2FF1F-8825-4D7B-9FFE-402734006D15}"
+              p:after="r[@uid='{5C0B238C-B0D0-4E1E-A7A0-1537815160C5}']"
+              s:ds="b1f6427c-366f-447a-a0a6-59601d282803"
+              s:id="{F2D2EADE-5C06-4011-BE30-27FCAB0E3EF7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B6F79443F-F3F1-40B1-B55F-EF37202C3FAB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{0AFB4176-F8E4-48C7-96A4-9B7A1E42EBAA}"
+              p:after="r[@uid='{9FE2FF1F-8825-4D7B-9FFE-402734006D15}']"
+              s:ds="9d0a46cb-3682-4a67-b865-e05df9ab3653"
+              s:id="{00F2CD81-6B18-4C2D-B5CA-EEC711774C5B}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B40A1ED18-81D0-47C0-A78B-6574260D4A7B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

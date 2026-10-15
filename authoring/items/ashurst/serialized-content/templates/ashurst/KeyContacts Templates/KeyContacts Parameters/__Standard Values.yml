@@ -1,0 +1,17 @@
+---
+ID: "6e576a90-d503-4d19-9de9-a84fec6a84a5"
+Parent: "4bb3f1ff-5d18-4557-9758-51a20e73f79b"
+Template: "4bb3f1ff-5d18-4557-9758-51a20e73f79b"
+Path: "/sitecore/templates/Project/ashurst/KeyContacts Templates/KeyContacts Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

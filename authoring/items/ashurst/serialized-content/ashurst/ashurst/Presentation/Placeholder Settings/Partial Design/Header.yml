@@ -1,0 +1,18 @@
+---
+ID: "b4b99f11-5305-4909-a8a6-2e2f8e755275"
+Parent: "6c0f2a69-13c0-4de9-987a-9686d50a80a8"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: |
+    sxa-header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

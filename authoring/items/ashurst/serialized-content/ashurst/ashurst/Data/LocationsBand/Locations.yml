@@ -1,0 +1,26 @@
+---
+ID: "de8cfec9-78b9-4ff5-9313-19750fa3438b"
+Parent: "ec6f267c-6e16-4840-8d4e-13fb85c484e9"
+Template: "4cd646b1-0149-4da7-b74f-d88e7cea2f52"
+Path: "/sitecore/content/ashurst/ashurst/Data/LocationsBand/Locations"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "249558cd-bc7d-4743-a4d8-77372e3441c8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "75663a79-e949-4ce0-8ae9-a39cd6e03975"
+      Hint: Image
+      Value: |
+        <image mediaid="{ADCC2858-77FF-4120-B287-002E9C8C6DE5}" />
+    - ID: "540da23b-629e-4d6d-ae75-ec27c04c463c"
+      Hint: Title
+      Value: |
+        Our locations
+    - ID: "0309bd9b-f5a3-400a-8713-c0f31dac8ea4"
+      Hint: Body
+      Value: |
+        <p>Across 52 offices in 20 countries and regions, our lawyers provide global insights with locally tailored advice. Click on the map below to discover more.</p>

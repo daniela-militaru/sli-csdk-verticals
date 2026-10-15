@@ -1,0 +1,42 @@
+---
+ID: "3e4e4d42-b2b7-4833-a2bc-e29eca92661c"
+Parent: "d62ce557-9d05-43fb-8890-d83a69332b7d"
+Template: "daed32cb-52ee-42bb-a5ef-1e8f4ec06fad"
+Path: "/sitecore/content/ashurst/ashurst/Data/Footer/Footer"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f299ffb2-8915-446e-8969-0f0d91d83355"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4004c9c5-6881-4363-8bec-77eb8fa74896"
+      Hint: ColumnOneTitle
+      Value: |
+        Collaborate
+    - ID: "40095793-b321-4b34-a6a5-f444661d9f9b"
+      Hint: ColumnOneLinks
+      Value: |
+        <p><a href="/insights/all-insights">Insights</a></p><p>Client login</p><p>SpeakUp</p>
+    - ID: "c7cc0b1d-261a-4847-a629-4f2adcb5d44d"
+      Hint: ColumnTwoTitle
+      Value: |
+        At Ashurst Perkins Coie
+    - ID: "ea447094-c600-40b3-8ffb-fe742af2b01e"
+      Hint: ColumnTwoLinks
+      Value: |
+        <p>Legal Notices</p><p>Privacy Notice</p><p>Contact Us</p>
+    - ID: "7d7b19c4-a491-4180-8214-8652abb61829"
+      Hint: ColumnThreeTitle
+      Value: |
+        Follow
+    - ID: "1228d662-1bc0-43a7-a025-9c1b9a6113d8"
+      Hint: ColumnThreeLinks
+      Value: |
+        <p>LinkedIn</p>
+    - ID: "7312e2d0-9d67-4269-951d-c7a6b7b2a4dc"
+      Hint: Copyright
+      Value: |
+        © 2026 Ashurst Perkins Coie Group. All rights reserved.

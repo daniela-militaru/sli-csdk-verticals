@@ -1,0 +1,39 @@
+---
+ID: "0566979f-bd43-45ab-9020-90f669e2790f"
+Parent: "c1f55ec1-1957-446a-98c9-124039a6d2d0"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Partial Designs/Header"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: |
+    header
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{A64689AA-FD05-4DB9-AEF1-8C231A01B06D}"
+              p:before="*"
+              s:ds="a61d3d9c-b221-4c51-a057-4947a35d030b"
+              s:id="{16D93DB1-A28D-4E85-91FB-832C23D1091A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA1C2C527-BDFD-4AE9-A566-3D2AB7410706%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header" />
+            <r
+              uid="{AD3C751F-0605-4BF9-A503-07C82DBCA036}"
+              p:after="r[@uid='{A64689AA-FD05-4DB9-AEF1-8C231A01B06D}']"
+              s:ds="e4dcd836-5d61-4489-af29-9d1aa05a9342"
+              s:id="{8EDFACC8-70AF-40D8-BD74-238760A667CF}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BC6AE0961-2403-4A11-AA5D-E256CD09AEF1%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z

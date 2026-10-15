@@ -1,0 +1,17 @@
+---
+ID: "d411fce9-4afb-4566-bcb9-5140d62276f5"
+Parent: "81e3b17d-9ded-4c5f-b64e-ba9961a8afbe"
+Template: "81e3b17d-9ded-4c5f-b64e-ba9961a8afbe"
+Path: "/sitecore/templates/Project/ashurst/HeroVideo Templates/HeroVideo Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

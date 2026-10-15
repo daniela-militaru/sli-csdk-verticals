@@ -1,0 +1,17 @@
+---
+ID: "fe2a388c-b393-4195-9844-e4b7dc9aea37"
+Parent: "dd0366c3-7393-44b6-9b69-d70f506618be"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/ashurst/ashurst/Presentation/Headless Variants/LocationsBand"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "308b63db-fc50-4bb8-96ab-43f92b3c5a88"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T120000Z
