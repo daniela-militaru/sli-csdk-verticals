@@ -31,3 +31,9 @@ npm run dev
 ```
 
 Do not copy item IDs or components from the other verticals. Local run uses `http://localhost:3010` in this session. Insights search filters the articles on this site.
+
+## CDP profile
+
+A floating customer profile is mounted from `src/Layout.tsx`. It is the Smith & Nephew CDP profile pattern, adapted for Ashurst routes and colors. It is not a Sitecore datasource and it does not call a CDP tenant. The browser stores the guest, visits, page views, searches, and referral in `localStorage`.
+
+Open it with the button at the bottom right, or add `?cdp=1` to the URL. Page views on `/insights` and `/sectors` add topic and industry affinities. Header search and the insights search record search events. Subscribe stores an email on this browser and adds an identity event. Reset browsing profile clears that local session.

@@ -1,6 +1,7 @@
 import { JSX, useEffect, useMemo, useState } from 'react';
 import { Text, TextField } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from 'lib/component-props';
+import { recordSearchEvent } from 'src/lib/cdp/cdp-session-tracker';
 import { filterInsights } from 'src/lib/insights';
 
 type Fields = { Placeholder?: TextField; InsightsTitle?: TextField; PeopleTitle?: TextField };
@@ -15,6 +16,12 @@ const SearchPanel = ({ fields, params, rendering }: Props): JSX.Element => {
     return () => window.removeEventListener('ashurst-search-open', openPanel);
   }, []);
   const results = useMemo(() => filterInsights(query).slice(0, 4), [query]);
+  useEffect(() => {
+    const value = query.trim();
+    if (value.length < 2) return undefined;
+    const timer = window.setTimeout(() => recordSearchEvent(value, 'header'), 400);
+    return () => window.clearTimeout(timer);
+  }, [query]);
   if (!open) return <div key={params?.RenderingIdentifier ?? rendering?.uid} hidden />;
   return (
     <div className="ash-overlay" key={params?.RenderingIdentifier ?? rendering?.uid}>

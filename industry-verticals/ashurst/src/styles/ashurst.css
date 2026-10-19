@@ -496,3 +496,272 @@ a {
     margin-top: 8px;
   }
 }
+
+.ash-cdp__toggle {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 91;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--ash-ink);
+  color: var(--ash-mint);
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(7, 17, 31, 0.28);
+}
+
+.ash-cdp__glyph {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.ash-cdp__backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 88;
+  border: 0;
+  background: rgba(7, 17, 31, 0.4);
+  cursor: pointer;
+}
+
+.ash-cdp__drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  width: min(36rem, 100%);
+  height: 100%;
+  background: var(--ash-cream);
+  color: var(--ash-ink);
+  font-size: 0.9rem;
+  box-shadow: -16px 0 40px rgba(7, 17, 31, 0.2);
+}
+
+.ash-cdp__drawer-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px 20px;
+  background: var(--ash-ink);
+  color: #fff;
+}
+
+.ash-cdp__drawer-head p {
+  margin: 0;
+  color: var(--ash-mint);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.ash-cdp__drawer-head h2 {
+  margin: 4px 0 0;
+  font-size: 20px;
+}
+
+.ash-cdp__stats {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.ash-cdp__stats span,
+.ash-cdp__stats button {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.ash-cdp__drawer-body {
+  flex: 1;
+  overflow: auto;
+  padding: 16px;
+}
+
+.ash-cdp__card,
+.ash-cdp__section-body {
+  margin-bottom: 12px;
+  padding: 16px;
+  background: #fff;
+  border: 1px solid var(--ash-line);
+}
+
+.ash-cdp__card p,
+.ash-cdp__section-body > p {
+  margin: 0 0 8px;
+}
+
+.ash-cdp__card span,
+.ash-cdp__section-body > p > span {
+  margin-right: 8px;
+  color: var(--ash-muted);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.ash-cdp__section {
+  margin-bottom: 12px;
+  overflow: hidden;
+  background: var(--ash-navy);
+  color: #fff;
+}
+
+.ash-cdp__section > button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 12px 16px;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+.ash-cdp__section > button span {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ash-cdp__section-body {
+  margin: 0;
+  color: var(--ash-ink);
+  border-width: 1px 0 0;
+}
+
+.ash-cdp__hint,
+.ash-cdp__muted {
+  color: var(--ash-muted);
+  font-size: 12px;
+}
+
+.ash-cdp__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  text-align: left;
+}
+
+.ash-cdp__table th,
+.ash-cdp__table td {
+  padding: 6px 4px;
+  border-bottom: 1px solid var(--ash-line);
+  vertical-align: middle;
+}
+
+.ash-cdp__bar {
+  display: inline-block;
+  height: 6px;
+  margin-right: 6px;
+  background: var(--ash-mint);
+}
+
+.ash-cdp__group {
+  margin: 12px 0 4px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.ash-cdp__score-line {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 4px 0;
+}
+
+.ash-cdp__events {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ash-cdp__events li {
+  margin-bottom: 8px;
+  padding: 12px;
+  border: 1px solid var(--ash-line);
+}
+
+.ash-cdp__events time {
+  display: block;
+  margin-top: 4px;
+  color: var(--ash-muted);
+  font-size: 12px;
+}
+
+.ash-cdp__events pre {
+  max-height: 10rem;
+  margin: 8px 0 0;
+  padding: 8px;
+  overflow: auto;
+  background: var(--ash-cream);
+  font-size: 11px;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.ash-cdp__events summary {
+  margin-top: 6px;
+  color: var(--ash-navy);
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.ash-cdp__section-body form {
+  display: grid;
+  gap: 8px;
+}
+
+.ash-cdp__section-body input {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid var(--ash-line);
+  padding: 8px 12px;
+  font: inherit;
+}
+
+.ash-cdp__section-body form button,
+.ash-cdp__ghost {
+  width: 100%;
+  margin-top: 8px;
+  border: 1px solid var(--ash-ink);
+  background: #fff;
+  padding: 8px 12px;
+  color: var(--ash-ink);
+  font: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.ash-cdp__section-body form button {
+  border-color: var(--ash-ink);
+  background: var(--ash-ink);
+  color: var(--ash-mint);
+}
+
+.ash-cdp__error {
+  margin: 0;
+  color: #9b2c2c;
+  font-size: 12px;
+}

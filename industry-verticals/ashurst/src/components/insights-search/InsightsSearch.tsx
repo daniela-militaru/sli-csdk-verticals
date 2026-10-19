@@ -1,6 +1,7 @@
-import { JSX, useMemo, useState } from 'react';
+import { JSX, useEffect, useMemo, useState } from 'react';
 import { Text, TextField } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from 'lib/component-props';
+import { recordSearchEvent } from 'src/lib/cdp/cdp-session-tracker';
 import { filterInsights } from 'src/lib/insights';
 
 type Props = ComponentProps & { fields?: { Title?: TextField; Placeholder?: TextField } };
@@ -9,6 +10,12 @@ const Search = ({ fields, params, rendering }: Props): JSX.Element => {
   const [query, setQuery] = useState('');
   const [visible, setVisible] = useState(4);
   const results = useMemo(() => filterInsights(query), [query]);
+  useEffect(() => {
+    const value = query.trim();
+    if (value.length < 2) return undefined;
+    const timer = window.setTimeout(() => recordSearchEvent(value, 'insights'), 400);
+    return () => window.clearTimeout(timer);
+  }, [query]);
   return (
     <section
       className={`ash-search-page ${params?.styles ?? ''}`}
