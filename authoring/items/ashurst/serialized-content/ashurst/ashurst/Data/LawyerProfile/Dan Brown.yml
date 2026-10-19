@@ -1,0 +1,75 @@
+---
+ID: "fe10745b-f2a4-4b5d-9a48-6dc3dd4ecf6c"
+Parent: "29f91d4e-8c55-4fa6-a24c-2da27d0ffd34"
+Template: "727e4ba9-144d-4212-a947-a108c38ce7f5"
+Path: "/sitecore/content/ashurst/ashurst/Data/LawyerProfile/Dan Brown"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    f7fdc0af-506c-49c7-9f10-07b18964b067
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07fbf742-dade-4dbf-946f-cbcaba66ce15"
+      Hint: Name
+      Value: |
+        Dan Brown
+    - ID: "51c61f71-ecf5-4fdd-af1e-0c76a0e7ccba"
+      Hint: Role
+      Value: |
+        Global Sector Leader, Energy and Infrastructure
+    - ID: "6a782dd5-ad79-4b4c-b46d-e02ff8739cbf"
+      Hint: Office
+      Value: |
+        Brisbane
+    - ID: "29f27260-22f9-4330-a053-b40fe61a70f2"
+      Hint: Image
+      Value: |
+        <image mediaid="{D65F112B-1C1B-4A2F-959F-8308B76FA339}" />
+    - ID: "977cf87f-3df1-4c4d-a586-02121dda4e67"
+      Hint: Phone
+      Value: |
+        +61 7 3259 7149
+    - ID: "38e7aebb-66d4-451a-a105-9e8f7e92c216"
+      Hint: Mobile
+      Value: |
+        +61 401 564 654
+    - ID: "eeccc670-c2aa-4e64-909a-dfa32c5f8e60"
+      Hint: Email
+      Value: |
+        dan.brown@ashurstperkins.com
+    - ID: "b728ba3c-9f91-4992-be6f-d676ac38c9cf"
+      Hint: LinkedIn
+      Value: |
+        <link text="LinkedIn" linktype="external" url="https://www.linkedin.com/in/projectslawyerdanbrown/" anchor="" target="_blank" />
+    - ID: "be3fcaf6-9301-4c17-90bc-c7fcfd4424fa"
+      Hint: Headline
+      Value: |
+        Dan helps clients deliver complex energy, resources and infrastructure projects that are reshaping the economies of tomorrow.
+    - ID: "40693392-6b66-4899-8615-aab84f36c28c"
+      Hint: Bio
+      Value: |
+        <p>Dan Brown is Global Leader, Energy &amp; Infrastructure Industry at Ashurst Perkins Coie.</p><p>He advises sponsors, developers, investors and lenders on major energy, resources and infrastructure projects across the Asia-Pacific region.</p><p>Dan’s work sits at the center of the systems that power modern economies. He advises on renewable energy, conventional power, transmission, major infrastructure, digital infrastructure, data centers and emerging energy transition technologies.</p><p>Clients value Dan for his clear judgement, deep industry knowledge and commercial approach. He helps clients structure projects, manage risk, navigate market and regulatory change, and make confident decisions on complex projects.</p><p>As Global Leader of Ashurst Perkins Coie’s Energy &amp; Infrastructure Industry, Dan helps shape the firm’s global sector strategy. He connects teams across markets and ensures Ashurst Perkins Coie brings uncommon insight and experience to clients facing major investment, policy and transition challenges.</p><p>Dan’s recognition includes The Australian’s Green List of Australia’s Top 100 Energy Players, Legal 500’s 2026 Green Ambassador recognition, and Best Lawyers recognition for Energy, Construction and Infrastructure.</p>
+    - ID: "8d6f50b0-2f7c-4dcd-bb14-8522c246d5f1"
+      Hint: Quote
+      Value: |
+        The depth of Dan Brown’s industry knowledge is second to none. This has enabled him to provide commercial and creative solutions to issues identified in our deals.
+    - ID: "bb80bf3f-04c5-4f22-9acc-e40d9dbc93ac"
+      Hint: QuoteSource
+      Value: |
+        Client, Chambers Asia-Pacific, Energy and Resources 2026
+    - ID: "60dae790-c0f8-4581-ab35-4f92175d842f"
+      Hint: Sectors
+      Value: |
+        <ul><li>Energy &amp; Infrastructure</li></ul>
+    - ID: "42039b10-9227-4725-aab2-e0e39fe133ee"
+      Hint: Services
+      Value: |
+        <ul><li>Construction</li><li>Projects, Energy, Environment &amp; Resources</li><li>Real Estate</li><li>Litigation, Investigations &amp; Advisory</li></ul>
+    - ID: "cbafc0f4-a61d-4168-9b33-0a8458f46e0b"
+      Hint: Experience
+      Value: |
+        <ul><li><strong>Ark Energy:</strong> Advised on its investment in a 30% interest in the 923.4MW MacIntyre Wind Farm in Queensland, one of the largest onshore wind farms in the southern hemisphere.</li><li><strong>Ark Energy:</strong> Advising on the procurement phase of the Boomer Green Energy Hub, a wind farm and battery energy storage system supplying approximately 1,150MW to the national grid.</li><li><strong>AMPYR Australia:</strong> Advising on the development of the 300MW/600MWh Bulabul Battery Project in New South Wales.</li><li><strong>CS Energy:</strong> Advised on its acquisition of a 50% interest in the Boulder Creek Wind Farm, including the joint venture arrangements for development, construction and operation.</li><li><strong>Cubico Sustainable Investments:</strong> Advised on the development, operations and joint venture arrangements for the circa A$700 million Wambo Wind Farm Stage 1 and Stage 2.</li><li><strong>EnergyAustralia:</strong> Advised on its joint venture with EDF power solutions Australia to co-develop the Lake Lyell Pumped Hydro Energy Storage project in Lithgow.</li><li><strong>Shell:</strong> Advised on its joint development arrangements for the 500MW/1000MWh Wallerawang 9 BESS in New South Wales.</li><li><strong>Acciona – Brisbane Metro:</strong> Advised on a suite of bespoke construction and procurement contracts for the $900 million Brisbane Metro project.</li></ul>

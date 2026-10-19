@@ -6,12 +6,14 @@ import { AnimateIn } from 'src/lib/animate-in';
 type HeaderFields = {
   SearchLabel?: TextField;
   PeopleLabel?: TextField;
+  PeopleLink?: LinkField;
   WhoWeAreLabel?: TextField;
   WhatWeDoLabel?: TextField;
   SectorsLabel?: TextField;
   PrivateCapitalLabel?: TextField;
   InsightsLabel?: TextField;
   InsightsLink?: LinkField;
+  EnergyLink?: LinkField;
   FinancialServicesLink?: LinkField;
   TechnologyLink?: LinkField;
   LocationsLabel?: TextField;
@@ -22,9 +24,13 @@ type HeaderProps = ComponentProps & { fields?: HeaderFields };
 
 const Labels = ({ fields }: { fields?: HeaderFields }): JSX.Element => (
   <>
-    <span>
-      <Text field={fields?.PeopleLabel} />
-    </span>
+    {fields?.PeopleLink ? (
+      <Link field={fields.PeopleLink} />
+    ) : (
+      <span>
+        <Text field={fields?.PeopleLabel} />
+      </span>
+    )}
     <span>
       <Text field={fields?.WhoWeAreLabel} />
     </span>
@@ -36,6 +42,7 @@ const Labels = ({ fields }: { fields?: HeaderFields }): JSX.Element => (
         <Text field={fields?.SectorsLabel} />
       </summary>
       <div>
+        {fields?.EnergyLink ? <Link field={fields.EnergyLink} /> : null}
         {fields?.FinancialServicesLink ? <Link field={fields.FinancialServicesLink} /> : null}
         {fields?.TechnologyLink ? <Link field={fields.TechnologyLink} /> : null}
       </div>

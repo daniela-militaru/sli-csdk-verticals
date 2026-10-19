@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Name",
+    "title": "Name",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Role",
+    "title": "Role",
+    "type": "Single-Line Text",
+    "sort": 110
+  },
+  {
+    "name": "Office",
+    "title": "Office",
+    "type": "Single-Line Text",
+    "sort": 120
+  },
+  {
+    "name": "Image",
+    "title": "Headshot",
+    "type": "Image",
+    "sort": 130
+  },
+  {
+    "name": "Phone",
+    "title": "Phone",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Mobile",
+    "title": "Mobile",
+    "type": "Single-Line Text",
+    "sort": 210
+  },
+  {
+    "name": "Email",
+    "title": "Email",
+    "type": "Single-Line Text",
+    "sort": 220
+  },
+  {
+    "name": "LinkedIn",
+    "title": "LinkedIn",
+    "type": "General Link",
+    "sort": 230
+  },
+  {
+    "name": "Headline",
+    "title": "Headline",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Bio",
+    "title": "Bio",
+    "type": "Rich Text",
+    "sort": 310
+  },
+  {
+    "name": "Quote",
+    "title": "Quote",
+    "type": "Single-Line Text",
+    "sort": 320
+  },
+  {
+    "name": "QuoteSource",
+    "title": "Quote source",
+    "type": "Single-Line Text",
+    "sort": 330
+  },
+  {
+    "name": "Sectors",
+    "title": "Sectors",
+    "type": "Rich Text",
+    "sort": 400
+  },
+  {
+    "name": "Services",
+    "title": "Services",
+    "type": "Rich Text",
+    "sort": 410
+  },
+  {
+    "name": "Experience",
+    "title": "Experience",
+    "type": "Rich Text",
+    "sort": 500
+  },
+  {
+    "name": "Credentials",
+    "title": "Education and credentials",
+    "type": "Rich Text",
+    "sort": 600
+  }
+]

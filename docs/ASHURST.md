@@ -1,6 +1,8 @@
 # Ashurst Perkins Coie
 
-Law-firm demo that follows the public Ashurst Perkins Coie site. Pages so far are the homepage, the all-insights listing, three insight articles, and the Financial Services and Technology sector pages.
+Law-firm demo that follows the public Ashurst Perkins Coie site. Pages so far are the homepage, the all-insights listing, three insight articles, the Energy & Infrastructure, Financial Services and Technology sector pages, a People page, and the Dan Brown lawyer profile.
+
+The lawyer profile uses the `LawyerProfile` component. Key Contacts cards link to a profile when their `ContactNLink` field is set. Sector, people and profile items are written by `authoring/items/ashurst/scripts/assemble-sectors.mjs`, with copy in `sector-copy.mjs` and `energy-copy.mjs`.
 
 | | |
 | --- | --- |
@@ -22,6 +24,8 @@ Reference pages:
 - https://www.ashurstperkinscoie.com/en/insights/asics-first-comprehensive-review-of-sustainability-reports/
 - https://www.ashurstperkinscoie.com/en/sectors/financial-services/
 - https://www.ashurstperkinscoie.com/en/sectors/technology/
+- https://www.ashurstperkinscoie.com/en/sectors/energy-and-infrastructure/
+- https://www.ashurstperkinscoie.com/en/people/dan-brown/
 
 Run locally after `.env.local` is filled from Deploy portal Developer settings:
 

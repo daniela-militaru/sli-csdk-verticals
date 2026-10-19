@@ -1,0 +1,31 @@
+---
+ID: "3d6fbe7e-3f1f-4ed5-b9b6-39e7e3d81047"
+Parent: "3974c026-63c2-4bf5-8eae-e4dd71c131a5"
+Template: "1e592e2d-563f-4bd1-86b5-a3bbd02c5e4a"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorHero/Energy and Infrastructure"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    f85e2a4f-03db-4b16-879a-3526e9be5caa
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "66ec287d-b3c4-484c-9941-f188b79e39e5"
+      Hint: Eyebrow
+      Value: |
+        Sector strengths
+    - ID: "d9f6416a-b779-4aed-9e74-e2778e8e7ce7"
+      Hint: Title
+      Value: |
+        Energy & Infrastructure
+    - ID: "f5ab93c8-1c64-42a8-8e60-30abdc592f7d"
+      Hint: Intro
+      Value: |
+        <p>The strategic partner for clients shaping the systems that underpin the economies of tomorrow—delivering secure energy, resilient infrastructure, and sustainable growth</p>
+    - ID: "618157f3-410a-45a2-b463-dce2d3d86507"
+      Hint: Image
+      Value: |
+        <image mediaid="{0467B7F7-69E2-4F4A-9E97-1CB1B7959F52}" />

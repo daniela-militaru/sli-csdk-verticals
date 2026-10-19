@@ -1,0 +1,75 @@
+---
+ID: "ac57249c-0933-4b59-a880-f3651aa5348f"
+Parent: "d499d7ba-1def-4487-a7e0-ade549433747"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/sectors/energy-and-infrastructure"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{9A922E83-9BE2-4B9A-A512-A8046FE77EB7}"
+              p:before="*"
+              s:ds="3d6fbe7e-3f1f-4ed5-b9b6-39e7e3d81047"
+              s:id="{2E80F598-5A9C-48F6-B4EA-410942A1B1D7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDACB1618-E710-4925-8F32-B139FB613935%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{1B19DF87-292E-4013-A39F-BE52F351C849}"
+              p:after="r[@uid='{9A922E83-9BE2-4B9A-A512-A8046FE77EB7}']"
+              s:ds="116ece9c-8a7f-40ca-aa8e-ca48fa48c73a"
+              s:id="{A27FEEFB-DA65-4790-84AD-9878B386D0FF}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B722ABCD2-CC51-4136-943F-AE1FC7A18FE0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{75BD4CA7-BCF1-4F49-AD7E-B1D0B42D1E33}"
+              p:after="r[@uid='{1B19DF87-292E-4013-A39F-BE52F351C849}']"
+              s:ds="7e2a205f-60db-4d41-96d2-9ba19d11167c"
+              s:id="{96F2C77B-4AE2-45BF-A9F5-A473A6E0F987}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B893B2A49-01F3-4F49-956D-556BC1151512%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{AEF839EE-DE82-4D32-8676-AFE0EE12554F}"
+              p:after="r[@uid='{75BD4CA7-BCF1-4F49-AD7E-B1D0B42D1E33}']"
+              s:ds="5cb07792-4283-4522-a1df-ed3280519f54"
+              s:id="{25433EF9-558C-4B11-9C20-7F57A08BE931}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B5D759453-9C8B-4AF8-B8AA-57EE6DA06A78%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{4C6A400C-D4DE-4315-84BC-4A218AFC20FF}"
+              p:after="r[@uid='{AEF839EE-DE82-4D32-8676-AFE0EE12554F}']"
+              s:ds="278b6478-58a0-4ff7-a47a-3fe31d1b938e"
+              s:id="{9B6CC66E-D7B0-45D9-BF9D-91180BE3A4F7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA0AA549A-E147-4E6B-B1CB-73282ED38655%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{33775475-F43D-4C80-BF5C-B280ADA7430B}"
+              p:after="r[@uid='{4C6A400C-D4DE-4315-84BC-4A218AFC20FF}']"
+              s:ds="9a7dbe0c-af0f-49ce-81ab-553d65a0917e"
+              s:id="{9B6CC66E-D7B0-45D9-BF9D-91180BE3A4F7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA0AA549A-E147-4E6B-B1CB-73282ED38655%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{F0E9E929-0DDD-44D7-A360-1ADB3E572A4D}"
+              p:after="r[@uid='{33775475-F43D-4C80-BF5C-B280ADA7430B}']"
+              s:ds="4d66d23b-30c3-4e62-9a3d-9116d7d1ce50"
+              s:id="{91B6C53D-4FEB-4B14-AAF5-C2BD0FF856FE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDFDC7F0B-B108-47A1-9935-5810703549DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ac44656d-89b1-466f-9f99-8a4b7ca2dba7"
+      Hint: Title
+      Value: |
+        Energy & Infrastructure
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: |
+        Energy & Infrastructure

@@ -16,6 +16,15 @@ import {
   technologyIntro,
   technologyNews,
 } from './sector-copy.mjs';
+import {
+  danBrown,
+  danBrownInsights,
+  energyHighlights,
+  energyHow,
+  energyInsights,
+  energyIntro,
+  energyNews,
+} from './energy-copy.mjs';
 
 const scriptsDir = dirname(fileURLToPath(import.meta.url));
 const contentRoot = join(scriptsDir, '..', 'serialized-content');
@@ -40,7 +49,11 @@ const MEDIA = {
   dax: '8c6720f5-9ba0-4134-a4f3-9982b388dcc4',
   judy: 'ca3c205a-3904-4c89-bbfe-e3967ffe24b8',
   tihana: 'be7807ab-8526-47f8-98d0-806aca1d6a3f',
+  energy: '0467b7f7-69e2-4f4a-9e97-1cb1b7959f52',
+  dan: 'd65f112b-1c1b-4a2f-959f-8308b76fa339',
+  buck: '6a0b1dcf-8b14-4ac4-ae14-c469b28fa8f9',
 };
+const KEY_CONTACTS_DATA = 'fc92136e-d51f-457a-a2c9-e1f947c906ab';
 
 const reserved = ['a1e9', 'b40e', 'b803', '0e0a', 'c4c0', 'a50c', '4ec1'];
 const idsPath = join(scriptsDir, 'sector-ids.json');
@@ -289,8 +302,19 @@ function page(name, parent, title, entries) {
   return itemId;
 }
 
+[1, 2, 3, 4].forEach((slot) =>
+  templateField(
+    'KeyContacts',
+    KEY_CONTACTS_DATA,
+    `Contact${slot}Link`,
+    `Contact ${slot} profile link`,
+    slot * 100 + 130,
+    stable(`keycontacts-link-${slot}`)
+  )
+);
+
 const sectorsIntro = datasource('SectorIntro', 'Sectors', {
-  Body: '<p>Ashurst Perkins Coie supports clients in the sectors shaping the future economy from technology, energy and infrastructure, financial services and more.</p><p><a href="/sectors/financial-services">Financial Services</a></p><p><a href="/sectors/technology">Technology</a></p>',
+  Body: '<p>Ashurst Perkins Coie supports clients in the sectors shaping the future economy from technology, energy and infrastructure, financial services and more.</p><p><a href="/sectors/energy-and-infrastructure">Energy &amp; Infrastructure</a></p><p><a href="/sectors/financial-services">Financial Services</a></p><p><a href="/sectors/technology">Technology</a></p>',
 });
 const sectorsHero = datasource('SectorHero', 'Sectors', {
   Eyebrow: 'Sectors',
@@ -361,21 +385,107 @@ page('sectors/technology', sectorsId, 'Technology', [
   rendering('KeyContacts', technologyPeople),
 ]);
 
+const energyPageId = stable('page-sectors/energy-and-infrastructure');
+const danBrownPageId = stable('page-people/dan-brown');
+
+const energyHero = datasource('SectorHero', 'Energy and Infrastructure', {
+  Eyebrow: 'Sector strengths',
+  Title: 'Energy & Infrastructure',
+  Intro: '<p>The strategic partner for clients shaping the systems that underpin the economies of tomorrow—delivering secure energy, resilient infrastructure, and sustainable growth</p>',
+  Image: image(MEDIA.energy),
+});
+const energyBody = datasource('SectorIntro', 'Energy and Infrastructure', { Body: energyIntro });
+const energyPeople = datasource('KeyContacts', 'Energy and Infrastructure', {
+  Title: 'Meet our people',
+  Contact1Name: 'Dan Brown',
+  Contact1Role: 'Global Sector Leader, Energy and Infrastructure · Brisbane · +61 7 3259 7149',
+  Contact1Image: image(MEDIA.dan),
+  Contact1Link: link('Dan Brown', danBrownPageId),
+  Contact2Name: 'Buck Endemann',
+  Contact2Role: 'Global Sector Leader, Energy and Infrastructure · San Francisco · 415.344.7022',
+  Contact2Image: image(MEDIA.buck),
+});
+
+page('sectors/energy-and-infrastructure', sectorsId, 'Energy & Infrastructure', [
+  rendering('SectorHero', energyHero),
+  rendering('SectorIntro', energyBody),
+  rendering('SectorHighlights', highlights('Energy and Infrastructure', energyHighlights)),
+  rendering('SectorAccordion', accordion('Energy How', 'How we can help', energyHow)),
+  rendering('SectorCarousel', carousel('Energy Insights', 'Related insights', energyInsights)),
+  rendering('SectorCarousel', carousel('Energy News', 'Related news', energyNews)),
+  rendering('KeyContacts', energyPeople),
+]);
+
+const peopleHero = datasource('SectorHero', 'People', {
+  Eyebrow: 'People',
+  Title: 'Our people',
+  Intro: '<p>More than 3,500 client-facing practitioners across 52 offices, working as one integrated team.</p>',
+});
+const peopleFeatured = datasource('KeyContacts', 'People', {
+  Title: 'Featured people',
+  Contact1Name: 'Dan Brown',
+  Contact1Role: 'Global Sector Leader, Energy and Infrastructure · Brisbane',
+  Contact1Image: image(MEDIA.dan),
+  Contact1Link: link('Dan Brown', danBrownPageId),
+  Contact2Name: 'Buck Endemann',
+  Contact2Role: 'Global Sector Leader, Energy and Infrastructure · San Francisco',
+  Contact2Image: image(MEDIA.buck),
+  Contact3Name: 'Judy Jennison',
+  Contact3Role: 'Global Sector Leader, Technology · Seattle',
+  Contact3Image: image(MEDIA.judy),
+  Contact4Name: 'Lee Doyle',
+  Contact4Role: 'Global Sector Leader, Financial Services · London',
+  Contact4Image: image(MEDIA.lee),
+});
+
+const peopleId = page('people', HOME_ID, 'People', [
+  rendering('SectorHero', peopleHero),
+  rendering('KeyContacts', peopleFeatured),
+]);
+
+const danBrownProfile = datasource('LawyerProfile', 'Dan Brown', {
+  Name: danBrown.name,
+  Role: danBrown.role,
+  Office: danBrown.office,
+  Image: image(MEDIA.dan),
+  Phone: danBrown.phone,
+  Mobile: danBrown.mobile,
+  Email: danBrown.email,
+  LinkedIn: `<link text="LinkedIn" linktype="external" url="${danBrown.linkedIn}" anchor="" target="_blank" />`,
+  Headline: danBrown.headline,
+  Bio: danBrown.bio,
+  Quote: danBrown.quote,
+  QuoteSource: danBrown.quoteSource,
+  Sectors: danBrown.sectors,
+  Services: danBrown.services,
+  Experience: danBrown.experience,
+});
+
+page('people/dan-brown', peopleId, 'Dan Brown', [
+  rendering('LawyerProfile', danBrownProfile),
+  rendering('SectorCarousel', carousel('Dan Brown Insights', 'Latest thinking', danBrownInsights)),
+]);
+
 function headerField(name, title, sort, itemId) {
-  const path = `/sitecore/templates/Project/ashurst/Header Templates/Header/Data/${name}`;
-  const disk = join(contentRoot, 'templates', 'ashurst', 'Header Templates', 'Header', 'Data', `${name}.yml`);
+  templateField('Header', HEADER_DATA, name, title, sort, itemId);
+}
+
+function templateField(component, parent, name, title, sort, itemId, type = 'General Link') {
+  const path = `/sitecore/templates/Project/ashurst/${component} Templates/${component}/Data/${name}`;
+  const disk = join(contentRoot, 'templates', 'ashurst', `${component} Templates`, component, 'Data', `${name}.yml`);
   mkdirSync(dirname(disk), { recursive: true });
+  templateByPath.set(path, { itemId, path });
   writeFileSync(
     disk,
     `---
 ID: "${itemId}"
-Parent: "${HEADER_DATA}"
+Parent: "${parent}"
 Template: "${FIELD_TEMPLATE}"
 Path: "${path}"
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: "General Link"
+  Value: "${type}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: ${sort}
@@ -400,9 +510,23 @@ const financialLinkId = stable('header-fs-link');
 const technologyLinkId = stable('header-tech-link');
 headerField('FinancialServicesLink', 'Financial services link', 810, financialLinkId);
 headerField('TechnologyLink', 'Technology link', 820, technologyLinkId);
+const energyLinkId = stable('header-energy-link');
+const peopleLinkId = stable('header-people-link');
+headerField('EnergyLink', 'Energy and infrastructure link', 805, energyLinkId);
+headerField('PeopleLink', 'People link', 150, peopleLinkId);
 
 const headerPath = join(siteRoot, 'Data', 'Header', 'Header.yml');
-const header = readFileSync(headerPath, 'utf8');
+let header = readFileSync(headerPath, 'utf8');
+const LOCATIONS_LABEL = '    - ID: "5529435c-d038-4d8d-8594-3d1e2365ac82"';
+const headerValue = (hint, fieldItemId, value) => {
+  if (header.includes(`Hint: ${hint}\n`) || header.includes(`Hint: ${hint}\r\n`)) return;
+  const eol = header.includes('\r\n') ? '\r\n' : '\n';
+  const entry = [`    - ID: "${fieldItemId}"`, `      Hint: ${hint}`, '      Value: |', `        ${value}`, ''].join(eol);
+  header = header.replace(LOCATIONS_LABEL, entry + LOCATIONS_LABEL);
+};
+headerValue('EnergyLink', energyLinkId, link('Energy & Infrastructure', energyPageId).replace('&', '&amp;'));
+headerValue('PeopleLink', peopleLinkId, link('People', peopleId));
+writeFileSync(headerPath, header, 'utf8');
 if (!header.includes('Hint: FinancialServicesLink') || !header.includes('Hint: TechnologyLink')) {
   throw new Error('Header sector links were not written.');
 }
@@ -410,3 +534,6 @@ writeFileSync(idsPath, JSON.stringify(ids, null, 2));
 console.log('sectors', sectorsId);
 console.log('financial-services', financialPageId);
 console.log('technology', technologyPageId);
+console.log('energy-and-infrastructure', energyPageId);
+console.log('people', peopleId);
+console.log('people/dan-brown', danBrownPageId);

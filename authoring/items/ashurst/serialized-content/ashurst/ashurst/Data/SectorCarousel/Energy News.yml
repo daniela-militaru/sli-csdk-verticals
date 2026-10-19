@@ -1,0 +1,71 @@
+---
+ID: "9a7dbe0c-af0f-49ce-81ab-553d65a0917e"
+Parent: "2cafa16a-3163-41a1-bf2a-07d17ebf40af"
+Template: "0f06837c-c537-4b1c-8c9e-3c8a62de36b0"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorCarousel/Energy News"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    acff81ca-51f2-46c3-beff-8d6bec9468d1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c59c6160-4f88-45da-8109-edca89bb293b"
+      Hint: Title
+      Value: |
+        Related news
+    - ID: "5e3967c8-06a1-42a0-931f-f6346343b3ee"
+      Hint: ViewAll
+      Value: |
+        <link text="View all" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "3248c4b9-be34-43f5-98b6-f398eed6d5d5"
+      Hint: Card1Tag
+      Value: |
+        News
+    - ID: "a0cd281d-2b7f-48b3-8ac7-b367cbc7d63a"
+      Hint: Card1Title
+      Value: |
+        Ashurst Perkins Coie advises Algebris Investments on the acquisition of Vector Renewables
+    - ID: "06e8e43a-ef9f-4984-b855-168bd3291317"
+      Hint: Card1Date
+      Value: |
+        October 06, 2026
+    - ID: "bca0c615-ab75-4424-8374-b43b31262bed"
+      Hint: Card1Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "6587364a-8300-4653-a0ed-8ac16c49f4c8"
+      Hint: Card2Tag
+      Value: |
+        News
+    - ID: "ea259628-d0b1-446a-855d-d738ed3c0379"
+      Hint: Card2Title
+      Value: |
+        Ashurst Perkins Coie grows energy transition footprint in London with partner hire
+    - ID: "cb5f992e-9f91-42f8-935d-e2b02f894a7b"
+      Hint: Card2Date
+      Value: |
+        October 02, 2026
+    - ID: "c6e3f12d-6837-4c6f-9aa3-b0e91112a156"
+      Hint: Card2Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />
+    - ID: "0fc966b4-f72d-440d-9fb6-252d60380400"
+      Hint: Card3Tag
+      Value: |
+        News
+    - ID: "e4158310-749f-4750-ae8c-9f70502eb66b"
+      Hint: Card3Title
+      Value: |
+        Ashurst Perkins Coie advises lenders on the limited recourse financing of two solar photovoltaic plants with integrated battery storage in Chad
+    - ID: "186ed7ba-6e7f-46f7-8fd5-cbb2ce937434"
+      Hint: Card3Date
+      Value: |
+        October 01, 2026
+    - ID: "e225a3d5-9962-4195-b5ba-3c21374ad296"
+      Hint: Card3Link
+      Value: |
+        <link text="Discover more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E9D5CDC8-A2A9-4865-AA0A-0EBBB2C6294F}" />

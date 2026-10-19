@@ -1,0 +1,19 @@
+---
+ID: "116ece9c-8a7f-40ca-aa8e-ca48fa48c73a"
+Parent: "4fed26dd-e358-465d-861a-d6578a66f7f2"
+Template: "96f4f856-2d4c-447d-a9e4-e15f42102e8f"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorIntro/Energy and Infrastructure"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    7295807b-efb7-4b46-8659-a6d868b9232d
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "887c19d4-281f-4732-9cc3-23f291ae8a1f"
+      Hint: Body
+      Value: |
+        <h3>Geopolitical realignment, digital transformation, and the demand for secure and sustainable energy sources are reshaping the systems that power economies. Predictable energy development and supply, investable transition technologies, critical minerals, and infrastructure that can withstand climate, social, and regulatory pressure now sit at the center of national strategy and corporate growth.</h3><p>Ashurst Perkins Coie provides end-to-end legal solutions to such challenges, both locally and globally. We lead on regulatory planning and permitting, complex transactions and investments, project development and finance, operational strategy, and high-stakes disputes. We work across energy, infrastructure, and resources, connecting sector knowledge with the firm’s capabilities in regulatory policy, construction, environmental, corporate, litigation, securities, tax, real estate, intellectual property, labor and employment, and insurance recovery.</p><p>Our clients include sponsors, utilities, producers, developers, public sector bodies, contractors, equity investors, debt financiers, and large energy users. We help move critical projects from concept to operation: structure procurement and public-private interfaces, secure approvals, negotiate commercial frameworks, manage delivery risk, and resolve disputes. The result is advice that is commercial, globally informed, and focused on building secure energy systems, resilient infrastructure, and sustainable growth.</p>

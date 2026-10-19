@@ -1,0 +1,40 @@
+---
+ID: "b78d516f-daa3-4761-b920-98eca780a2c3"
+Parent: "1a784bdd-39e2-4ed4-be9f-7c7d413ab256"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/people"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{27386D18-D279-4185-A0F4-65D7C77DA69F}"
+              p:before="*"
+              s:ds="fa50860b-02c0-44a2-a067-9f7f5961d42b"
+              s:id="{2E80F598-5A9C-48F6-B4EA-410942A1B1D7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDACB1618-E710-4925-8F32-B139FB613935%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{12291CB5-91C6-40F9-88C3-BABB55004D3D}"
+              p:after="r[@uid='{27386D18-D279-4185-A0F4-65D7C77DA69F}']"
+              s:ds="d3fa58c5-eb3f-4fbc-ac05-40b8bf89fbdb"
+              s:id="{91B6C53D-4FEB-4B14-AAF5-C2BD0FF856FE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BDFDC7F0B-B108-47A1-9935-5810703549DB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ac44656d-89b1-466f-9f99-8a4b7ca2dba7"
+      Hint: Title
+      Value: |
+        People
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: |
+        People

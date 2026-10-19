@@ -1,0 +1,51 @@
+---
+ID: "7e2a205f-60db-4d41-96d2-9ba19d11167c"
+Parent: "4892b01e-6488-4e17-82d0-16f8389bb04a"
+Template: "121f035c-ec7a-4656-a580-27f8d44dedf2"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorHighlights/Energy and Infrastructure"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    c5230c3d-097b-4df6-b1c2-24f79fbe8d4f
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "47ac74d5-be75-4841-a98d-a2c6706772da"
+      Hint: Card1Kicker
+      Value: |
+        
+    - ID: "e618e887-e77a-4bb0-84d7-82a06d8337ea"
+      Hint: Card1Title
+      Value: |
+        Secure energy systems
+    - ID: "a4eed9dc-b7b2-4f74-8f78-3352c3cd591d"
+      Hint: Card1Body
+      Value: |
+        <p>We advise across the energy value chain: production, generation, transport, storage, and consumption. Our work spans renewable and conventional generation and production, traditional energy product logistics, power markets, transmission, storage, alternative fuels, and the commercial frameworks that make new technologies investable at scale.</p>
+    - ID: "434129de-948e-4212-adf5-cf1ae51de8f0"
+      Hint: Card2Kicker
+      Value: |
+        
+    - ID: "9435357e-6977-42a8-951e-622f05f4c691"
+      Hint: Card2Title
+      Value: |
+        Resilient infrastructure
+    - ID: "52e71225-d210-4b4a-88e5-ee11db7b09e0"
+      Hint: Card2Body
+      Value: |
+        <p>We support our clients leading the evolution to integrated digital ecosystems that optimize mobility, sustainability, and resilience. We help public and private clients deliver transport, energy, health, social, and digital infrastructure. From structuring and procurement through financial close, operations, and reform, we optimize the public-private regulatory interface and apply international lessons to local delivery challenges.</p>
+    - ID: "e335e526-98a4-441b-a04e-0b9a79012638"
+      Hint: Card3Kicker
+      Value: |
+        
+    - ID: "e9452b80-eb69-456e-8aba-3506500b0ea2"
+      Hint: Card3Title
+      Value: |
+        Resources for the future
+    - ID: "f751ee46-330e-42f1-9d97-8b335523cc54"
+      Hint: Card3Body
+      Value: |
+        <p>We advise across the mining and resource recovery life cycles for the materials that underpin modern economies, from steel, copper, and alloys to battery metals and critical minerals. We connect our resources with energy, infrastructure, finance, environmental, and disputes capabilities.</p>

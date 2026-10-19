@@ -1,0 +1,71 @@
+---
+ID: "d3fa58c5-eb3f-4fbc-ac05-40b8bf89fbdb"
+Parent: "eab4a2ae-8a26-41ca-a35c-ae1f57d5cc94"
+Template: "d8e0c65f-c2d4-4ec4-ab59-65ec6d981db1"
+Path: "/sitecore/content/ashurst/ashurst/Data/KeyContacts/People"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    a1124956-ed9d-4d4c-bfde-8adc2abd8a29
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06c2b4e5-eb98-4856-8a13-d4d3164ab8b3"
+      Hint: Title
+      Value: |
+        Featured people
+    - ID: "acdb8ffa-5ad9-4388-b68f-b96b01090da3"
+      Hint: Contact1Name
+      Value: |
+        Dan Brown
+    - ID: "a4b2416e-bc92-403d-9000-05b9ee7d4901"
+      Hint: Contact1Role
+      Value: |
+        Global Sector Leader, Energy and Infrastructure · Brisbane
+    - ID: "95932755-bf01-47af-b06e-d8f6fe7153cc"
+      Hint: Contact1Image
+      Value: |
+        <image mediaid="{D65F112B-1C1B-4A2F-959F-8308B76FA339}" />
+    - ID: "96eb34d1-f814-4aad-9174-f7c1010e10e9"
+      Hint: Contact1Link
+      Value: |
+        <link text="Dan Brown" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A6130A4A-9F85-4357-BAD3-A8895DBAC190}" />
+    - ID: "f09c9997-50b9-42d5-a9ae-3f6b0e5cc5ab"
+      Hint: Contact2Name
+      Value: |
+        Buck Endemann
+    - ID: "b16f6607-e15b-451a-a91b-002b2600bc71"
+      Hint: Contact2Role
+      Value: |
+        Global Sector Leader, Energy and Infrastructure · San Francisco
+    - ID: "b5c10dd2-b4b2-4a5e-b16f-4873f60983f5"
+      Hint: Contact2Image
+      Value: |
+        <image mediaid="{6A0B1DCF-8B14-4AC4-AE14-C469B28FA8F9}" />
+    - ID: "eb980809-6bba-42b8-befc-e1929c6f685e"
+      Hint: Contact3Name
+      Value: |
+        Judy Jennison
+    - ID: "4c0fb517-2af0-4248-997f-9fa5872e4dbf"
+      Hint: Contact3Role
+      Value: |
+        Global Sector Leader, Technology · Seattle
+    - ID: "7fa195f6-8949-4af5-aafe-6c2ba373caa7"
+      Hint: Contact3Image
+      Value: |
+        <image mediaid="{CA3C205A-3904-4C89-BBFE-E3967FFE24B8}" />
+    - ID: "eb9ea0d5-1ba6-4ae2-9c1c-a599e8781048"
+      Hint: Contact4Name
+      Value: |
+        Lee Doyle
+    - ID: "b1cbce1e-edf2-4df1-90b8-94238d474f69"
+      Hint: Contact4Role
+      Value: |
+        Global Sector Leader, Financial Services · London
+    - ID: "2d96ce65-4bc9-4757-bdf0-2a31a1b1df15"
+      Hint: Contact4Image
+      Value: |
+        <image mediaid="{BF53BA67-D974-48E8-9055-B845EF16380C}" />

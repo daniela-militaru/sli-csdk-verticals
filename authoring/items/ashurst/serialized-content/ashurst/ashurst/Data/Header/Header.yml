@@ -52,6 +52,14 @@ Languages:
       Hint: TechnologyLink
       Value: |
         <link text="Technology" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7B00EBE8-3393-4046-A4E3-B4E63C28F2E7}" />
+    - ID: "704d29df-9dc9-41c6-bcd3-444d4d702c4a"
+      Hint: EnergyLink
+      Value: |
+        <link text="Energy &amp; Infrastructure" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AC57249C-0933-4B59-A880-F3651AA5348F}" />
+    - ID: "97a7b76f-87b9-48fc-be16-862fbc402dbd"
+      Hint: PeopleLink
+      Value: |
+        <link text="People" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B78D516F-DAA3-4761-B920-98ECA780A2C3}" />
     - ID: "5529435c-d038-4d8d-8594-3d1e2365ac82"
       Hint: LocationsLabel
       Value: |

@@ -1,0 +1,40 @@
+---
+ID: "a6130a4a-9f85-4357-bad3-a8895dbac190"
+Parent: "b78d516f-daa3-4761-b920-98eca780a2c3"
+Template: "44815917-d191-4b69-bf54-951b0852b0c9"
+Path: "/sitecore/content/ashurst/ashurst/Home/people/dan-brown"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+            <r
+              uid="{50163967-85F9-4DE4-BED5-060D5B39C2B4}"
+              p:before="*"
+              s:ds="fe10745b-f2a4-4b5d-9a48-6dc3dd4ecf6c"
+              s:id="{415BE6A7-8ECD-4CDE-8BF5-BEEFCB435A40}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B500EC45B-1AE0-40D4-B4B9-719B0C5A4D70%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{694D415F-AC53-4C28-963B-55B98173F2F3}"
+              p:after="r[@uid='{50163967-85F9-4DE4-BED5-060D5B39C2B4}']"
+              s:ds="1afddc23-eb19-4f5f-bbd3-7705d5bc6b1b"
+              s:id="{9B6CC66E-D7B0-45D9-BF9D-91180BE3A4F7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA0AA549A-E147-4E6B-B1CB-73282ED38655%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ac44656d-89b1-466f-9f99-8a4b7ca2dba7"
+      Hint: Title
+      Value: |
+        Dan Brown
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: |
+        Dan Brown

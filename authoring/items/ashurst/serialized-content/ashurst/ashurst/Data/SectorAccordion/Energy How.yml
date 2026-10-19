@@ -1,0 +1,115 @@
+---
+ID: "5cb07792-4283-4522-a1df-ed3280519f54"
+Parent: "42b0ea5d-7f43-4aef-a64c-0475fd53f430"
+Template: "f3f3a3bb-063a-4f28-b6a6-976192e2bf04"
+Path: "/sitecore/content/ashurst/ashurst/Data/SectorAccordion/Energy How"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    e2f669c3-4602-4e49-a392-062ef93f91a2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f5db28af-eebd-4939-bbfb-f0fa51d1b650"
+      Hint: Title
+      Value: |
+        How we can help
+    - ID: "24c6dcef-9243-4835-a768-b1ee2c8b336f"
+      Hint: Item1Title
+      Value: |
+        Power—renewable and conventional
+    - ID: "e9e9f289-9477-4d87-86fb-e570aade8fc8"
+      Hint: Item1Teaser
+      Value: |
+        
+    - ID: "059be3fc-ec8f-4584-8bd6-c9b8a1058779"
+      Hint: Item1Body
+      Value: |
+        <p>We advise on solar, wind, hydroelectric, geothermal, nuclear, and other generation projects throughout the life cycle, including siting, permitting, construction, operation, financing, grid interconnection, offtake, tax incentives, and market participation. We work with utilities, developers, investors, and energy users to buy and sell energy products, bring complex projects to market, and defend them when challenged.</p>
+    - ID: "58c4f3a2-2d46-4597-8332-b50786010a05"
+      Hint: Item2Title
+      Value: |
+        Oil and gas
+    - ID: "e38e1a79-4981-4863-aeca-d7b5a4fd32b3"
+      Hint: Item2Teaser
+      Value: |
+        
+    - ID: "fdfd2bcd-838f-4be7-a65e-106d62fbc542"
+      Hint: Item2Body
+      Value: |
+        <p>Our clients span every major oil and gas market, including exploration and production, refining, midstream, and downstream sectors. Our work includes strategic transactions, regulatory and environmental counseling, project development, financing, and complex litigation.</p>
+    - ID: "ace72ef3-03bc-49be-a35b-ca07b16f93bf"
+      Hint: Item3Title
+      Value: |
+        Low carbon solutions
+    - ID: "dbf562af-6148-44d3-a6a1-2422afff5a8b"
+      Hint: Item3Teaser
+      Value: |
+        
+    - ID: "bc6fa71b-3b58-4015-9ac0-5ae0f7ceb672"
+      Hint: Item3Body
+      Value: |
+        <p>We support clients on hydrogen, battery storage, renewable fuels, waste-to-value, green molecules, carbon capture, and the commercial frameworks needed to scale emerging technologies. Our work spans regulation and incentives, feedstock, offtake, project development, construction, financing, market participation, and disputes.</p>
+    - ID: "2bbc5b10-f6e5-47a2-b154-ad816816c759"
+      Hint: Item4Title
+      Value: |
+        Resources
+    - ID: "e9432518-8eb2-4df9-ab9b-e7effb7783e1"
+      Hint: Item4Teaser
+      Value: |
+        
+    - ID: "3ee424e4-88c8-4f1e-ba74-bf71dd6a0082"
+      Hint: Item4Body
+      Value: |
+        <p>We advise every stage of the mine life cycle, from exploration and regulatory approvals to financing, mine development, construction, operations, productivity, shipping, and marketing. We meet our clients with their most important transactions, projects, and disputes, from concept to closure to redevelopment.</p>
+    - ID: "13104b6d-c388-48f2-9059-f2fea54ab105"
+      Hint: Item5Title
+      Value: |
+        Transmission, grids, and digital infrastructure
+    - ID: "5bcd7fa5-ad41-4364-95c0-28867a423080"
+      Hint: Item5Teaser
+      Value: |
+        
+    - ID: "a5146a40-2af8-444b-b7c0-afc79cafce8e"
+      Hint: Item5Body
+      Value: |
+        <p>We help clients develop, finance, regulate, and operate transmission, interconnection, storage, charging, grid-enhancing, and digital infrastructure. Our work includes transmission planning, rate regulation, land use, real estate, environmental review, RTO/ISO processes, market rules, and commercial arrangements for assets that connect supply, demand, and data.</p>
+    - ID: "7182bcf3-d359-41fb-a3c8-a5368e16b63c"
+      Hint: Item6Title
+      Value: |
+        Major infrastructure and PPPs
+    - ID: "406008f8-00e1-4b47-b231-e5ba880569f5"
+      Hint: Item6Teaser
+      Value: |
+        
+    - ID: "e2e5137f-046e-4d06-b37a-4c3d0b70c45f"
+      Hint: Item6Body
+      Value: |
+        <p>We advise sponsors, public sector clients, contractors, equity investors, and debt financiers on critical infrastructure worldwide. We support structuring, procurement, privatizations, public-private partnerships, financial close, contract management, operations, and regulatory reform, helping clients deliver resilient assets at speed and at scale.</p>
+    - ID: "e8624b10-aced-4d92-8b69-1d5261538088"
+      Hint: Item7Title
+      Value: |
+        Transport
+    - ID: "1394bb19-670a-4831-8ce4-dc3e13cf0063"
+      Hint: Item7Teaser
+      Value: |
+        
+    - ID: "cc842808-28d2-4f94-925d-3738cdbc3d92"
+      Hint: Item7Body
+      Value: |
+        <p>We advise clients across the full transport ecosystem, acting for governments, operators, infrastructure managers, manufacturers, asset owners, and investors. Our work covers franchises and operating models, major transport infrastructure, fleet procurement, digitalization, corporate transactions, regulation, financing, and disputes, supporting projects from concept and procurement through to operation, renewal, and market reform.</p>
+    - ID: "1a5d494d-fef0-484b-b4f7-82c4e2a66cea"
+      Hint: Item8Title
+      Value: |
+        Defense
+    - ID: "08a5beee-e478-44e4-9e59-5f098ed1b715"
+      Hint: Item8Teaser
+      Value: |
+        
+    - ID: "8ef4e49c-4b04-4dc8-af6c-1f4284d25666"
+      Hint: Item8Body
+      Value: |
+        <p>We support clients across the defense and security sector, acting for government departments, agencies, prime contractors, technology companies, and investors. Through dedicated experience in major global defense markets, we provide integrated advice on regulatory, transactional, and financing issues, from bid strategy, export controls, and foreign investment screening to infrastructure delivery, cyber compliance, M&amp;A, and disputes.</p>

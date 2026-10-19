@@ -1,0 +1,18 @@
+---
+ID: "29f91d4e-8c55-4fa6-a24c-2da27d0ffd34"
+Parent: "d3957d41-e553-45a1-b51e-21c97c9a5ccd"
+Template: "9985b1fd-2eca-4c69-a676-9cf2e54e7fe9"
+Path: "/sitecore/content/ashurst/ashurst/Data/LawyerProfile"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: |
+    8f04a076-bf6e-4f07-85d3-b38783b3b768
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261015T160000Z
