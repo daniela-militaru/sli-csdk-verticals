@@ -1,0 +1,94 @@
+---
+ID: "04410f8f-8038-4000-89f1-5450c8c4fade"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "c4388faf-bf24-482a-b13c-2909b7b80999"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Uses"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2bd0a108-1e46-4617-88e2-d9cebdd463ad"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "39bd6dad-1d71-4982-ab12-b056f6b564b9"
+      Hint: Title
+      Value: |
+        We help our customers with
+    - ID: "e2750c7c-b283-4dc6-aced-cc13b7d1179e"
+      Hint: Card1Title
+      Value: |
+        Moving home storage
+    - ID: "ff9da7ff-391c-4d9c-a210-69b7f378eabe"
+      Hint: Card1Image
+      Value: |
+        <image mediaid="{5B51F2C3-A0B0-4611-A779-D63E25D3D6D9}" width="740" height="490" />
+    - ID: "6b01af74-00f5-49be-86c4-f02d32174e25"
+      Hint: Card2Title
+      Value: |
+        Decluttering storage
+    - ID: "bd73bfc2-71af-479c-a0aa-bf3fc4d0f0f3"
+      Hint: Card2Image
+      Value: |
+        <image mediaid="{FF991AD4-E433-4FA8-B343-F70C6F44959C}" width="740" height="490" />
+    - ID: "dc0ec0a7-ebdf-436e-a434-f92e93d395b7"
+      Hint: Card3Title
+      Value: |
+        Working from home storage
+    - ID: "dd5a0325-7534-40e4-ba63-b0a7bbcc65ca"
+      Hint: Card3Image
+      Value: |
+        <image mediaid="{1FFB5AF4-0827-4065-BEB1-E0B370E8D24E}" width="740" height="490" />
+    - ID: "d5bb83f9-d62c-4930-93a6-ea83dfa67336"
+      Hint: Card4Title
+      Value: |
+        Business storage
+    - ID: "11130bcc-2c00-4c5a-b322-66c0848df4b0"
+      Hint: Card4Image
+      Value: |
+        <image mediaid="{C0F6C6BC-706F-4B08-86C5-5DD07121D093}" width="740" height="490" />
+    - ID: "72abee2f-5a5a-4919-af03-0a6ee138bdd9"
+      Hint: Card5Title
+      Value: |
+        Student storage
+    - ID: "9dd823fa-b11a-46a4-b059-a250c3c205d5"
+      Hint: Card5Image
+      Value: |
+        <image mediaid="{A1945DAF-69E5-4006-8CD8-374461946732}" width="740" height="490" />
+    - ID: "96917f1f-bfdf-4a3e-889b-df65ec85d0f1"
+      Hint: Card6Title
+      Value: |
+        Ecommerce storage
+    - ID: "5e78f022-dcd4-489d-ae16-51aa7d591c5e"
+      Hint: Card6Image
+      Value: |
+        <image mediaid="{2C0B8A2D-98F3-4886-8C5C-30E5D0DC6D10}" width="740" height="490" />
+    - ID: "6a911d38-93ee-474d-84c7-9bac63b5cc12"
+      Hint: Card7Title
+      Value: |
+        Locker storage
+    - ID: "fcab86a6-aa13-484c-b724-ba34ca1e579c"
+      Hint: Card7Image
+      Value: |
+        <image mediaid="{EF97C7CD-24E7-4067-A71E-422628D689A1}" width="740" height="490" />
+    - ID: "57558797-9dee-4c24-b9c8-00b89eea5833"
+      Hint: Card8Title
+      Value: |
+        Personal storage
+    - ID: "b930348c-6c74-460b-b28a-2a5ba4ecdc37"
+      Hint: Card8Image
+      Value: |
+        <image mediaid="{950B3CBE-99CE-4492-A1B2-D30C54B74593}" width="971" height="492" />
+    - ID: "5ce4b542-335b-472a-b4d0-524440003b8b"
+      Hint: Card9Title
+      Value: |
+        Renovation storage
+    - ID: "dc60819b-7bfd-4ab2-9db5-310a9fcf9a81"
+      Hint: Card9Image
+      Value: |
+        <image mediaid="{26F13D80-884F-4070-BD00-E575ACB9C335}" width="600" height="500" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

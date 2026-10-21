@@ -1,0 +1,23 @@
+---
+ID: "b2d746d3-2d4d-4c20-bcb0-1033016b3e13"
+Parent: "af6d33fb-18aa-4d40-aa81-4b5fad65ac19"
+Template: "af6d33fb-18aa-4d40-aa81-4b5fad65ac19"
+Path: "/sitecore/templates/Project/access-storage/LinkRow Templates/LinkRow Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {71A288B1-5859-42CB-8183-BC414C519BE5}
+    {AF6D33FB-18AA-4D40-AA81-4B5FAD65AC19}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

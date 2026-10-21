@@ -1,0 +1,23 @@
+---
+ID: "3029a9c0-a0d0-43f2-b9b6-3205e2f4bb68"
+Parent: "3fe19193-287c-4505-873b-45f86505db12"
+Template: "3fe19193-287c-4505-873b-45f86505db12"
+Path: "/sitecore/templates/Project/access-storage/BenefitList Templates/BenefitList Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {CB02E776-9BE9-426A-B5D7-0D2271912419}
+    {3FE19193-287C-4505-873B-45F86505DB12}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

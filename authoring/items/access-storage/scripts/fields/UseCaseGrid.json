@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Card1Title",
+    "title": "Card1Title",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Card1Image",
+    "title": "Card1Image",
+    "type": "Image",
+    "sort": 300
+  },
+  {
+    "name": "Card2Title",
+    "title": "Card2Title",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Card2Image",
+    "title": "Card2Image",
+    "type": "Image",
+    "sort": 500
+  },
+  {
+    "name": "Card3Title",
+    "title": "Card3Title",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Card3Image",
+    "title": "Card3Image",
+    "type": "Image",
+    "sort": 700
+  },
+  {
+    "name": "Card4Title",
+    "title": "Card4Title",
+    "type": "Single-Line Text",
+    "sort": 800
+  },
+  {
+    "name": "Card4Image",
+    "title": "Card4Image",
+    "type": "Image",
+    "sort": 900
+  },
+  {
+    "name": "Card5Title",
+    "title": "Card5Title",
+    "type": "Single-Line Text",
+    "sort": 1000
+  },
+  {
+    "name": "Card5Image",
+    "title": "Card5Image",
+    "type": "Image",
+    "sort": 1100
+  },
+  {
+    "name": "Card6Title",
+    "title": "Card6Title",
+    "type": "Single-Line Text",
+    "sort": 1200
+  },
+  {
+    "name": "Card6Image",
+    "title": "Card6Image",
+    "type": "Image",
+    "sort": 1300
+  },
+  {
+    "name": "Card7Title",
+    "title": "Card7Title",
+    "type": "Single-Line Text",
+    "sort": 1400
+  },
+  {
+    "name": "Card7Image",
+    "title": "Card7Image",
+    "type": "Image",
+    "sort": 1500
+  },
+  {
+    "name": "Card8Title",
+    "title": "Card8Title",
+    "type": "Single-Line Text",
+    "sort": 1600
+  },
+  {
+    "name": "Card8Image",
+    "title": "Card8Image",
+    "type": "Image",
+    "sort": 1700
+  },
+  {
+    "name": "Card9Title",
+    "title": "Card9Title",
+    "type": "Single-Line Text",
+    "sort": 1800
+  },
+  {
+    "name": "Card9Image",
+    "title": "Card9Image",
+    "type": "Image",
+    "sort": 1900
+  }
+]

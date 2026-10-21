@@ -1,0 +1,23 @@
+---
+ID: "9758f247-df35-4d62-a1c2-15d6a6154896"
+Parent: "f0b5b156-3ff5-440f-b515-0eb49b8854e9"
+Template: "f0b5b156-3ff5-440f-b515-0eb49b8854e9"
+Path: "/sitecore/templates/Project/access-storage/Header Templates/Header Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B30E403F-28FE-41A4-80CC-01A2D449255A}
+    {F0B5B156-3FF5-440F-B515-0EB49B8854E9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

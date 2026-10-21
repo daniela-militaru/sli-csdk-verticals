@@ -1,0 +1,22 @@
+---
+ID: "6dca3fb3-b4b4-4ca5-8bf2-b969922df15c"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "77e91771-5ec9-4482-b29c-b0959386c9cd"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Promo"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6b122995-7c25-41ea-b446-068a287a7998"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "449946ba-463a-4bee-8a7d-2e5aa8a2559e"
+      Hint: Text
+      Value: |
+        We'll beat any local price*
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

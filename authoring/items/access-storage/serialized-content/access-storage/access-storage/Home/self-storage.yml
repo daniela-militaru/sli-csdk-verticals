@@ -1,0 +1,42 @@
+---
+ID: "8cb1274f-1ac8-4c0a-a3bf-c012ca4b3d20"
+Parent: "b68ab8c3-c571-4042-aecc-3191c90a3085"
+Template: "a1d11583-d7d7-4380-8965-36ec42622941"
+Path: "/sitecore/content/access-storage/access-storage/Home/self-storage"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c072e7cd-97e6-410c-b306-9fe28220c0e8"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+      <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r uid="{96733ED8-5F01-4612-9965-83742CCC502E}" p:before="*" s:ds="f7d9781b-3470-408f-b4a0-46000b4e0a66" s:id="{23D619C9-9322-41AC-8DCB-6715BC45ED60}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-header" />
+        <r uid="{648F966C-8452-4C2A-98E0-4329DB1C27DF}" p:after="r[@uid='{96733ED8-5F01-4612-9965-83742CCC502E}']" s:ds="8164abe3-c860-480d-94b0-6de4c45a1d51" s:id="{5D39C214-70C4-4369-86F3-30BE562E37DC}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-header" />
+        <r uid="{6894B85C-2E00-430B-9338-69BD394F7C53}" p:after="r[@uid='{648F966C-8452-4C2A-98E0-4329DB1C27DF}']" s:ds="908b0236-a34c-4897-aa59-614125253170" s:id="{9E7CFAFB-0593-4384-9D01-E7F0B44146EE}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{0623A4E9-C3EA-46A3-9D58-779802289ABE}" p:after="r[@uid='{6894B85C-2E00-430B-9338-69BD394F7C53}']" s:ds="be00c7a5-8725-41f7-9eab-4efb4d86b693" s:id="{B5F547FD-8CEA-465B-8FD0-B14630A6F5C0}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{280D2AE3-3B03-4E04-ACE6-2DBC43666338}" p:after="r[@uid='{0623A4E9-C3EA-46A3-9D58-779802289ABE}']" s:ds="bf7a93ca-b40d-447f-b873-9fe6d971a457" s:id="{3883C77B-C9E6-440E-8E28-CA65C9603548}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{3BAC6A73-054C-446F-806D-754BE694AA4F}" p:after="r[@uid='{280D2AE3-3B03-4E04-ACE6-2DBC43666338}']" s:ds="0254f02f-4bd2-4465-8f8d-8b31b65ee4a6" s:id="{A81C7110-0CD2-4475-A488-C8512E8545D8}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{35F2032C-EF27-448E-889E-7F5C809690D8}" p:after="r[@uid='{3BAC6A73-054C-446F-806D-754BE694AA4F}']" s:ds="97b4c210-8fca-4cf7-bbf8-e590467aec86" s:id="{A84C95E0-59A2-443D-BA5D-E99678BF2A6F}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{95458EE8-8CD5-4084-8BD8-C0C292F12D3B}" p:after="r[@uid='{35F2032C-EF27-448E-889E-7F5C809690D8}']" s:ds="ac1145a1-7573-4f1e-a8b2-b99272d9078c" s:id="{535B8DC2-5B82-47F0-984F-3058BA2F2358}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{5D35884A-D163-4A0D-B112-0CEF4AA915CE}" p:after="r[@uid='{95458EE8-8CD5-4084-8BD8-C0C292F12D3B}']" s:ds="2022feb3-a08f-476b-987a-9f2d4cbcd64b" s:id="{53AE2CB2-7AAC-4F9E-9328-8E9F419A9EEE}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-footer" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "84bc313a-076a-495d-96eb-282a5fc108f6"
+      Hint: Title
+      Value: |
+        Self storage
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: |
+        Self storage
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

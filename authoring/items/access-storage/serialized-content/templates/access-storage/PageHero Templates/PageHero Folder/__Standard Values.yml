@@ -1,0 +1,23 @@
+---
+ID: "7ff23dcd-269f-4e47-9fcb-9f1064e17daf"
+Parent: "15ac0252-f50c-4f41-b31c-c84ddd327e51"
+Template: "15ac0252-f50c-4f41-b31c-c84ddd327e51"
+Path: "/sitecore/templates/Project/access-storage/PageHero Templates/PageHero Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {F546EFE0-6961-4099-B3ED-B2EC6049430F}
+    {15AC0252-F50C-4F41-B31C-C84DDD327E51}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

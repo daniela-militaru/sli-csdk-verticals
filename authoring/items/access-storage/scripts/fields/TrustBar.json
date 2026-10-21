@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Item1Title",
+    "title": "Item1Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Item1Text",
+    "title": "Item1Text",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Item2Title",
+    "title": "Item2Title",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Item2Text",
+    "title": "Item2Text",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Item3Title",
+    "title": "Item3Title",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Item3Text",
+    "title": "Item3Text",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Item4Title",
+    "title": "Item4Title",
+    "type": "Single-Line Text",
+    "sort": 700
+  },
+  {
+    "name": "Item4Text",
+    "title": "Item4Text",
+    "type": "Single-Line Text",
+    "sort": 800
+  }
+]

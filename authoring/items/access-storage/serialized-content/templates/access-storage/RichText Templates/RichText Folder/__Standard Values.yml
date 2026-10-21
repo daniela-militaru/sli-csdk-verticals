@@ -1,0 +1,23 @@
+---
+ID: "b140fa21-5291-46cd-b913-9f839ad45948"
+Parent: "06d98270-b2e8-40bb-b2f3-b28297f922ad"
+Template: "06d98270-b2e8-40bb-b2f3-b28297f922ad"
+Path: "/sitecore/templates/Project/access-storage/RichText Templates/RichText Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {BA3E5B7C-9555-4499-AB88-F0128B960FF3}
+    {06D98270-B2E8-40BB-B2F3-B28297F922AD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

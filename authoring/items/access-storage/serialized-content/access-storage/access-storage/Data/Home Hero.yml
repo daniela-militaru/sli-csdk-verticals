@@ -1,0 +1,42 @@
+---
+ID: "42631587-7f2e-46c8-8e7f-7a6d468521d4"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "e6f7b927-e313-44c0-b434-2e883bc84f80"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Hero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c2dd1c67-e038-43f4-91f0-93228a18c31c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "125018eb-ad8b-4e51-ae20-b0599b0bf77d"
+      Hint: Title
+      Value: |
+        Affordable self storage
+    - ID: "2bfa2438-8512-4371-add2-21502f9302cd"
+      Hint: Subtitle
+      Value: |
+        Get a quote and rent online
+    - ID: "22f84a24-85ac-447b-a294-3425bb048af6"
+      Hint: Placeholder
+      Value: |
+        Search by postcode or location
+    - ID: "46964862-0694-49f5-a212-a021e535c43a"
+      Hint: ButtonLabel
+      Value: |
+        Get a quote
+    - ID: "5a717b1c-7b91-413c-a98a-facac4a0e1f5"
+      Hint: ButtonLink
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "855e6a77-d237-4bc1-92a8-1caa2429d7ca"
+      Hint: Image
+      Value: |
+        <image mediaid="{0513CE4E-9AC4-407F-BA76-F798A620F618}" width="1400" height="601" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

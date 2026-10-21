@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Intro",
+    "title": "Intro",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Body",
+    "title": "Body",
+    "type": "Rich Text",
+    "sort": 300
+  },
+  {
+    "name": "MoreLabel",
+    "title": "MoreLabel",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "LessLabel",
+    "title": "LessLabel",
+    "type": "Single-Line Text",
+    "sort": 500
+  }
+]

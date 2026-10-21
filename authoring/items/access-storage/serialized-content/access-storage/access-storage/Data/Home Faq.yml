@@ -1,0 +1,70 @@
+---
+ID: "9cab5695-9a61-46c2-b70e-163932d626e2"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "44a2241a-e481-41dc-93ae-3acf755f8804"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Faq"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "267f5784-273f-4a02-84df-6592747a9f7e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c4c05d0b-ca8a-4f74-ab73-d62ec3f05780"
+      Hint: Title
+      Value: |
+        Your questions, answered
+    - ID: "49ee66b5-86c3-4cd0-a972-f5ce73613e7b"
+      Hint: Item1Question
+      Value: |
+        How much does self storage cost?
+    - ID: "dc544bea-ae31-4328-a796-6a13709aa7ef"
+      Hint: Item1Answer
+      Value: |
+        <p>Prices vary by location and unit size. Use our quote tool to get live pricing at your nearest store. New customers get their first 8 weeks half price.</p>
+    - ID: "4a9a21aa-3b30-4c24-8d4f-6e4ec2bfa5fe"
+      Hint: Item2Question
+      Value: |
+        Do I need to sign a long-term contract?
+    - ID: "22acc2bd-8ebe-443d-a705-b20915cd6b40"
+      Hint: Item2Answer
+      Value: |
+        <p>No. All units are on flexible monthly rolling contracts. Personal customers can move out with as little as seven days’ notice.</p>
+    - ID: "eb1e1fa1-9c24-43d6-a8cf-516bf12d46d9"
+      Hint: Item3Question
+      Value: |
+        Do I need to pay a deposit?
+    - ID: "690189a6-f72b-4b4c-8b90-dfc37fd7b405"
+      Hint: Item3Answer
+      Value: |
+        <p>No deposit required. You can reserve your unit online completely free of charge.</p>
+    - ID: "f46b7c00-3400-407d-a0ec-cfd2c781e025"
+      Hint: Item4Question
+      Value: |
+        What sizes are available?
+    - ID: "75d2bfe8-7d7f-41ad-b6bd-b98c8a3995ec"
+      Hint: Item4Answer
+      Value: |
+        <p>From small lockers to large room-sized spaces. Our team at your nearest store will help you find the right fit.</p>
+    - ID: "e4ed0a18-2500-4159-915c-6e7076690d39"
+      Hint: Group1Title
+      Value: |
+        Stores in London
+    - ID: "ecda8a0f-ccb5-40b5-90d4-3313730b8cc6"
+      Hint: Group1Body
+      Value: |
+        <h3>Stores in London</h3><ul><li>Access Self Storage Acton</li><li>Access Self Storage Alperton</li><li>Access Self Storage Balham</li><li>Access Self Storage Barking</li><li>Access Self Storage Battersea</li><li>Access Self Storage Brentford</li><li>Access Self Storage Brixton Hill</li><li>Access Self Storage Clapham Acre Lane</li><li>Access Self Storage Catford</li><li>Access Self Storage Charlton</li><li>Access Self Storage Cheam</li><li>Access Self Storage Chelsea</li><li>Access Self Storage Cricklewood</li><li>Access Self Storage Croydon</li><li>Access Self Storage Croydon Purley Way</li><li>Access Self Storage Ealing</li><li>Access Self Storage Edmonton</li><li>Access Self Storage Fulham</li><li>Access Self Storage Harrow</li><li>Access Self Storage Hayes</li><li>Access Self Storage Hornsey</li><li>Access Self Storage Isleworth</li><li>Access Self Storage Islington</li><li>Access Self Storage Kings Cross</li><li>Access Self Storage Kingston Upon Thames</li><li>Access Self Storage Mitcham</li><li>Access Self Storage Neasden</li><li>Access Self Storage Orpington</li><li>Access Self Storage Romford</li><li>Access Self Storage Streatham</li><li>Access Self Storage Sunbury</li><li>Access Self Storage Sutton</li><li>Access Self Storage Sydenham</li><li>Access Self Storage Twickenham</li><li>Access Self Storage Wandsworth</li><li>Access Self Storage Wembley</li><li>Access Self Storage West Norwood</li></ul>
+    - ID: "f8250cb7-1a4a-4780-96b0-db2ea8059345"
+      Hint: Group2Title
+      Value: |
+        Stores outside London
+    - ID: "c5721872-3aca-4ebc-9e30-cfd9d0363a4b"
+      Hint: Group2Body
+      Value: |
+        <h3>Stores outside London</h3><ul><li>Access Self Storage Basingstoke</li><li>Access Self Storage Birmingham Central</li><li>Access Self Storage Birmingham Erdington</li><li>Access Self Storage Birmingham Selly Oak</li><li>Access Self Storage Bracknell</li><li>Access Self Storage Bristol</li><li>Access Self Storage Coventry</li><li>Access Self Storage Derby</li><li>Access Self Storage Guildford</li><li>Access Self Storage Hemel Hempstead</li><li>Access Self Storage High Wycombe</li><li>Access Self Storage Manchester</li><li>Access Self Storage Northampton</li><li>Access Self Storage Nottingham</li><li>Access Self Storage Portsmouth</li><li>Access Self Storage Reading</li><li>Access Self Storage Southampton</li><li>Access Self Storage St Albans</li><li>Access Self Storage Stevenage</li></ul>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

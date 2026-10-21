@@ -1,0 +1,22 @@
+---
+ID: "be00c7a5-8725-41f7-9eab-4efb4d86b693"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "ba3e5b7c-9555-4499-ab88-f0128b960ff3"
+Path: "/sitecore/content/access-storage/access-storage/Data/Self Storage Intro"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f89b0ee2-7e66-4711-ad41-d700541f6e11"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e59308f-f87e-4299-b9ac-bacdcbecb214"
+      Hint: Body
+      Value: |
+        <p>With 56 stores nationwide, our friendly local teams will help you choose the right storage unit for you, from the size of a locker to the size of a football pitch.</p><p>At Access Self Storage, we provide a wide range of secure self storage units for personal and business customers. Our price promise means you’ll always get a great rate, and our flexible approach means that you can store your furniture, books, clothes, or whatever else you need to keep safe, with us for as little as one week.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

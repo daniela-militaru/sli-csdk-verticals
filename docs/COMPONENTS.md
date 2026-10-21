@@ -15,6 +15,7 @@ Paths are `industry-verticals/{folder}/src/components/{name}/`.
 | `travel` | Skywings | `travel` |
 | `energy` | Gridwell | `energy` |
 | `ashurst` | Ashurst Perkins Coie | `ashurst` |
+| `access-storage` | Access Self Storage | `access-storage` |
 
 ## Shared
 
@@ -94,6 +95,14 @@ Homepage, insights listing, three insight articles, and the Financial Services a
 `header`, `header-search`, `footer`, `hero-video`, `feature-split`, `locations-band`, `insights-hero`, `featured-insights`, `insights-search`, `article-hero`, `article-body`, `key-contacts`, `sector-hero`, `sector-intro`, `sector-accordion`, `sector-highlights`, `sector-capabilities`, `sector-carousel`, `cdp-profile`
 
 `cdp-profile` is mounted on every page from the layout. It keeps a browser-local customer profile. See [ASHURST.md](./ASHURST.md).
+
+## Self storage — Access Self Storage
+
+Home, self storage, and the store finder. Quote forms link to the stores page. Store names are content on the homepage and the stores page.
+
+`header`, `footer`, `promo-bar`, `quote-hero`, `trust-bar`, `offer-band`, `how-it-works`, `content-split`, `use-case-grid`, `link-row`, `expandable-copy`, `faq-list`, `page-hero`, `rich-text`, `benefit-list`, `card-carousel`, `quote-cta`, `store-finder`
+
+Pages lists these under Available Renderings / Access Storage. See [ACCESS-STORAGE.md](./ACCESS-STORAGE.md).
 
 ## Where to read next
 

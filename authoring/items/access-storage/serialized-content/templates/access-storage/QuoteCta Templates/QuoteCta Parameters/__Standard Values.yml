@@ -1,0 +1,17 @@
+---
+ID: "9f9ab9c6-80ee-4896-97d9-d4092c976f5f"
+Parent: "279e00d4-05a4-4993-b727-8a7bad604cf6"
+Template: "279e00d4-05a4-4993-b727-8a7bad604cf6"
+Path: "/sitecore/templates/Project/access-storage/QuoteCta Templates/QuoteCta Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

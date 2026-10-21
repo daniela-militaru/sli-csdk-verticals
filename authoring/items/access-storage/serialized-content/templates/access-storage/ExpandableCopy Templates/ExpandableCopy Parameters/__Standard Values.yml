@@ -1,0 +1,17 @@
+---
+ID: "99b0b4aa-af7b-44df-b73e-58744d8f07c7"
+Parent: "09579da4-481c-4c03-81f9-1e475a12fbfd"
+Template: "09579da4-481c-4c03-81f9-1e475a12fbfd"
+Path: "/sitecore/templates/Project/access-storage/ExpandableCopy Templates/ExpandableCopy Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

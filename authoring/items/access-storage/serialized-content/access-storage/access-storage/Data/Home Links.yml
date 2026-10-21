@@ -1,0 +1,42 @@
+---
+ID: "90bc67e1-80fc-4030-a30c-caafe236d158"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "71a288b1-5859-42cb-8183-bc414c519be5"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Links"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "21a3672d-4d8b-467b-a4ac-fb18508b6708"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "d3319cc9-6cb8-4f6f-9747-7400da040fb7"
+      Hint: Card1Title
+      Value: |
+        How storage works
+    - ID: "62498eaa-9be3-437f-8467-8fab1f45b619"
+      Hint: Card1Text
+      Value: |
+        Read more
+    - ID: "06b0d6c6-83c4-424b-ba0b-72f6aa16dce1"
+      Hint: Card2Title
+      Value: |
+        In the community
+    - ID: "3fb2863d-91e7-4f53-877e-5fdb601771e9"
+      Hint: Card2Text
+      Value: |
+        Read more
+    - ID: "bc5940e9-b6fe-4731-a722-144dc430bc71"
+      Hint: Card3Title
+      Value: |
+        Buy boxes and packaging
+    - ID: "205b80b3-4093-4b4c-abfd-8aaabc65f690"
+      Hint: Card3Text
+      Value: |
+        Read more
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

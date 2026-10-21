@@ -1,6 +1,6 @@
 # Documentation
 
-Sitecore industry verticals: Next.js rendering hosts under `industry-verticals/`. Shared tenant content stays in `authoring/items/industry-verticals/`. Ashurst is an isolated collection in `authoring/items/ashurst/`.
+Sitecore industry verticals: Next.js rendering hosts under `industry-verticals/`. Shared tenant content stays in `authoring/items/industry-verticals/`. Ashurst and Access Self Storage are isolated collections in `authoring/items/ashurst/` and `authoring/items/access-storage/`.
 
 The live host list is [.cursor/SITE-REGISTRY.md](../.cursor/SITE-REGISTRY.md). When a site is added, update that registry and this page together.
 
@@ -15,6 +15,7 @@ The live host list is [.cursor/SITE-REGISTRY.md](../.cursor/SITE-REGISTRY.md). W
 | Travel | `industry-verticals/travel` | Skywings | `travel` |
 | Energy | `industry-verticals/energy` | Gridwell | `energy` |
 | Professional services | [`industry-verticals/ashurst`](./ASHURST.md) | Ashurst Perkins Coie | `ashurst` |
+| Self storage | [`industry-verticals/access-storage`](./ACCESS-STORAGE.md) | Access Self Storage | `access-storage` |
 
 Component lists: [COMPONENTS.md](./COMPONENTS.md).
 
@@ -34,7 +35,7 @@ npm install
 npm run dev
 ```
 
-Other hosts: `healthcare`, `luxury-retail`, `travel`, `energy`, `ashurst`, `starter`. Open http://localhost:3000.
+Other hosts: `healthcare`, `luxury-retail`, `travel`, `energy`, `ashurst`, `access-storage`, `starter`. Open http://localhost:3000.
 
 ## Create a site
 

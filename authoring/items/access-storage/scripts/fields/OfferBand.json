@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Card1Title",
+    "title": "Card1Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Card1Text",
+    "title": "Card1Text",
+    "type": "Rich Text",
+    "sort": 200
+  },
+  {
+    "name": "Card2Title",
+    "title": "Card2Title",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Card2Text",
+    "title": "Card2Text",
+    "type": "Rich Text",
+    "sort": 400
+  },
+  {
+    "name": "Card3Title",
+    "title": "Card3Title",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Card3Text",
+    "title": "Card3Text",
+    "type": "Rich Text",
+    "sort": 600
+  },
+  {
+    "name": "Link",
+    "title": "Link",
+    "type": "General Link",
+    "sort": 700
+  }
+]

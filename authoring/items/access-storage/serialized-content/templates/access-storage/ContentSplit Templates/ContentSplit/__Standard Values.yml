@@ -1,0 +1,17 @@
+---
+ID: "7811a831-01f3-4dd8-92ef-27b2df977deb"
+Parent: "90982ef8-8c92-4a6e-b01b-1b60ddf70759"
+Template: "90982ef8-8c92-4a6e-b01b-1b60ddf70759"
+Path: "/sitecore/templates/Project/access-storage/ContentSplit Templates/ContentSplit/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

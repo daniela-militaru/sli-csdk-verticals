@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Item1Text",
+    "title": "Item1Text",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Item2Text",
+    "title": "Item2Text",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Item3Text",
+    "title": "Item3Text",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Item4Text",
+    "title": "Item4Text",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Item5Text",
+    "title": "Item5Text",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Item6Text",
+    "title": "Item6Text",
+    "type": "Single-Line Text",
+    "sort": 700
+  }
+]

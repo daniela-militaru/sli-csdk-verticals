@@ -1,0 +1,17 @@
+---
+ID: "b2cefe07-29df-4544-84ac-5b7840ae2c9c"
+Parent: "4d1c0fad-e493-474d-adeb-83667df63c2e"
+Template: "4d1c0fad-e493-474d-adeb-83667df63c2e"
+Path: "/sitecore/templates/Project/access-storage/HowItWorks Templates/HowItWorks/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

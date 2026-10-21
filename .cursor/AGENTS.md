@@ -129,6 +129,7 @@ Shared rules and the map of industry type → host are in [industry-verticals](.
 | **[industry-healthcare](./skills/industry-healthcare/SKILL.md)** | Nova Medical. Person listing and detail, reviews. Also the pattern for consultants or lawyers. Ashurst Perkins Coie is the legal insights host: [docs/ASHURST.md](../docs/ASHURST.md). |
 | **[industry-travel](./skills/industry-travel/SKILL.md)** | Skywings. Destinations, articles, deals. |
 | **[industry-energy](./skills/industry-energy/SKILL.md)** | Gridwell. Articles plus grid status. |
+| **[industry-storage](./skills/industry-storage/SKILL.md)** | Access Self Storage. Homepage, self-storage page, and store finder. Guide: [docs/ACCESS-STORAGE.md](../docs/ACCESS-STORAGE.md). |
 
 ### Cloud SDK
 

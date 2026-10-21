@@ -1,0 +1,66 @@
+---
+ID: "97b4c210-8fca-4cf7-bbf8-e590467aec86"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "6245ffc7-274d-4f52-a525-99df1130ad30"
+Path: "/sitecore/content/access-storage/access-storage/Data/Self Storage Cards"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8f56a959-f63d-48fd-ba22-b82d16dafdf4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "598f3a49-6a3a-4fc5-a0c0-14fc8066fef0"
+      Hint: Card1Title
+      Value: |
+        Declutter and free up space
+    - ID: "b1a16c1c-6bb0-4148-84ac-83577af54acd"
+      Hint: Card1Text
+      Value: |
+        Make room at home
+    - ID: "dcb503bf-ac28-4e9e-a7a0-b9ccefb220fe"
+      Hint: Card1Image
+      Value: |
+        <image mediaid="{FF991AD4-E433-4FA8-B343-F70C6F44959C}" width="740" height="490" />
+    - ID: "b56f375f-f33b-403a-bea5-808d91661e88"
+      Hint: Card2Title
+      Value: |
+        Student storage
+    - ID: "711c70b4-a1f1-4ad2-806e-900dec2867c9"
+      Hint: Card2Text
+      Value: |
+        For the summer holidays
+    - ID: "a8fa5710-3f1d-4fd1-9ce9-50413d5a757b"
+      Hint: Card2Image
+      Value: |
+        <image mediaid="{D306D495-2EF0-486A-B606-912EB834E81A}" width="3941" height="1689" />
+    - ID: "4a8d4f1c-56e3-4d0b-bf8a-c8582ceed8b9"
+      Hint: Card3Title
+      Value: |
+        Locker storage
+    - ID: "83efa88d-4270-4cd4-958b-dc2cf61f7acc"
+      Hint: Card3Text
+      Value: |
+        Compact, secure storage
+    - ID: "b1069403-58f3-49f0-a23a-ce397e262afe"
+      Hint: Card3Image
+      Value: |
+        <image mediaid="{EF97C7CD-24E7-4067-A71E-422628D689A1}" width="740" height="490" />
+    - ID: "03041f4c-f09c-4986-b056-a976507057c4"
+      Hint: Card4Title
+      Value: |
+        Temporary storage for moving house
+    - ID: "3bf95f46-e559-49fa-b8be-e6471dac38c2"
+      Hint: Card4Text
+      Value: |
+        Short notice agreements
+    - ID: "64341986-17ee-423a-8417-f70665c96c87"
+      Hint: Card4Image
+      Value: |
+        <image mediaid="{A007B152-D749-4A61-8D10-1CA171A51288}" width="670" height="445" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

@@ -1,0 +1,50 @@
+---
+ID: "8164abe3-c860-480d-94b0-6de4c45a1d51"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "b30e403f-28fe-41a4-80cc-01a2d449255a"
+Path: "/sitecore/content/access-storage/access-storage/Data/Header"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9afe621a-18db-4cc0-8270-bced1d86545a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19a3a3b5-4bc6-4656-9046-5eada7108974"
+      Hint: SignInLabel
+      Value: |
+        Sign in
+    - ID: "a19d7bdb-8add-4726-8e01-6058e6e7a1c7"
+      Hint: QuoteLink
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "989e830b-9d75-425f-9dd2-b25601ef9f62"
+      Hint: SelfStorageLink
+      Value: |
+        <link text="Self storage" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8CB1274F-1AC8-4C0A-A3BF-C012CA4B3D20}" />
+    - ID: "532cab54-590d-446d-9584-a82c60498bbb"
+      Hint: BusinessLabel
+      Value: |
+        Business services
+    - ID: "7d3038ec-f3a4-44e2-aaf4-e1cd743edf30"
+      Hint: StoresLink
+      Value: |
+        <link text="Our stores" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "cbd388d3-9aba-4fd7-bacf-04c8202825c2"
+      Hint: BoxesLabel
+      Value: |
+        Boxes and packaging
+    - ID: "c7726280-b858-491e-aeff-f83551f97218"
+      Hint: OfficeLabel
+      Value: |
+        Office space
+    - ID: "23c9202e-f9ac-4c18-9eb5-f6c64cdb8e61"
+      Hint: Logo
+      Value: |
+        <image mediaid="{42DA9658-83BD-47AB-8C2F-4645157BBD58}" width="192" height="64" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

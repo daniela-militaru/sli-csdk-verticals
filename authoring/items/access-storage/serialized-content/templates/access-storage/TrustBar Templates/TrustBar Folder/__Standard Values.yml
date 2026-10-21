@@ -1,0 +1,23 @@
+---
+ID: "b5670951-d03f-4a8b-8c30-bfd665ddf63c"
+Parent: "589074b9-0397-4070-ab3b-26549829ad18"
+Template: "589074b9-0397-4070-ab3b-26549829ad18"
+Path: "/sitecore/templates/Project/access-storage/TrustBar Templates/TrustBar Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6FE81DA9-38E5-42D5-AF53-442FDBF7CBD8}
+    {589074B9-0397-4070-AB3B-26549829AD18}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

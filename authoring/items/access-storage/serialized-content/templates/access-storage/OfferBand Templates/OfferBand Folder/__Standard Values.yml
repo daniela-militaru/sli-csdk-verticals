@@ -1,0 +1,23 @@
+---
+ID: "c50daeb2-5d6d-4caa-82dc-e2220ca813ad"
+Parent: "da83fb85-b473-41cb-85e6-5c3c9f48ab29"
+Template: "da83fb85-b473-41cb-85e6-5c3c9f48ab29"
+Path: "/sitecore/templates/Project/access-storage/OfferBand Templates/OfferBand Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4AC7A662-1580-4823-A466-0E30938FD6CB}
+    {DA83FB85-B473-41CB-85E6-5C3C9F48AB29}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

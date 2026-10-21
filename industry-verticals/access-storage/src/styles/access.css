@@ -1,0 +1,357 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+
+:root {
+  --as-blue: #004b8d;
+  --as-blue-deep: #00356a;
+  --as-yellow: #ffe512;
+  --as-ink: #212121;
+  --as-muted: #5e6172;
+  --as-line: #d0d5d2;
+  --as-mist: #f4f4f4;
+  --as-green: #00b05c;
+  --as-max: 1120px;
+}
+
+body {
+  margin: 0;
+  color: var(--as-ink);
+  font-family: Nunito, 'Segoe UI', sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+.as-wrap {
+  width: min(var(--as-max), calc(100% - 40px));
+  margin: 0 auto;
+}
+
+.as-header {
+  background: #fff;
+  border-bottom: 1px solid var(--as-line);
+}
+
+.as-header-bar,
+.as-footer-top,
+.as-quote,
+.as-split,
+.as-steps,
+.as-offers,
+.as-grid,
+.as-links,
+.as-copy,
+.as-faq,
+.as-benefits,
+.as-cards,
+.as-cta,
+.as-finder,
+.as-rich {
+  padding: 28px 0;
+}
+
+.as-header-bar {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 14px 0;
+}
+
+.as-logo img {
+  display: block;
+  height: 42px;
+  width: auto;
+}
+
+.as-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-left: auto;
+  font-weight: 700;
+}
+
+.as-nav a,
+.as-nav span {
+  text-decoration: none;
+}
+
+.as-signin {
+  font-weight: 700;
+}
+
+.as-btn,
+.as-quote form button,
+.as-finder form button,
+.as-hero form button {
+  border: 0;
+  background: var(--as-yellow);
+  color: var(--as-ink);
+  font: inherit;
+  font-weight: 800;
+  padding: 12px 18px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.as-promo {
+  background: var(--as-yellow);
+  text-align: center;
+  font-weight: 800;
+  padding: 10px 16px;
+}
+
+.as-hero {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  min-height: 360px;
+  background: var(--as-blue);
+  color: #fff;
+}
+
+.as-hero-copy,
+.as-page-hero-copy {
+  padding: 56px 8vw;
+}
+
+.as-hero h1,
+.as-page-hero h1,
+.as-finder h1 {
+  margin: 0 0 8px;
+  font-size: 48px;
+  line-height: 1.05;
+}
+
+.as-hero-media,
+.as-page-hero-media,
+.as-split img,
+.as-steps img,
+.as-cards img,
+.as-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.as-hero form,
+.as-page-hero form,
+.as-finder form {
+  display: flex;
+  max-width: 520px;
+  margin-top: 20px;
+  background: #fff;
+}
+
+.as-hero input,
+.as-page-hero input,
+.as-finder input {
+  flex: 1;
+  border: 0;
+  padding: 14px 16px;
+  font: inherit;
+}
+
+.as-trust {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  padding: 28px 0;
+  text-align: center;
+}
+
+.as-trust strong,
+.as-offers h3,
+.as-steps h3 {
+  display: block;
+  color: var(--as-blue);
+}
+
+.as-offers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  background: var(--as-mist);
+}
+
+.as-steps,
+.as-split,
+.as-page-hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  align-items: center;
+}
+
+.as-page-hero {
+  background: var(--as-blue);
+  color: #fff;
+  align-items: stretch;
+}
+
+.as-kicker {
+  color: var(--as-yellow);
+  font-weight: 800;
+}
+
+.as-steps ol {
+  list-style: none;
+  padding: 0;
+  counter-reset: step;
+}
+
+.as-steps li {
+  counter-increment: step;
+  margin: 16px 0;
+}
+
+.as-steps li::before {
+  content: counter(step);
+  display: inline-grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background: var(--as-blue);
+  color: #fff;
+  font-weight: 800;
+}
+
+.as-grid ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  padding: 0;
+  list-style: none;
+}
+
+.as-grid li {
+  position: relative;
+  min-height: 180px;
+  background: var(--as-blue);
+  color: #fff;
+}
+
+.as-grid span {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  font-weight: 800;
+}
+
+.as-links {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.as-links article,
+.as-benefits li,
+.as-faq details {
+  border: 1px solid var(--as-line);
+  padding: 18px;
+}
+
+.as-copy {
+  background: var(--as-mist);
+}
+
+.as-benefits ul,
+.as-cards ul,
+.as-faq {
+  display: grid;
+  gap: 12px;
+  padding: 0;
+  list-style: none;
+}
+
+.as-benefits {
+  display: block;
+}
+
+.as-benefits ul {
+  grid-template-columns: 1fr 1fr;
+}
+
+.as-cards ul {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.as-cards li {
+  position: relative;
+  min-height: 220px;
+  background: #123;
+  color: #fff;
+}
+
+.as-cards strong,
+.as-cards p {
+  position: relative;
+  z-index: 1;
+  margin: 12px;
+}
+
+.as-cta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  background: var(--as-blue);
+  color: #fff;
+}
+
+.as-finder {
+  background: var(--as-blue);
+  color: #fff;
+  text-align: center;
+}
+
+.as-finder form {
+  margin: 20px auto;
+}
+
+.as-finder .as-locations {
+  text-align: left;
+  columns: 2;
+}
+
+.as-footer {
+  background: var(--as-blue-deep);
+  color: #fff;
+}
+
+.as-footer a {
+  color: #fff;
+}
+
+.as-crumb {
+  color: var(--as-muted);
+  font-size: 14px;
+}
+
+@media (max-width: 800px) {
+  .as-hero,
+  .as-steps,
+  .as-split,
+  .as-page-hero,
+  .as-trust,
+  .as-offers,
+  .as-grid ul,
+  .as-links,
+  .as-benefits ul,
+  .as-cards ul,
+  .as-cta {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+
+  .as-nav {
+    display: none;
+  }
+
+  .as-hero h1,
+  .as-page-hero h1 {
+    font-size: 34px;
+  }
+}

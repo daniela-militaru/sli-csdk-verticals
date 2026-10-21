@@ -1,0 +1,38 @@
+---
+ID: "409b6e3a-9888-4767-b6ec-118c9c35ac79"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "a72f61df-09b8-48ae-b787-1186095703e3"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Why"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "38f0728a-33f0-4fd8-b541-7367a1bd0d11"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8622c8a3-87e6-486b-b709-e38b78a9de60"
+      Hint: Title
+      Value: |
+        Why choose us for self storage?
+    - ID: "9ba6862d-9d9d-42af-8560-acf3622247db"
+      Hint: Intro
+      Value: |
+        Whether you need short-term or long-term storage, securely storing your items with us is simple, flexible and great value.
+    - ID: "becf633c-855a-4559-973b-cfa82169b24c"
+      Hint: Body
+      Value: |
+        <p>With 56 stores nationwide, our friendly local teams will help you choose the right storage unit for you, from the size of a locker to the size of a football pitch. Once you have moved in, you will have full access to your unit within each store’s opening hours.</p>
+    - ID: "92b50542-e4e4-433a-b309-a151cda064cb"
+      Hint: MoreLabel
+      Value: |
+        Tell me more
+    - ID: "015239e9-a3c6-4e86-8854-eb53bef1abbb"
+      Hint: LessLabel
+      Value: |
+        Tell me less
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

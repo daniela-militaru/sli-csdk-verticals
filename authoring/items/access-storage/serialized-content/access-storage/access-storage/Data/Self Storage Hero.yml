@@ -1,0 +1,42 @@
+---
+ID: "908b0236-a34c-4897-aa59-614125253170"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "f546efe0-6961-4099-b3ed-b2ec6049430f"
+Path: "/sitecore/content/access-storage/access-storage/Data/Self Storage Hero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5f28002f-6adb-4d87-b4d0-8f5485ec09b4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "98d65ec8-5776-4bb5-9980-a82d1f02394b"
+      Hint: Title
+      Value: |
+        Secure self storage for your items. Get a quote now!
+    - ID: "1c04b55b-8821-4a46-bef2-d9ceb11041bd"
+      Hint: Intro
+      Value: |
+        <p><strong>Self storage made simple.</strong> Our self storage units offer secure, affordable, and flexible storage options for both short and long periods.</p>
+    - ID: "352b8c0f-4e76-499a-ade8-ab4150323d03"
+      Hint: Placeholder
+      Value: |
+        Search by postcode or city
+    - ID: "29a01df5-188c-4621-8bf6-7513050ac245"
+      Hint: ButtonLabel
+      Value: |
+        Get a quote
+    - ID: "aa6b7a67-5853-460a-a552-fa96cc1159d9"
+      Hint: ButtonLink
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "8e7cc804-623e-434d-8477-cd9a09504f57"
+      Hint: Image
+      Value: |
+        <image mediaid="{280EB796-08F5-405F-87E3-D91A25AA0E8E}" width="1400" height="600" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Intro",
+    "title": "Intro",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Step1Title",
+    "title": "Step1Title",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Step1Text",
+    "title": "Step1Text",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Step2Title",
+    "title": "Step2Title",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Step2Text",
+    "title": "Step2Text",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Step3Title",
+    "title": "Step3Title",
+    "type": "Single-Line Text",
+    "sort": 700
+  },
+  {
+    "name": "Step3Text",
+    "title": "Step3Text",
+    "type": "Single-Line Text",
+    "sort": 800
+  },
+  {
+    "name": "Link",
+    "title": "Link",
+    "type": "General Link",
+    "sort": 900
+  },
+  {
+    "name": "Image",
+    "title": "Image",
+    "type": "Image",
+    "sort": 1000
+  }
+]

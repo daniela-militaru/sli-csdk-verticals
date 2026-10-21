@@ -1,0 +1,23 @@
+---
+ID: "3a64f41c-6564-453f-8a8c-e1449090b6d3"
+Parent: "55ebfc93-63be-4fa9-88aa-8f2f1f43ad15"
+Template: "55ebfc93-63be-4fa9-88aa-8f2f1f43ad15"
+Path: "/sitecore/templates/Project/access-storage/ContentSplit Templates/ContentSplit Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {90982EF8-8C92-4A6E-B01B-1B60DDF70759}
+    {55EBFC93-63BE-4FA9-88AA-8F2F1F43AD15}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Logo",
+    "title": "Logo",
+    "type": "Image",
+    "sort": 100
+  },
+  {
+    "name": "SignInLabel",
+    "title": "SignInLabel",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "QuoteLink",
+    "title": "QuoteLink",
+    "type": "General Link",
+    "sort": 300
+  },
+  {
+    "name": "SelfStorageLink",
+    "title": "SelfStorageLink",
+    "type": "General Link",
+    "sort": 400
+  },
+  {
+    "name": "BusinessLabel",
+    "title": "BusinessLabel",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "StoresLink",
+    "title": "StoresLink",
+    "type": "General Link",
+    "sort": 600
+  },
+  {
+    "name": "BoxesLabel",
+    "title": "BoxesLabel",
+    "type": "Single-Line Text",
+    "sort": 700
+  },
+  {
+    "name": "OfficeLabel",
+    "title": "OfficeLabel",
+    "type": "Single-Line Text",
+    "sort": 800
+  }
+]

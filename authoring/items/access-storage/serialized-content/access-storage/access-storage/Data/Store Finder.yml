@@ -1,0 +1,42 @@
+---
+ID: "b5d43dd1-9954-4375-911f-2c1884771654"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "35eae91b-fdd2-4451-9060-87a2581a75cb"
+Path: "/sitecore/content/access-storage/access-storage/Data/Store Finder"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2f23ca6e-63bb-442c-940f-592deb922435"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "52c10dca-f1a9-4fd5-bcbd-2dbf466ec48d"
+      Hint: Title
+      Value: |
+        Find a store near you
+    - ID: "6ac8b551-510b-4f14-89b1-f339670fc31c"
+      Hint: Placeholder
+      Value: |
+        Search by postcode or location
+    - ID: "e4dfdf67-b72f-45cb-a2c0-da8f31f991bf"
+      Hint: ButtonLabel
+      Value: |
+        Get a quote
+    - ID: "4d47c2db-5036-4805-a870-9aa78d6e2985"
+      Hint: ButtonLink
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "050b9483-3450-4a40-b566-c50b3a7424a1"
+      Hint: MapLabel
+      Value: |
+        or see a map of locations
+    - ID: "62e5b0f0-942a-4d08-930f-4ec57adc7a57"
+      Hint: Locations
+      Value: |
+        <h3>Stores in London</h3><ul><li>Access Self Storage Acton</li><li>Access Self Storage Alperton</li><li>Access Self Storage Balham</li><li>Access Self Storage Barking</li><li>Access Self Storage Battersea</li><li>Access Self Storage Brentford</li><li>Access Self Storage Brixton Hill</li><li>Access Self Storage Clapham Acre Lane</li><li>Access Self Storage Catford</li><li>Access Self Storage Charlton</li><li>Access Self Storage Cheam</li><li>Access Self Storage Chelsea</li><li>Access Self Storage Cricklewood</li><li>Access Self Storage Croydon</li><li>Access Self Storage Croydon Purley Way</li><li>Access Self Storage Ealing</li><li>Access Self Storage Edmonton</li><li>Access Self Storage Fulham</li><li>Access Self Storage Harrow</li><li>Access Self Storage Hayes</li><li>Access Self Storage Hornsey</li><li>Access Self Storage Isleworth</li><li>Access Self Storage Islington</li><li>Access Self Storage Kings Cross</li><li>Access Self Storage Kingston Upon Thames</li><li>Access Self Storage Mitcham</li><li>Access Self Storage Neasden</li><li>Access Self Storage Orpington</li><li>Access Self Storage Romford</li><li>Access Self Storage Streatham</li><li>Access Self Storage Sunbury</li><li>Access Self Storage Sutton</li><li>Access Self Storage Sydenham</li><li>Access Self Storage Twickenham</li><li>Access Self Storage Wandsworth</li><li>Access Self Storage Wembley</li><li>Access Self Storage West Norwood</li></ul><h3>Stores outside London</h3><ul><li>Access Self Storage Basingstoke</li><li>Access Self Storage Birmingham Central</li><li>Access Self Storage Birmingham Erdington</li><li>Access Self Storage Birmingham Selly Oak</li><li>Access Self Storage Bracknell</li><li>Access Self Storage Bristol</li><li>Access Self Storage Coventry</li><li>Access Self Storage Derby</li><li>Access Self Storage Guildford</li><li>Access Self Storage Hemel Hempstead</li><li>Access Self Storage High Wycombe</li><li>Access Self Storage Manchester</li><li>Access Self Storage Northampton</li><li>Access Self Storage Nottingham</li><li>Access Self Storage Portsmouth</li><li>Access Self Storage Reading</li><li>Access Self Storage Southampton</li><li>Access Self Storage St Albans</li><li>Access Self Storage Stevenage</li></ul>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

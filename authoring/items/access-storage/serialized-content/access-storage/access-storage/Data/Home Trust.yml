@@ -1,0 +1,50 @@
+---
+ID: "59e45264-46e2-48e2-a2cd-bed9b3c0f307"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "6fe81da9-38e5-42d5-af53-442fdbf7cbd8"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Trust"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d04786ca-34e4-4602-9451-2365620e9560"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "a4f03f15-236d-4a25-a8e3-2ab5cf23ac9b"
+      Hint: Item1Title
+      Value: |
+        24hr security
+    - ID: "415b4e1d-ea19-456f-ae68-52ab4370e8f2"
+      Hint: Item1Text
+      Value: |
+        Your belongings stay protected
+    - ID: "b2c1df98-fe89-40a4-b422-ac901328e41b"
+      Hint: Item2Title
+      Value: |
+        50% introductory offer
+    - ID: "511a49ab-0b2d-4312-9b53-9b5ce9dae40a"
+      Hint: Item2Text
+      Value: |
+        First 8 weeks half price
+    - ID: "2c4646db-56dd-4bbd-ae1f-8ab2da2b8743"
+      Hint: Item3Title
+      Value: |
+        Price promise
+    - ID: "cd2d32b6-86a9-4e79-a145-0d31b68ad9e0"
+      Hint: Item3Text
+      Value: |
+        We'll match a better local quote
+    - ID: "e39c96b9-2cba-4098-a822-8ce7d50a4630"
+      Hint: Item4Title
+      Value: |
+        Flexible terms
+    - ID: "33911a7b-b5af-4448-b341-cdc368d94535"
+      Hint: Item4Text
+      Value: |
+        No long-term contract
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

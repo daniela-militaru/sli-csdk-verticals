@@ -1,0 +1,34 @@
+---
+ID: "04c38b0b-e16e-4f46-9731-5ff00ed15d21"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "90982ef8-8c92-4a6e-b01b-1b60ddf70759"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Split"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "33304561-158b-4b99-abd2-9b53913bd5ed"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7967ddf7-184e-4668-b4c8-6b52f3601c78"
+      Hint: Title
+      Value: |
+        Self storage units across London and the UK
+    - ID: "181839d1-3107-4a63-9cd8-b00928748983"
+      Hint: Body
+      Value: |
+        <p>Whether you are moving home, decluttering, or need extra space for your business, Access Self Storage has a solution that fits. With 56 locations across London and the UK, there is always a store near you.</p><p>No deposit, no long-term contract. And if you find a cheaper quote locally, we will match it.</p>
+    - ID: "ce20830d-e70f-4db8-9d04-8e16844baf2b"
+      Hint: Link
+      Value: |
+        <link text="Find your nearest store" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "665b461d-cab9-47fb-a9b4-7183e87f0521"
+      Hint: Image
+      Value: |
+        <image mediaid="{950B3CBE-99CE-4492-A1B2-D30C54B74593}" width="971" height="492" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

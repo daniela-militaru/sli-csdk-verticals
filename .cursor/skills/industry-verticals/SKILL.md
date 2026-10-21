@@ -20,6 +20,7 @@ Start here. Then open the industry skill for the type you are building. Hosts th
 | Travel, destinations, tourism | `industry-verticals/travel` (Skywings) | [industry-travel](../industry-travel/SKILL.md) | Destination and article listing + detail, deals |
 | Energy, utilities, operational status | `industry-verticals/energy` (Gridwell) | [industry-energy](../industry-energy/SKILL.md) | Articles plus a status widget |
 | Professional services (legal, consulting) | `industry-verticals/ashurst` (Ashurst Perkins Coie). People pages follow healthcare; insights follow retail articles | [industry-healthcare](../industry-healthcare/SKILL.md) | Homepage, insights listing, insight articles. People pages are not built yet |
+| Self storage | `industry-verticals/access-storage` (Access Self Storage) | [industry-storage](../industry-storage/SKILL.md) | Homepage, self-storage page, store finder |
 | Nonprofit (appeals, advice) | travel articles + retail promos | [industry-retail](../industry-retail/SKILL.md) | Advice articles, appeals as promos |
 | Recruitment (jobs, consultants) | healthcare people + retail listings | [industry-healthcare](../industry-healthcare/SKILL.md) | Jobs and consultants are listing + detail |
 

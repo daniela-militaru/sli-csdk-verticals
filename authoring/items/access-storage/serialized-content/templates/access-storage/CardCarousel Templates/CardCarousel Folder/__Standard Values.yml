@@ -1,0 +1,23 @@
+---
+ID: "e9161dd7-a950-4f2a-83a4-89dbd9916f81"
+Parent: "89ebcd6c-334c-4f95-8c29-1ab951b6383e"
+Template: "89ebcd6c-334c-4f95-8c29-1ab951b6383e"
+Path: "/sitecore/templates/Project/access-storage/CardCarousel Templates/CardCarousel Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6245FFC7-274D-4F52-A525-99DF1130AD30}
+    {89EBCD6C-334C-4F95-8C29-1AB951B6383E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

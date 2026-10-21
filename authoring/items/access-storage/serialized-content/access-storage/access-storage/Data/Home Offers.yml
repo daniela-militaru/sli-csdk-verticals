@@ -1,0 +1,46 @@
+---
+ID: "66285a30-2042-4f7a-9914-f0cc0dc4ddc6"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "4ac7a662-1580-4823-a466-0e30938fd6cb"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Offers"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6a052453-c213-4b43-9281-01fe70ba1926"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "e640fc69-78f4-485b-8fde-59854b9a387a"
+      Hint: Card1Title
+      Value: |
+        Excellent security
+    - ID: "39abcc42-ba7e-4326-92bb-a88fd6944464"
+      Hint: Card1Text
+      Value: |
+        <p>Our priority is the safety and security of your belongings.</p>
+    - ID: "e6bc7ae0-4e81-4aa5-89ac-1c9485cadba5"
+      Hint: Card2Title
+      Value: |
+        Price promise
+    - ID: "5a8fc568-bb1c-4d73-a7e3-ce7bdbe8a9a0"
+      Hint: Card2Text
+      Value: |
+        <p>If you find a better self storage quote locally we’ll happily match it. T&amp;Cs apply.</p>
+    - ID: "09e02bcf-96bb-4565-a130-f3610bccb8f1"
+      Hint: Card3Title
+      Value: |
+        Discount offers
+    - ID: "d42d6f56-3762-470d-8bc9-0f5723bf4389"
+      Hint: Card3Text
+      Value: |
+        <p>50% off up to 8 weeks storage. Long-term storage discounts available. T&amp;Cs apply.</p>
+    - ID: "f5f6a499-b92b-43e7-a905-10b1b49aec8c"
+      Hint: Link
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

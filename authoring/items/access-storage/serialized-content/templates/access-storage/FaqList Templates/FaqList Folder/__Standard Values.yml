@@ -1,0 +1,23 @@
+---
+ID: "769e07c3-6315-494d-89c8-cccb9e32447c"
+Parent: "f3e039cb-6c32-4961-9a06-c3f426c2ace9"
+Template: "f3e039cb-6c32-4961-9a06-c3f426c2ace9"
+Path: "/sitecore/templates/Project/access-storage/FaqList Templates/FaqList Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {44A2241A-E481-41DC-93AE-3ACF755F8804}
+    {F3E039CB-6C32-4961-9A06-C3F426C2ACE9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

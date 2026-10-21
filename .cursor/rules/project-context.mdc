@@ -26,6 +26,7 @@ Available Sites (keep in sync with `.cursor/SITE-REGISTRY.md`):
 - `travel` - **Skywings** - Travel focused site template with articles and destinations
 - `energy` - **Gridwell** - Energy focused site template with grid condition/status and articles
 - `ashurst` - **Ashurst Perkins Coie** - Professional services site for the homepage, insights listing, and insight articles (`renderingHosts` key `ashurst`)
+- `access-storage` - **Access Self Storage** - Self-storage site for the homepage, self-storage page, and store finder (`renderingHosts` key `access-storage`)
 
 New hosts go under `industry-verticals/{folder}/`. When a site is created, cloned, or renamed, update this list and the registry in the same change (`new-site-inventory`).
 

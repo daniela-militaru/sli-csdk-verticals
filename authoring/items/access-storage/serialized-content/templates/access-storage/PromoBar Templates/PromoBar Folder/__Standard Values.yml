@@ -1,0 +1,23 @@
+---
+ID: "b23864c3-d1f5-47b5-a8bc-b7365a336593"
+Parent: "07b315ff-65ec-4a3d-9648-872573d609ce"
+Template: "07b315ff-65ec-4a3d-9648-872573d609ce"
+Path: "/sitecore/templates/Project/access-storage/PromoBar Templates/PromoBar Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {77E91771-5EC9-4482-B29C-B0959386C9CD}
+    {07B315FF-65EC-4A3D-9648-872573D609CE}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

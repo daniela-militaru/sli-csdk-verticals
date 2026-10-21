@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Item1Question",
+    "title": "Item1Question",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Item1Answer",
+    "title": "Item1Answer",
+    "type": "Rich Text",
+    "sort": 300
+  },
+  {
+    "name": "Item2Question",
+    "title": "Item2Question",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Item2Answer",
+    "title": "Item2Answer",
+    "type": "Rich Text",
+    "sort": 500
+  },
+  {
+    "name": "Item3Question",
+    "title": "Item3Question",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Item3Answer",
+    "title": "Item3Answer",
+    "type": "Rich Text",
+    "sort": 700
+  },
+  {
+    "name": "Item4Question",
+    "title": "Item4Question",
+    "type": "Single-Line Text",
+    "sort": 800
+  },
+  {
+    "name": "Item4Answer",
+    "title": "Item4Answer",
+    "type": "Rich Text",
+    "sort": 900
+  },
+  {
+    "name": "Group1Title",
+    "title": "Group1Title",
+    "type": "Single-Line Text",
+    "sort": 1000
+  },
+  {
+    "name": "Group1Body",
+    "title": "Group1Body",
+    "type": "Rich Text",
+    "sort": 1100
+  },
+  {
+    "name": "Group2Title",
+    "title": "Group2Title",
+    "type": "Single-Line Text",
+    "sort": 1200
+  },
+  {
+    "name": "Group2Body",
+    "title": "Group2Body",
+    "type": "Rich Text",
+    "sort": 1300
+  }
+]

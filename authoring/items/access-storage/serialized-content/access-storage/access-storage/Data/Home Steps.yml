@@ -1,0 +1,58 @@
+---
+ID: "c3d9e426-3e6f-452d-b59a-6f168d48842e"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "4d1c0fad-e493-474d-adeb-83667df63c2e"
+Path: "/sitecore/content/access-storage/access-storage/Data/Home Steps"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5838c9dc-1cc2-415e-979e-3147c9ffc018"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2e852120-8809-4ede-8cbb-1b1f01e3e7b0"
+      Hint: Title
+      Value: |
+        How it works
+    - ID: "4bd6b7f1-7315-462e-b25a-c565f7367bbc"
+      Hint: Intro
+      Value: |
+        It's as simple as 1, 2, 3
+    - ID: "b63532a1-8af2-412e-865f-ca4f8a1444d4"
+      Hint: Step1Title
+      Value: |
+        Instant storage quote
+    - ID: "02f21b9e-b865-4f72-81d7-b5223ff90698"
+      Hint: Step1Text
+      Value: |
+        Enter your postcode and choose your preferred store.
+    - ID: "fb249d77-b17c-4c98-9bf1-1b81b3f9455e"
+      Hint: Step2Title
+      Value: |
+        Reserve online with no deposit
+    - ID: "c9555ddf-ce0d-43cc-9474-15b20fbf11bc"
+      Hint: Step2Text
+      Value: |
+        Secure your storage instantly online, completely free.
+    - ID: "e5367074-205c-4be5-9eaf-df6211536f20"
+      Hint: Step3Title
+      Value: |
+        Move into your storage unit
+    - ID: "575a07e6-8c5e-4821-a9c7-d170531d0605"
+      Hint: Step3Text
+      Value: |
+        Flexible, short notice agreements for your convenience.
+    - ID: "7bed00b4-2f2d-41fc-9b3d-ccb8fc7601c1"
+      Hint: Link
+      Value: |
+        <link text="See storage prices and availability" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "c7ca08d9-136a-4e23-be20-e5d188efd80b"
+      Hint: Image
+      Value: |
+        <image mediaid="{266D4267-58C9-42CB-A901-820A570915A0}" width="569" height="800" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

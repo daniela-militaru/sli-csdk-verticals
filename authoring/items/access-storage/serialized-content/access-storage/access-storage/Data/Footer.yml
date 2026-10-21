@@ -1,0 +1,30 @@
+---
+ID: "2022feb3-a08f-476b-987a-9f2d4cbcd64b"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "0e456298-83fd-4899-9c72-4c91f3858c04"
+Path: "/sitecore/content/access-storage/access-storage/Data/Footer"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "06f86738-0613-4ffc-a4fe-dcc9293c0e79"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f5398b50-3ed9-4f5b-a530-3a678f942aac"
+      Hint: Logo
+      Value: |
+        <image mediaid="{42DA9658-83BD-47AB-8C2F-4645157BBD58}" width="192" height="64" />
+    - ID: "3233b3bb-df97-4222-b804-4fdedc8cc2c3"
+      Hint: Columns
+      Value: |
+        <p><a href="/self-storage">Self storage</a></p><p><a href="/our-stores">Our stores</a></p><p>About us · Blog · Contact us · Careers · Sitemap</p>
+    - ID: "c71fc54b-6f82-4dd2-8580-d09884cd1766"
+      Hint: Legal
+      Value: |
+        <p>Terms and Conditions · Privacy Policy · Cookie Policy · FAQs</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

@@ -1,0 +1,23 @@
+---
+ID: "c400c48b-0127-4cd1-b8f2-eee5a6844272"
+Parent: "9418e879-26a0-4c20-b6d4-383da7da7208"
+Template: "9418e879-26a0-4c20-b6d4-383da7da7208"
+Path: "/sitecore/templates/Project/access-storage/QuoteHero Templates/QuoteHero Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E6F7B927-E313-44C0-B434-2E883BC84F80}
+    {9418E879-26A0-4C20-B6D4-383DA7DA7208}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

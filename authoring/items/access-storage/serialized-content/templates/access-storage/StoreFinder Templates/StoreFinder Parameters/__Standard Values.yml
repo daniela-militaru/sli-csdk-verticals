@@ -1,0 +1,17 @@
+---
+ID: "6e36f031-1518-4bf8-9fff-7bdaf80b7c29"
+Parent: "30a687a3-aa66-4501-9e73-87179f890194"
+Template: "30a687a3-aa66-4501-9e73-87179f890194"
+Path: "/sitecore/templates/Project/access-storage/StoreFinder Templates/StoreFinder Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

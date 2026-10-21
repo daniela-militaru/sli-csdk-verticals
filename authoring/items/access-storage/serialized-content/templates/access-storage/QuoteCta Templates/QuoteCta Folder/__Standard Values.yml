@@ -1,0 +1,23 @@
+---
+ID: "44a31db3-e6c3-4545-93d3-ef08075c41a9"
+Parent: "9e7c4a7b-11be-408d-82f3-12270e894372"
+Template: "9e7c4a7b-11be-408d-82f3-12270e894372"
+Path: "/sitecore/templates/Project/access-storage/QuoteCta Templates/QuoteCta Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {FDF593A2-111E-431E-9653-7EE5F32B585C}
+    {9E7C4A7B-11BE-408D-82F3-12270E894372}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

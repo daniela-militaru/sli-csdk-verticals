@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Subtitle",
+    "title": "Subtitle",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Placeholder",
+    "title": "Placeholder",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "ButtonLabel",
+    "title": "ButtonLabel",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "ButtonLink",
+    "title": "ButtonLink",
+    "type": "General Link",
+    "sort": 500
+  },
+  {
+    "name": "Image",
+    "title": "Image",
+    "type": "Image",
+    "sort": 600
+  }
+]

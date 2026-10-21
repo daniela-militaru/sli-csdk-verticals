@@ -1,0 +1,23 @@
+---
+ID: "e4819d6c-9b08-4b54-965f-5bb4a9d4d819"
+Parent: "e01704c2-f467-4ed2-a12f-3efaee2e55ad"
+Template: "e01704c2-f467-4ed2-a12f-3efaee2e55ad"
+Path: "/sitecore/templates/Project/access-storage/HowItWorks Templates/HowItWorks Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4D1C0FAD-E493-474D-ADEB-83667DF63C2E}
+    {E01704C2-F467-4ED2-A12F-3EFAEE2E55AD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

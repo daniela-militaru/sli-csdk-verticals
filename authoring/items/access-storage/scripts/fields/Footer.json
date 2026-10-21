@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Logo",
+    "title": "Logo",
+    "type": "Image",
+    "sort": 100
+  },
+  {
+    "name": "Columns",
+    "title": "Columns",
+    "type": "Rich Text",
+    "sort": 200
+  },
+  {
+    "name": "Legal",
+    "title": "Legal",
+    "type": "Rich Text",
+    "sort": 300
+  }
+]

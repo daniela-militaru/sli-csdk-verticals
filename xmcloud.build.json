@@ -59,6 +59,16 @@
       "type": "sxa",
       "buildCommand": "build",
       "runCommand": "next:start"
+    },
+    "access-storage": {
+      "path": "./industry-verticals/access-storage",
+      "nodeVersion": "24.18.0",
+      "packageManager": "npm",
+      "jssDeploymentSecret": "110F1C44A496B45478640DD36F80C18C9",
+      "enabled": true,
+      "type": "sxa",
+      "buildCommand": "build",
+      "runCommand": "next:start"
     }
   },
   "deployItems": {
@@ -79,7 +89,8 @@
           "Project.Travel-Content",
           "Project.Energy-Media",
           "Project.Energy-Content",
-          "ashurst-scs"
+          "ashurst-scs",
+          "access-storage-scs"
         ]
       },
       "warmUpCm": {

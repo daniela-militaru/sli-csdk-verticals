@@ -1,0 +1,17 @@
+---
+ID: "168d50d9-adf2-45df-8014-a4d58ca44239"
+Parent: "89e51d84-8e6e-4e45-9404-be38eac90e31"
+Template: "89e51d84-8e6e-4e45-9404-be38eac90e31"
+Path: "/sitecore/templates/Project/access-storage/Header Templates/Header Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

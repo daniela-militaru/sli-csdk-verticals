@@ -1,0 +1,22 @@
+---
+ID: "f7d9781b-3470-408f-b4a0-46000b4e0a66"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "77e91771-5ec9-4482-b29c-b0959386c9cd"
+Path: "/sitecore/content/access-storage/access-storage/Data/Storage Promo"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c729849f-25f7-481c-9de3-6e7318feb9bf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "449946ba-463a-4bee-8a7d-2e5aa8a2559e"
+      Hint: Text
+      Value: |
+        You can get 50% off up to 8 weeks storage. Don’t miss out!
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z

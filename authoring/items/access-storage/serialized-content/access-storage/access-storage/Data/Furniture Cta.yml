@@ -1,0 +1,26 @@
+---
+ID: "ac1145a1-7573-4f1e-a8b2-b99272d9078c"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "fdf593a2-111e-431e-9653-7ee5f32b585c"
+Path: "/sitecore/content/access-storage/access-storage/Data/Furniture Cta"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "61d0f37a-d8d6-44f4-ba66-5cada42eb8d8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "850a2f88-baf9-4c3c-bb65-82932c655ad0"
+      Hint: Title
+      Value: |
+        Interested in using Access for furniture storage?
+    - ID: "66e14583-0a43-4c2a-9808-91cf25ae3d37"
+      Hint: Link
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T150000Z
