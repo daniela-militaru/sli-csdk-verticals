@@ -31,4 +31,10 @@ Components, in `src/components/`: `header`, `footer`, `promo-bar`, `quote-hero`,
 
 The header, promo bar, and footer are placed on each page. Pages can also drag these renderings from the Access Storage group under Available Renderings. Quote forms are visual only and link to Our stores. There is no live postcode lookup, account sign-in, or cookie banner.
 
+## CDP profile
+
+A floating customer profile is mounted from `src/Layout.tsx`. It follows the Ashurst profile and does not call a CDP tenant. The browser stores the guest, visits, page views, quote searches, and referral in `localStorage` under `access-cdp-*`.
+
+Open it with the button at the bottom right, or add `?cdp=1` to the URL. The homepage, Self storage, and Our stores add topic and industry affinities. Typing in a quote form records a search. Subscribe stores an email on this browser. Reset browsing profile clears that local session.
+
 Publish the items in Sitecore before the routes appear on Experience Edge. The editing host in Deploy must be named `access-storage`. Local preview needs the Edge Context ID and editing secret from Deploy Developer Settings.
