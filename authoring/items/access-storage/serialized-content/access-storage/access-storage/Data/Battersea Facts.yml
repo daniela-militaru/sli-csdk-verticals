@@ -1,0 +1,90 @@
+---
+ID: "ef414c26-eacf-4753-a076-612572f5b1b7"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "34df7eff-8ef2-4a39-b070-47867f7e434a"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea Facts"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a2e2a30d-eaef-47d3-b5ff-ca2e7fde6d39"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "b2dbef4e-8d32-41ab-887d-ff2f50cad526"
+      Hint: Title
+      Value: |
+        Is Access Self Storage Battersea safe and secure?
+    - ID: "7400994f-1650-4964-ad52-780cd86e535b"
+      Hint: Intro
+      Value: |
+        <p>Access Self Storage Battersea is a self storage facility at 248 York Road, SW11 3SJ, serving Wandsworth town, Nine Elms and Fulham.</p><p>Yes, the facility is secure. It operates 24-hour CCTV monitoring, individually alarmed rooms, a secure access app and a gated and fenced perimeter.</p>
+    - ID: "be04f802-c76e-47d3-8fdb-a6ae8ea9cd0e"
+      Hint: Fact1Label
+      Value: |
+        Location
+    - ID: "b38c2633-2d7a-43fb-b3f4-9091a4ff0871"
+      Hint: Fact1Value
+      Value: |
+        248 York Road, SW11 3SJ
+    - ID: "29141a14-844b-4443-9fa5-114cc81aeb9f"
+      Hint: Fact2Label
+      Value: |
+        CCTV
+    - ID: "fdb8ee48-91a5-4f85-a5d5-6b69c0d2a691"
+      Hint: Fact2Value
+      Value: |
+        24-hour monitoring
+    - ID: "495ec7cf-7a56-448e-b0c7-9774ed55d3dc"
+      Hint: Fact3Label
+      Value: |
+        Alarms
+    - ID: "7c954cb8-dad7-4fe3-a0a4-a434995a5df3"
+      Hint: Fact3Value
+      Value: |
+        Individually alarmed rooms
+    - ID: "d232e1cb-3b47-42c4-9aa4-4e504a4fdce2"
+      Hint: Fact4Label
+      Value: |
+        Access
+    - ID: "c23f4bd9-f9de-435d-93c5-2d8dc2287a85"
+      Hint: Fact4Value
+      Value: |
+        Secure access app
+    - ID: "f49501b7-b690-49d8-a563-62f72e115db5"
+      Hint: Fact5Label
+      Value: |
+        Perimeter
+    - ID: "e68ed478-3753-4994-a1ac-6dfcf4f0e779"
+      Hint: Fact5Value
+      Value: |
+        Gated and fenced
+    - ID: "332a0e6b-32bf-4ea7-a6d6-2bc2163fc50e"
+      Hint: Fact6Label
+      Value: |
+        Loading
+    - ID: "21b69fd7-cdc2-4051-be9c-6548f5e938b7"
+      Hint: Fact6Value
+      Value: |
+        Covered loading bay
+    - ID: "b53ea8c0-08c9-4e5d-8cd7-03edbb6c25ad"
+      Hint: HoursTitle
+      Value: |
+        Store and reception opening hours
+    - ID: "11817aff-acdd-43e6-826b-0dbdda35343a"
+      Hint: Hours
+      Value: |
+        <ul><li>Monday to Friday: 08:30 - 18:00</li><li>Saturday: 08:30 - 17:00</li><li>Sunday: 10:00 - 16:00</li><li>24 and 31 December: 08:30 - 16:00</li><li>25 and 26 December, and 1 January: closed</li></ul>
+    - ID: "f1751ed9-223d-40d7-bb29-69587ee34cda"
+      Hint: ContactTitle
+      Value: |
+        Contact us and address
+    - ID: "56a1dd57-5262-4c52-b7d7-030a96414ed8"
+      Hint: Contact
+      Value: |
+        <p>Phone: 020 4515 3945</p><p>Email: battersea@accessstorage.com</p><p>248 York Road, Battersea, London, SW11 3SJ</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

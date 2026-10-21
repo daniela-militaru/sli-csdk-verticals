@@ -1,0 +1,23 @@
+---
+ID: "55965d49-fd92-4d4e-bf17-f82cbbaa9770"
+Parent: "bbc991f2-3614-4c6d-a638-872854352bd5"
+Template: "bbc991f2-3614-4c6d-a638-872854352bd5"
+Path: "/sitecore/templates/Project/access-storage/StoreFacts Templates/StoreFacts Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {34DF7EFF-8EF2-4A39-B070-47867F7E434A}
+    {BBC991F2-3614-4C6D-A638-872854352BD5}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

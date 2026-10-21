@@ -1,0 +1,70 @@
+---
+ID: "78763f7b-258b-4e67-bcda-74db39c3c272"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "44a2241a-e481-41dc-93ae-3acf755f8804"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea Faq"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1a56e5f1-ab9b-4b24-be7f-5272fed76130"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c4c05d0b-ca8a-4f74-ab73-d62ec3f05780"
+      Hint: Title
+      Value: |
+        About our Battersea storage and services
+    - ID: "49ee66b5-86c3-4cd0-a972-f5ce73613e7b"
+      Hint: Item1Question
+      Value: |
+        Do we offer flexible rental terms for storage units?
+    - ID: "dc544bea-ae31-4328-a796-6a13709aa7ef"
+      Hint: Item1Answer
+      Value: |
+        <p>Yes. Units are on a monthly rolling basis, so you can store for as little as a week or for as long as you need. You can upsize or downsize as your needs change.</p>
+    - ID: "4a9a21aa-3b30-4c24-8d4f-6e4ec2bfa5fe"
+      Hint: Item2Question
+      Value: |
+        What unit sizes are available at Battersea?
+    - ID: "22acc2bd-8ebe-443d-a705-b20915cd6b40"
+      Hint: Item2Answer
+      Value: |
+        <p>From small lockers at 9 sq ft to 5 ft by 5 ft, 10 ft by 10 ft, 10 ft by 30 ft, and spaces up to 400 sq ft.</p>
+    - ID: "eb1e1fa1-9c24-43d6-a8cf-516bf12d46d9"
+      Hint: Item3Question
+      Value: |
+        How secure is the Battersea facility?
+    - ID: "690189a6-f72b-4b4c-8b90-dfc37fd7b405"
+      Hint: Item3Answer
+      Value: |
+        <p>The store has 24-hour digital CCTV, alarms for the building and for each unit, and coded electronic access with a unique PIN. You hold the only key to your room.</p>
+    - ID: "f46b7c00-3400-407d-a0ec-cfd2c781e025"
+      Hint: Item4Question
+      Value: |
+        Where is Access Self Storage Battersea located?
+    - ID: "75d2bfe8-7d7f-41ad-b6bd-b98c8a3995ec"
+      Hint: Item4Answer
+      Value: |
+        <p>248 York Road, Battersea, London, SW11 3SJ, just after Wandsworth Bridge. It is a few minutes walk from Clapham Junction and Wandsworth Town stations, with on-site parking.</p>
+    - ID: "e4ed0a18-2500-4159-915c-6e7076690d39"
+      Hint: Group1Title
+      Value: |
+        Battersea access, pricing and booking
+    - ID: "ecda8a0f-ccb5-40b5-90d4-3313730b8cc6"
+      Hint: Group1Body
+      Value: |
+        <p><strong>Can someone else access my storage unit?</strong> Only with your permission. You can add named family members, friends, or colleagues to your account.</p><p><strong>What are the access hours?</strong> Customers have free access seven days a week during opening hours: Monday to Friday 8:30 to 18:00, Saturday 8:30 to 17:00, Sunday 10:00 to 16:00.</p><p><strong>Do you offer discounts?</strong> New customers can get 50% off for up to 13 weeks. Ask about the current offer when you get a quote.</p>
+    - ID: "f8250cb7-1a4a-4780-96b0-db2ea8059345"
+      Hint: Group2Title
+      Value: |
+        Battersea location and amenities
+    - ID: "c5721872-3aca-4ebc-9e30-cfd9d0363a4b"
+      Hint: Group2Body
+      Value: |
+        <p><strong>Do you provide packing supplies?</strong> Yes. Boxes, bubble wrap, and tape are available in store.</p><p><strong>Do you provide parking and loading?</strong> Yes. Parking is free for customers, with a covered loading bay, trolleys, and a pallet truck.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

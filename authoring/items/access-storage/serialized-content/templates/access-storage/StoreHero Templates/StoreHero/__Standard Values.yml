@@ -1,0 +1,17 @@
+---
+ID: "8382594d-28ba-4a5f-a666-4ff61c8c6421"
+Parent: "8cfd5280-3072-4c0c-bf06-19ce5118c90c"
+Template: "8cfd5280-3072-4c0c-bf06-19ce5118c90c"
+Path: "/sitecore/templates/Project/access-storage/StoreHero Templates/StoreHero/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

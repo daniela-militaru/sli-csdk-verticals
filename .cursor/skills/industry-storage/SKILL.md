@@ -11,4 +11,4 @@ Host: `industry-verticals/access-storage`. Guide: [docs/ACCESS-STORAGE.md](../..
 
 Shared rules: [industry-verticals](../industry-verticals/SKILL.md).
 
-Pages in scope are the homepage, `/self-storage`, and `/our-stores`. Store names are content on those pages. Do not create a page per store unless asked.
+Pages in scope are the homepage, `/self-storage`, `/our-stores`, and the Battersea store at `/south-london/access-self-storage-battersea`. Do not create a page for every store unless asked.

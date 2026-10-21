@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Card1Title",
+    "title": "Card1Title",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Card1Text",
+    "title": "Card1Text",
+    "type": "Rich Text",
+    "sort": 300
+  },
+  {
+    "name": "Card1Image",
+    "title": "Card1Image",
+    "type": "Image",
+    "sort": 400
+  },
+  {
+    "name": "Card1Link",
+    "title": "Card1Link",
+    "type": "General Link",
+    "sort": 500
+  },
+  {
+    "name": "Card2Title",
+    "title": "Card2Title",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Card2Text",
+    "title": "Card2Text",
+    "type": "Rich Text",
+    "sort": 700
+  },
+  {
+    "name": "Card2Image",
+    "title": "Card2Image",
+    "type": "Image",
+    "sort": 800
+  },
+  {
+    "name": "Card2Link",
+    "title": "Card2Link",
+    "type": "General Link",
+    "sort": 900
+  }
+]

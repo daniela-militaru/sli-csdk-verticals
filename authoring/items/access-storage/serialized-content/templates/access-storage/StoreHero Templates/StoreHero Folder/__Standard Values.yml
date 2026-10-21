@@ -1,0 +1,23 @@
+---
+ID: "59161359-952e-451a-81fa-bd1adae6518a"
+Parent: "2d148748-722e-44cd-8666-b25de797fe96"
+Template: "2d148748-722e-44cd-8666-b25de797fe96"
+Path: "/sitecore/templates/Project/access-storage/StoreHero Templates/StoreHero Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {8CFD5280-3072-4C0C-BF06-19CE5118C90C}
+    {2D148748-722E-44CD-8666-B25DE797FE96}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

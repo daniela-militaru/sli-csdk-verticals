@@ -1,0 +1,38 @@
+---
+ID: "0990c9ef-9827-46a0-ad3a-ddaf2f05c592"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "a72f61df-09b8-48ae-b787-1186095703e3"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea About"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "73c63f1e-8eaa-42cc-92da-225a719ad43d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8622c8a3-87e6-486b-b709-e38b78a9de60"
+      Hint: Title
+      Value: |
+        Storage units in Battersea
+    - ID: "9ba6862d-9d9d-42af-8560-acf3622247db"
+      Hint: Intro
+      Value: |
+        Access Self Storage Battersea is on York Road, reached from the entrance on Mendip Road. Homes and businesses in Battersea, Clapham Junction and Nine Elms use units from lockers to 400 square feet.
+    - ID: "92b50542-e4e4-433a-b309-a151cda064cb"
+      Hint: MoreLabel
+      Value: |
+        Tell me more
+    - ID: "015239e9-a3c6-4e86-8854-eb53bef1abbb"
+      Hint: LessLabel
+      Value: |
+        Tell me less
+    - ID: "becf633c-855a-4559-973b-cfa82169b24c"
+      Hint: Body
+      Value: |
+        <p>The store is outside the Congestion Charge zone and is used for house moves, decluttering, office space, and parking commercial vehicles. You can change unit size when you need to, and packing materials are available in store.</p><p>From Clapham Junction the store is about three minutes by car: leave on the north side, turn left onto Grant Road, right onto Plough Road, and left onto York Road. Parking is on Mendip Road. On foot it is about eleven minutes through York Gardens.</p><p>Kris manages the Battersea store and looks after maintenance and customer service. The store is a short trip from theatres, restaurants, and Kensington High Street.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

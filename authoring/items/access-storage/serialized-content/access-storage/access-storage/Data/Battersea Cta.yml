@@ -1,0 +1,26 @@
+---
+ID: "0a0062bd-ebd3-4673-ac39-8b81cf662638"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "fdf593a2-111e-431e-9653-7ee5f32b585c"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea Cta"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "9f62ce37-0e9e-43cb-a721-4436bacdfdeb"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "850a2f88-baf9-4c3c-bb65-82932c655ad0"
+      Hint: Title
+      Value: |
+        Get 50% off up to 13 weeks storage at our Battersea store
+    - ID: "66e14583-0a43-4c2a-9808-91cf25ae3d37"
+      Hint: Link
+      Value: |
+        <link text="Get a quote for Battersea" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

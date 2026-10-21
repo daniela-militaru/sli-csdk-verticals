@@ -1,0 +1,54 @@
+---
+ID: "d1a7ffdd-08d4-4426-a3b3-a30f0e71cc65"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "02b17690-d6a1-4f3e-8ae2-e023232e1c41"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea Nearby"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "11f06577-3c67-4660-8b48-a9b3fe7b9f4f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e197cab-fda4-44c2-8ff5-3f3e4896a4cd"
+      Hint: Title
+      Value: |
+        Storage units near Battersea
+    - ID: "22a8589e-4618-4288-9c98-22e9f3fd82ba"
+      Hint: Card1Title
+      Value: |
+        Access Self Storage Clapham Acre Lane
+    - ID: "dedb9eb3-a93a-4422-862d-1455c38dc21f"
+      Hint: Card1Text
+      Value: |
+        <p>141-157 Acre Lane, London, SW2 5UA</p><p>020 3965 6230</p><p>acrelane@accessstorage.com</p>
+    - ID: "1890b088-ea18-4f03-a5d4-dd3741b7a7e6"
+      Hint: Card1Image
+      Value: |
+        <image mediaid="{4C02C38A-71FB-417C-9BBC-8E2A71FD3EC5}" width="450" height="290" />
+    - ID: "b3a2ff89-eb27-4ad3-8a3b-b5335604838c"
+      Hint: Card1Link
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "3ffc99f9-32df-4baf-a23f-2a612872cf80"
+      Hint: Card2Title
+      Value: |
+        Access Self Storage Balham
+    - ID: "9b736e2f-2a47-4beb-86ee-4f6682f5a143"
+      Hint: Card2Text
+      Value: |
+        <p>25 Boundaries Road, Balham, London, SW12 8EU</p><p>020 4515 3734</p><p>balham@accessstorage.com</p>
+    - ID: "a7cefcaf-17f3-430d-9784-1ee63e43780e"
+      Hint: Card2Image
+      Value: |
+        <image mediaid="{B62D29C5-E5E0-4358-AAE6-DAF0110FDBCB}" width="8256" height="5504" />
+    - ID: "263f7dbe-2aa8-46c1-80b1-de10aee9f089"
+      Hint: Card2Link
+      Value: |
+        <link text="Get a quote" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Intro",
+    "title": "Intro",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Size1",
+    "title": "Size1",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Size2",
+    "title": "Size2",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Size3",
+    "title": "Size3",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Size4",
+    "title": "Size4",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Size5",
+    "title": "Size5",
+    "type": "Single-Line Text",
+    "sort": 700
+  },
+  {
+    "name": "Size6",
+    "title": "Size6",
+    "type": "Single-Line Text",
+    "sort": 800
+  },
+  {
+    "name": "Size7",
+    "title": "Size7",
+    "type": "Single-Line Text",
+    "sort": 900
+  },
+  {
+    "name": "Size8",
+    "title": "Size8",
+    "type": "Single-Line Text",
+    "sort": 1000
+  },
+  {
+    "name": "Link",
+    "title": "Link",
+    "type": "General Link",
+    "sort": 1200
+  }
+]

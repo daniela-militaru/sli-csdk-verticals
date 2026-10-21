@@ -1,0 +1,62 @@
+---
+ID: "abae8e04-31fc-4ac8-9274-d5ab0088b505"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "2aaf6650-7b70-4c12-bc88-4f4154f1af6e"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea Sizes"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "29a91f6b-0aaf-4186-9aee-67d92232bfd7"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "a5999089-7532-4d52-8a8b-bc7f513a92fd"
+      Hint: Title
+      Value: |
+        How much space do you need?
+    - ID: "e8c7fa66-27fe-431d-8a50-dc96c82f9d3d"
+      Hint: Intro
+      Value: |
+        Select from our most popular unit sizes and get a quote to continue.
+    - ID: "23b6c98e-163e-45ad-8487-d4944fc2989d"
+      Hint: Size1
+      Value: |
+        6 sq.ft.
+    - ID: "5a71d5a7-82e0-40e5-892b-89d28cd8715e"
+      Hint: Size2
+      Value: |
+        9 sq.ft.
+    - ID: "004f768d-af3a-46d4-b2e0-ba17d5c53809"
+      Hint: Size3
+      Value: |
+        10 sq.ft.
+    - ID: "36918ab3-8eaa-4144-aad8-6dea4e1c1b37"
+      Hint: Size4
+      Value: |
+        16 sq.ft.
+    - ID: "ba729540-61c2-45e9-8943-ba2e4c520b0b"
+      Hint: Size5
+      Value: |
+        20 sq.ft.
+    - ID: "a0a75c15-ee0d-4e2d-ab43-4a99b778d592"
+      Hint: Size6
+      Value: |
+        25 sq.ft.
+    - ID: "9b22ecb1-c969-40f8-945b-b009c63e49aa"
+      Hint: Size7
+      Value: |
+        35 sq.ft.
+    - ID: "572979f3-c9d4-417c-9a89-1f7693950623"
+      Hint: Size8
+      Value: |
+        50 sq.ft.
+    - ID: "02e0da02-87fd-4a1f-a119-84c2ae8f2da9"
+      Hint: Link
+      Value: |
+        <link text="Get a quote for Battersea" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

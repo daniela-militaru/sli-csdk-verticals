@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Crumb",
+    "title": "Crumb",
+    "type": "Rich Text",
+    "sort": 100
+  },
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 200
+  },
+  {
+    "name": "Offer",
+    "title": "Offer",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Subtitle",
+    "title": "Subtitle",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Link",
+    "title": "Link",
+    "type": "General Link",
+    "sort": 500
+  },
+  {
+    "name": "Image1",
+    "title": "Image1",
+    "type": "Image",
+    "sort": 600
+  },
+  {
+    "name": "Image2",
+    "title": "Image2",
+    "type": "Image",
+    "sort": 700
+  },
+  {
+    "name": "Image3",
+    "title": "Image3",
+    "type": "Image",
+    "sort": 800
+  },
+  {
+    "name": "Image4",
+    "title": "Image4",
+    "type": "Image",
+    "sort": 900
+  }
+]

@@ -26,8 +26,12 @@ Pages:
 | `/` | Home |
 | `/self-storage` | Self storage |
 | `/our-stores` | Our stores |
+| `/south-london` | South London |
+| `/south-london/access-self-storage-battersea` | Battersea store |
 
-Components, in `src/components/`: `header`, `footer`, `promo-bar`, `quote-hero`, `trust-bar`, `offer-band`, `how-it-works`, `content-split`, `use-case-grid`, `link-row`, `expandable-copy`, `faq-list`, `page-hero`, `rich-text`, `benefit-list`, `card-carousel`, `quote-cta`, `store-finder`.
+Components, in `src/components/`: `header`, `footer`, `promo-bar`, `quote-hero`, `trust-bar`, `offer-band`, `how-it-works`, `content-split`, `use-case-grid`, `link-row`, `expandable-copy`, `faq-list`, `page-hero`, `rich-text`, `benefit-list`, `card-carousel`, `quote-cta`, `store-finder`, `store-hero`, `store-facts`, `unit-sizes`, `nearby-stores`.
+
+The Battersea store page reuses the header, footer, rich text, FAQ, link row, quote call to action, and expandable copy. `store-hero`, `store-facts`, `unit-sizes`, and `nearby-stores` are the store-specific components.
 
 The header, promo bar, and footer are placed on each page. Pages can also drag these renderings from the Access Storage group under Available Renderings. Quote forms are visual only and link to Our stores. There is no live postcode lookup, account sign-in, or cookie banner.
 

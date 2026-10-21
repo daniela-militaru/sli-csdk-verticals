@@ -1,0 +1,17 @@
+---
+ID: "1cf92c71-69ec-4267-8533-e32281a78584"
+Parent: "2aaf6650-7b70-4c12-bc88-4f4154f1af6e"
+Template: "2aaf6650-7b70-4c12-bc88-4f4154f1af6e"
+Path: "/sitecore/templates/Project/access-storage/UnitSizes Templates/UnitSizes/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

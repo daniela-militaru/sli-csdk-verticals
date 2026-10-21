@@ -1,0 +1,22 @@
+---
+ID: "e3b5e48d-78e5-48b3-8297-4e25955396ec"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "ba3e5b7c-9555-4499-ab88-f0128b960ff3"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea Features"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "56ce1e45-ca7f-4e68-9fca-130013194221"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e59308f-f87e-4299-b9ac-bacdcbecb214"
+      Hint: Body
+      Value: |
+        <h2>Store features</h2><ul><li>24hr CCTV</li><li>Secure access app</li><li>Covered loading bay</li><li>Alarmed rooms</li><li>Gated and fenced perimeter</li><li>Free use of trolleys</li><li>Extended hours access available, subject to approval</li><li>Large vehicle access</li><li>Free use of pallet truck</li><li>Forklifting service</li></ul>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

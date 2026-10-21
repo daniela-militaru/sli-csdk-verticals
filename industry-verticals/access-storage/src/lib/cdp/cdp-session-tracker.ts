@@ -212,6 +212,9 @@ export function pageAffinitiesForPath(path: string): CdpAffinity[] {
   if (/our-stores/.test(normalized)) {
     pairs.push({ name: 'topic', value: 'Stores' });
   }
+  if (/battersea/.test(normalized)) {
+    pairs.push({ name: 'topic', value: 'Battersea' });
+  }
   INDUSTRIES.forEach((industry) => {
     if (industry.test.test(normalized)) {
       pairs.push({ name: 'industry', value: industry.value });

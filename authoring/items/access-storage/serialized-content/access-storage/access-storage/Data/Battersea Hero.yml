@@ -1,0 +1,54 @@
+---
+ID: "eaad0ac0-2e05-4ad1-8251-4d7bd8d666b0"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "8cfd5280-3072-4c0c-bf06-19ce5118c90c"
+Path: "/sitecore/content/access-storage/access-storage/Data/Battersea Hero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3262684c-3b6d-414c-96d9-24475d86027e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "975a2730-a9ad-4610-9bcd-8f3184d721b0"
+      Hint: Crumb
+      Value: |
+        <p><a href="/">Home</a> / <a href="/south-london">South London</a> / Battersea</p>
+    - ID: "842baf3c-c824-48cc-8849-af1748bc1072"
+      Hint: Title
+      Value: |
+        Self Storage in Battersea
+    - ID: "3cf9cd43-a55e-42ea-9b66-d8b2295205af"
+      Hint: Offer
+      Value: |
+        50% off your first 13 weeks
+    - ID: "922c0f38-b50c-40be-be87-08938da186ee"
+      Hint: Subtitle
+      Value: |
+        No deposit. We'll beat any local price. Near Clapham Junction.
+    - ID: "e9a14eef-2da8-43bd-a63a-f6f6611d7e34"
+      Hint: Link
+      Value: |
+        <link text="Get a quote for Battersea" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FD0328D-8C44-49FD-8623-2C2AFCFD03DA}" />
+    - ID: "a161abd4-caa5-491a-be4b-859b8e1d1ba0"
+      Hint: Image1
+      Value: |
+        <image mediaid="{3819E57E-497F-4106-803A-B879050087E6}" width="740" height="490" />
+    - ID: "9a4d9d62-9c45-44bc-b1d3-390687015b2c"
+      Hint: Image2
+      Value: |
+        <image mediaid="{36B9F99E-B47B-410E-9BA6-DC9CD3D9447A}" width="740" height="490" />
+    - ID: "e4ec63fb-8d3c-4206-8906-374d77da9d96"
+      Hint: Image3
+      Value: |
+        <image mediaid="{37C0589F-EEA6-44A1-83FF-AC7F6FB87392}" width="740" height="490" />
+    - ID: "4b387cac-19ad-41b4-b413-d6ff70c25692"
+      Hint: Image4
+      Value: |
+        <image mediaid="{00FB3856-2264-4F0C-BFC9-4C5DFC38E4C3}" width="740" height="490" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

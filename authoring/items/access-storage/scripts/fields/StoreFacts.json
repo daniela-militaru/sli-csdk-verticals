@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Title",
+    "title": "Title",
+    "type": "Single-Line Text",
+    "sort": 100
+  },
+  {
+    "name": "Intro",
+    "title": "Intro",
+    "type": "Rich Text",
+    "sort": 200
+  },
+  {
+    "name": "Fact1Label",
+    "title": "Fact1Label",
+    "type": "Single-Line Text",
+    "sort": 300
+  },
+  {
+    "name": "Fact1Value",
+    "title": "Fact1Value",
+    "type": "Single-Line Text",
+    "sort": 400
+  },
+  {
+    "name": "Fact2Label",
+    "title": "Fact2Label",
+    "type": "Single-Line Text",
+    "sort": 500
+  },
+  {
+    "name": "Fact2Value",
+    "title": "Fact2Value",
+    "type": "Single-Line Text",
+    "sort": 600
+  },
+  {
+    "name": "Fact3Label",
+    "title": "Fact3Label",
+    "type": "Single-Line Text",
+    "sort": 700
+  },
+  {
+    "name": "Fact3Value",
+    "title": "Fact3Value",
+    "type": "Single-Line Text",
+    "sort": 800
+  },
+  {
+    "name": "Fact4Label",
+    "title": "Fact4Label",
+    "type": "Single-Line Text",
+    "sort": 900
+  },
+  {
+    "name": "Fact4Value",
+    "title": "Fact4Value",
+    "type": "Single-Line Text",
+    "sort": 1000
+  },
+  {
+    "name": "Fact5Label",
+    "title": "Fact5Label",
+    "type": "Single-Line Text",
+    "sort": 1100
+  },
+  {
+    "name": "Fact5Value",
+    "title": "Fact5Value",
+    "type": "Single-Line Text",
+    "sort": 1200
+  },
+  {
+    "name": "Fact6Label",
+    "title": "Fact6Label",
+    "type": "Single-Line Text",
+    "sort": 1300
+  },
+  {
+    "name": "Fact6Value",
+    "title": "Fact6Value",
+    "type": "Single-Line Text",
+    "sort": 1400
+  },
+  {
+    "name": "HoursTitle",
+    "title": "HoursTitle",
+    "type": "Single-Line Text",
+    "sort": 1600
+  },
+  {
+    "name": "Hours",
+    "title": "Hours",
+    "type": "Rich Text",
+    "sort": 1700
+  },
+  {
+    "name": "ContactTitle",
+    "title": "ContactTitle",
+    "type": "Single-Line Text",
+    "sort": 1800
+  },
+  {
+    "name": "Contact",
+    "title": "Contact",
+    "type": "Rich Text",
+    "sort": 1900
+  }
+]

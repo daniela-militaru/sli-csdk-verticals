@@ -1,0 +1,22 @@
+---
+ID: "f15a1f39-c40e-4de7-861b-7126292fabc7"
+Parent: "12771bb5-499c-47f4-bc2b-d896379ae511"
+Template: "ba3e5b7c-9555-4499-ab88-f0128b960ff3"
+Path: "/sitecore/content/access-storage/access-storage/Data/South London Intro"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6320ae4b-93e8-4609-b7f9-5eb42f1394bc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e59308f-f87e-4299-b9ac-bacdcbecb214"
+      Hint: Body
+      Value: |
+        <h1>Access Self Storage South London</h1><p>Stores across south London, including <a href="/south-london/access-self-storage-battersea">Access Self Storage Battersea</a> on York Road.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

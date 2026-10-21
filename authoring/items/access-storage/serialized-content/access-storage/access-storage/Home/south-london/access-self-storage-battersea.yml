@@ -1,0 +1,44 @@
+---
+ID: "3e7b9a14-5c62-4f08-a1d6-8b04e2f77c91"
+Parent: "6a91c4e2-7b18-4d55-9e30-1f8a2c6d44b7"
+Template: "a1d11583-d7d7-4380-8965-36ec42622941"
+Path: "/sitecore/content/access-storage/access-storage/Home/south-london/access-self-storage-battersea"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "26d16fb0-0cbf-4fd9-acb5-2b7d437bb5f7"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+      <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r uid="{E1DB4EBA-1AF6-4F58-9EEE-7689A45F6B2E}" p:before="*" s:ds="8164abe3-c860-480d-94b0-6de4c45a1d51" s:id="{5D39C214-70C4-4369-86F3-30BE562E37DC}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-header" />
+        <r uid="{CCED8BAD-489C-4173-9670-D372A99A35C6}" p:after="r[@uid='{E1DB4EBA-1AF6-4F58-9EEE-7689A45F6B2E}']" s:ds="eaad0ac0-2e05-4ad1-8251-4d7bd8d666b0" s:id="{081BD8F9-D843-42FD-8DA6-26DF3057068B}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{8701A148-4796-4E84-B3DC-11C53094CF2E}" p:after="r[@uid='{CCED8BAD-489C-4173-9670-D372A99A35C6}']" s:ds="ef414c26-eacf-4753-a076-612572f5b1b7" s:id="{FE4E984D-B813-4376-8BE5-493AB584DAED}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{4CEB1B64-1389-43E3-A125-3C6FF51E3E4B}" p:after="r[@uid='{8701A148-4796-4E84-B3DC-11C53094CF2E}']" s:ds="abae8e04-31fc-4ac8-9274-d5ab0088b505" s:id="{9B8B71CF-9DDC-44BF-9C31-40A2CAD4E999}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{4B7BDFB8-9A80-417B-811F-DC1FB9259714}" p:after="r[@uid='{4CEB1B64-1389-43E3-A125-3C6FF51E3E4B}']" s:ds="e3b5e48d-78e5-48b3-8297-4e25955396ec" s:id="{B5F547FD-8CEA-465B-8FD0-B14630A6F5C0}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{C0E63C50-5300-41FD-B95C-8F7D683A9ABC}" p:after="r[@uid='{4B7BDFB8-9A80-417B-811F-DC1FB9259714}']" s:ds="78763f7b-258b-4e67-bcda-74db39c3c272" s:id="{FADB4EDE-477A-448C-BDF9-94CFE5B71071}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{86F16A00-904A-4C79-9E4F-1F22A1AC3D49}" p:after="r[@uid='{C0E63C50-5300-41FD-B95C-8F7D683A9ABC}']" s:ds="bf6f331d-31b8-4d9f-bf65-a42263278d74" s:id="{69C7754F-7EB3-4541-B993-FCF9D553E49A}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{C030F15D-110C-4E16-BC11-7826F3F89EEE}" p:after="r[@uid='{86F16A00-904A-4C79-9E4F-1F22A1AC3D49}']" s:ds="0a0062bd-ebd3-4673-ac39-8b81cf662638" s:id="{535B8DC2-5B82-47F0-984F-3058BA2F2358}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{DD59A1E3-6098-4186-8E60-B055DC98E13F}" p:after="r[@uid='{C030F15D-110C-4E16-BC11-7826F3F89EEE}']" s:ds="d1a7ffdd-08d4-4426-a3b3-a30f0e71cc65" s:id="{D2ABFC7E-875C-4F6B-8D9D-CC89BA12150F}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{7E5DD7EF-4F62-4067-9E0D-E34608B2125E}" p:after="r[@uid='{DD59A1E3-6098-4186-8E60-B055DC98E13F}']" s:ds="0990c9ef-9827-46a0-ad3a-ddaf2f05c592" s:id="{92290102-4235-4C6F-81B0-A8B0E491198D}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-main" />
+        <r uid="{5E86E054-9066-49C4-BF4B-C5CBBCAA5078}" p:after="r[@uid='{7E5DD7EF-4F62-4067-9E0D-E34608B2125E}']" s:ds="2022feb3-a08f-476b-987a-9f2d4cbcd64b" s:id="{53AE2CB2-7AAC-4F9E-9328-8E9F419A9EEE}" s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" s:ph="headless-footer" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "84bc313a-076a-495d-96eb-282a5fc108f6"
+      Hint: Title
+      Value: |
+        Battersea
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: |
+        Battersea
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: |
+        20261021T180000Z

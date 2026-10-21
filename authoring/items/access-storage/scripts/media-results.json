@@ -1,92 +1,38 @@
 ﻿[
     {
-        "Path":  "c:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\brand\\access-brand-logo-final.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/brand/access-brand-logo-final.png",
+        "Path":  "c:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\accessstorage\\images\\stores\\battersea\\access-self-storage-battersea-building-front.yml",
+        "Url":  "https://www.accessstorage.com/-/media/accessstorage/images/stores/battersea/access-self-storage-battersea-building-front.jpg",
         "Skipped":  false,
-        "MediaId":  "42da9658-83bd-47ab-8c2f-4645157bbd58"
+        "MediaId":  "3819e57e-497f-4106-803a-b879050087e6"
     },
     {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\campaigns\\home-mover\\home-mover-hero-homepage.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/campaigns/home-mover/home-mover-hero-homepage.jpg",
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\accessstorage\\images\\stores\\battersea\\access-self-storage-battersea-building.yml",
+        "Url":  "https://www.accessstorage.com/-/media/accessstorage/images/stores/battersea/access-self-storage-battersea-building.jpg",
         "Skipped":  false,
-        "MediaId":  "0513ce4e-9ac4-407f-ba76-f798a620f618"
+        "MediaId":  "36b9f99e-b47b-410e-9ba6-dc9cd3d9447a"
     },
     {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\100sqft-content\\100sq-ft-domestic.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/100sqft-content/100sq-ft-domestic.jpg",
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\accessstorage\\images\\stores\\battersea\\access-self-storage-battersea-large-unit.yml",
+        "Url":  "https://www.accessstorage.com/-/media/accessstorage/images/stores/battersea/access-self-storage-battersea-large-unit.jpg",
         "Skipped":  false,
-        "MediaId":  "950b3cbe-99ce-4492-a1b2-d30c54b74593"
+        "MediaId":  "37c0589f-eea6-44a1-83ff-ac7f6fb87392"
     },
     {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\hero\\students\\manchester-storage-smaller.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/hero/students/manchester-storage-smaller.png",
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\accessstorage\\images\\stores\\battersea\\access-self-storage-battersea-loading-bay.yml",
+        "Url":  "https://www.accessstorage.com/-/media/accessstorage/images/stores/battersea/access-self-storage-battersea-loading-bay.jpg",
         "Skipped":  false,
-        "MediaId":  "266d4267-58c9-42cb-a901-820a570915a0"
+        "MediaId":  "00fb3856-2264-4f0c-bfc9-4c5dfc38e4c3"
     },
     {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\homepage-page-blocks\\home-mover.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/homepage-page-blocks/home-mover.jpg",
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\accessstorage\\images\\stores\\acre-lane\\access-storage-acre-lane-building.yml",
+        "Url":  "https://www.accessstorage.com/-/media/accessstorage/images/stores/acre-lane/access-storage-acre-lane-building.jpg",
         "Skipped":  false,
-        "MediaId":  "5b51f2c3-a0b0-4611-a779-d63e25d3d6d9"
+        "MediaId":  "4c02c38a-71fb-417c-9bbc-8e2a71fd3ec5"
     },
     {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\homepage-page-blocks\\declutterer.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/homepage-page-blocks/declutterer.jpg",
+        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\accessstorage\\images\\stores\\balham\\access-self-storage-balham-store-front.yml",
+        "Url":  "https://www.accessstorage.com/-/media/accessstorage/images/stores/balham/access-self-storage-balham-store-front.jpg",
         "Skipped":  false,
-        "MediaId":  "ff991ad4-e433-4fa8-b343-f70c6f44959c"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\homepage-page-blocks\\work-from-home.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/homepage-page-blocks/work-from-home.jpg",
-        "Skipped":  false,
-        "MediaId":  "1ffb5af4-0827-4065-beb1-e0b370e8d24e"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\homepage-page-blocks\\business.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/homepage-page-blocks/business.jpg",
-        "Skipped":  false,
-        "MediaId":  "c0f6c6bc-706f-4b08-86c5-5dd07121d093"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\homepage-page-blocks\\student.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/homepage-page-blocks/student.jpg",
-        "Skipped":  false,
-        "MediaId":  "a1945daf-69e5-4006-8cd8-374461946732"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\homepage-page-blocks\\ecommerce.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/homepage-page-blocks/ecommerce.jpg",
-        "Skipped":  false,
-        "MediaId":  "2c0b8a2d-98f3-4886-8c5c-30e5d0dc6d10"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\campaigns\\locker-storage\\locker-storage3.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/campaigns/locker-storage/locker-storage3.png",
-        "Skipped":  false,
-        "MediaId":  "ef97c7cd-24e7-4067-a71e-422628d689a1"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\misc-pages\\welcome-to-access-self-storage.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/misc-pages/welcome-to-access-self-storage.jpg",
-        "Skipped":  false,
-        "MediaId":  "26f13d80-884f-4070-bd00-e575acb9c335"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\misc-pages\\student-storage.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/misc-pages/student-storage.jpg",
-        "Skipped":  false,
-        "MediaId":  "d306d495-2ef0-486a-b606-912eb834e81a"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\misc-pages\\access-storage-home-move.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/misc-pages/access-storage-home-move.jpg",
-        "Skipped":  false,
-        "MediaId":  "a007b152-d749-4a61-8d10-1ca171a51288"
-    },
-    {
-        "Path":  "C:\\Projects\\XMC\\Arhurst SAI\\sli-csdk-verticals\\authoring\\items\\access-storage\\serialized-content\\media-library\\access-storage\\access-storage\\images\\campaigns\\storage-page\\self-storage-access-self-storage-near-me.yml",
-        "Url":  "https://www.accessstorage.com/-/media/images/campaigns/storage-page/self-storage-access-self-storage-near-me.jpg",
-        "Skipped":  false,
-        "MediaId":  "280eb796-08f5-405f-87e3-d91a25aa0e8e"
+        "MediaId":  "b62d29c5-e5e0-4358-aae6-daf0110fdbcb"
     }
 ]
